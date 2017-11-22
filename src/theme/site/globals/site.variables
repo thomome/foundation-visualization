@@ -1,0 +1,9 @@
+@primaryColor: #069;
+@secondaryColor: #757575;
+
+@linkColor: #069;
+
+@black: #333;
+
+@emSize: 16px;
+@fontSize: 16px;

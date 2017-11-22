@@ -1,0 +1,19 @@
+{
+  "title": "Environmental research groups in Switzerland",
+  "research_group": "Research group",
+  "topic": "Research Topics",
+  "institution": "Institution",
+  "department": "Departement",
+  "institute": "Institute",
+  "canton": "Canton",
+  "head": "Head",
+  "website": "Website",
+  "group": "Group",
+  "sort_by": "Sort by",
+  "export": "Export results",
+  "show_more": "Show More",
+  "show_more_hint": "[amount] of [total] groups",
+  "no_results": "No results found.",
+  "export_name": "environmental_research_groups",
+  "source_message": "The underlying list of research groups is based on user-defined query from the environmental research database published by the Swiss Federal Office for the Environment FOEN.  Please quote the Swiss Federal Office for the Environment for any use of these data."
+}

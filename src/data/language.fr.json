@@ -1,0 +1,19 @@
+{
+  "title": "Groupes de recherche sur l’environnement en Suisse",
+  "research_group": "Groupe de recherche",
+  "topic": "Thèmes de recherche",
+  "institution": "Institution de recherche",
+  "department": "Département",
+  "institute": "Institut",
+  "canton": "Canton",
+  "head": "Chef/Cheffe",
+  "website": "Site web",
+  "group": "Groupe",
+  "sort_by": "Classification par",
+  "export": "Export des résultats",
+  "show_more": "Plus",
+  "show_more_hint": "[amount] de [total] groupes",
+  "no_results": "Aucun résultat trouvé.",
+  "export_name": "groupes_de_recherche_sur_l_environnement",
+  "source_message": "La liste de groupes de recherche suivante  est basé sur une réquête réalisée sur la base de données de la recherche environnementale publiée par l'office fédéral suisse de l'environnement OFEV. Veuillez s'il vous plaît mentionner l'office fédéral suisse de l'environnement pour toute utilisation de ces données."
+}
