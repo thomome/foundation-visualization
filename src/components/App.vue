@@ -6,14 +6,15 @@
         <div class="fields">
           <div class="fifteen wide field">
             <div class="three fields">
-              <foundation-filter :data="this.$store.getters.scopes2" label="scope2" icon="tags"></foundation-filter>
-              <foundation-filter :data="this.$store.getters.scopes1" label="scope1" icon="tags"></foundation-filter>
-              <foundation-filter :selectType="'chain'" :data="this.$store.getters.innochains" label="innochain" icon="tags"></foundation-filter>
+              <foundation-select size="five" :data="this.$store.getters.scopes2" label="scope2" icon="tags"></foundation-select>
+              <foundation-select size="five" :data="this.$store.getters.scopes1" label="scope1" icon="tags"></foundation-select>
+              <foundation-filter v-if="chainType == 1" selectType="chain" :data="this.$store.getters.innochains" label="innochain" icon="rocket"></foundation-filter>
+              <foundation-filter v-if="chainType == 2" selectType="chain" :data="this.$store.getters.educhains" label="educhain" icon="graduation cap"></foundation-filter>
             </div>
             <transition name="slide">
               <div class="two fields" v-show="extended || forceExtended">
-                <foundation-filter :data="this.$store.getters.recipients" label="recipient" icon="marker"></foundation-filter>
-                <foundation-filter :data="this.$store.getters.grants" label="grant" icon="user"></foundation-filter>
+                <foundation-filter :data="this.$store.getters.recipients" label="recipient" icon="user"></foundation-filter>
+                <foundation-filter :data="this.$store.getters.grants" label="grant" icon="gift"></foundation-filter>
               </div>
             </transition>
           </div>
@@ -43,6 +44,7 @@
   import FoundationFilter from './FoundationFilter.vue'
   import FoundationMap from './FoundationMap.vue'
   import FoundationList from './FoundationList.vue'
+  import FoundationSelect from './FoundationSelect.vue'
 
   export default {
     name: 'app',
@@ -56,6 +58,9 @@
     computed: {
       forceExtended(){
         return this.$store.state.recipient.selected.length > 0 || this.$store.state.grant.selected.length > 0
+      },
+      chainType(){
+        return this.$store.state.scope1.selected.length > 0 ? this.$store.state.scope1.selected[0] : null
       }
     },
     methods: {
@@ -70,7 +75,7 @@
       }
     },
     components: {
-      FoundationMap, FoundationList, FoundationFilter
+      FoundationMap, FoundationList, FoundationFilter, FoundationSelect
     },
     mounted: function(){
       this.$store.dispatch('loadLanguage')
