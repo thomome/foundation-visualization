@@ -139,22 +139,105 @@ export const store = new Vuex.Store({
 
     foundations(state, getters) {
       const allF = getters.allFoundations
+      const slcR = state.recipient.selected
+      const slcG = state.grant.selected
+      const slcS1 = state.scope1.selected
+      const slcS2 = state.scope2.selected
+      const slcI = state.innochain.selected
+      const slcE = state.educhain.selected
 
       let foundations = []
       let recipients = []
+      const tempR = {}
       let grants = []
+      const tempG = {}
       let scopes1 = []
+      const tempS1 = {}
       let scopes2 = []
+      const tempS2 = {}
       let innochains = []
+      const tempI = {}
       let educhains = []
+      const tempE =  {}
 
-      foundations = allF
-      recipients = state.recipient.list
-      grants = state.grant.list
-      scopes1 = state.scope1.list
-      scopes2 = state.scope2.list
-      innochains = state.innochain.list
-      educhains = state.educhain.list
+      if(slcR.length === 0 && slcG.length === 0 && slcS1.length === 0 && slcS2.length === 0 && slcI.length === 0 && slcE.length === 0){
+        foundations = allF
+        recipients = state.recipient.list
+        grants = state.grant.list
+        scopes1 = state.scope1.list
+        scopes2 = state.scope2.list
+        innochains = state.innochain.list
+        educhains = state.educhain.list
+      } else {
+
+        allF.forEach((v) => {
+          const checkRecipient = (slcR.length === 0 || intersect(slcR, v.recipientIds).length > 0)
+          const checkGrant = (slcG.length === 0 || intersect(slcG, v.grantIds).length > 0)
+          const checkScope1 = (slcS1.length === 0 || intersect(slcS1, v.scope1Ids).length > 0)
+          const checkScope2 = (slcS2.length === 0 || intersect(slcS2, v.scope2Ids).length > 0)
+          const checkInnochain = (slcI.length === 0 || intersect(slcI, v.innochainIds).length > 0)
+          const checkEduchain = (slcE.length === 0 || intersect(slcE, v.educhainIds).length > 0)
+
+          if(checkRecipient && checkGrant && checkScope1 && checkScope2 && checkInnochain && checkEduchain){
+            foundations.push(v)
+          }
+
+          if(checkGrant && checkScope1 && checkScope2 && checkInnochain && checkEduchain){
+            v.recipientIds.forEach(id => {
+              if(!tempR[id]){
+                tempR[id] = true
+                recipients.push(id)
+              }
+            })
+          }
+
+          if(checkRecipient && checkScope1 && checkScope2 && checkInnochain && checkEduchain){
+            v.grantIds.forEach(id => {
+              if(!tempG[id]){
+                tempG[id] = true
+                grants.push(id)
+              }
+            })
+          }
+
+          if(checkRecipient && checkGrant && checkScope2 && checkInnochain && checkEduchain){
+            v.scope1Ids.forEach(id => {
+              if(!tempS1[id]){
+                tempS1[id] = true
+                scopes1.push(id)
+              }
+            })
+          }
+
+          if(checkRecipient && checkGrant && checkScope1 && checkInnochain && checkEduchain){
+            v.scope2Ids.forEach(id => {
+              if(!tempS2[id]){
+                tempS2[id] = true
+                scopes2.push(id)
+              }
+            })
+          }
+
+          if(checkRecipient && checkGrant && checkScope1 && checkScope2 && checkEduchain){
+            v.innochainIds.forEach(id => {
+              if(!tempI[id]){
+                tempI[id] = true
+                innochains.push(id)
+              }
+            })
+          }
+
+          if(checkRecipient && checkGrant && checkScope1 && checkScope2 && checkInnochain){
+            v.educhainIds.forEach(id => {
+              if(!tempE[id]){
+                tempE[id] = true
+                educhains.push(id)
+              }
+            })
+          }
+
+        })
+      }
 
       Vue.set(state.recipient, 'available', recipients)
       Vue.set(state.grant, 'available', grants)
@@ -213,6 +296,7 @@ export const store = new Vuex.Store({
                 scope2Ids: foundation.scope2Ids ? foundation.scope2Ids.toString().split(',').map(id => parseInt(id)) : [],
                 innochainIds: foundation.innochainIds ? foundation.innochainIds.toString().split(',').map(id => parseInt(id)) : [],
                 educhainIds: foundation.educhainIds ? foundation.educhainIds.toString().split(',').map(id => parseInt(id)) : [],
+                website: foundation.website.trim(),
                 coords: {
                   lat: foundation.coords ? parseFloat(foundation.coords.toString().split(',')[0]) : 0,
                   lng: foundation.coords ? parseFloat(foundation.coords.toString().split(',')[1]) : 0
