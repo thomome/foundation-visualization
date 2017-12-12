@@ -1,5 +1,5 @@
 <template>
-  <div class="eight wide field">
+  <div :class="[size ? size : 'eight', 'wide', 'field']">
     <label>
       <i :class="[icon, 'icon']"></i> <span>{{ title }}</span>
     </label>
@@ -7,7 +7,11 @@
     <div tabindex="-1" ref="dropdown" :class="[isLoading ? 'loading':'', active ? 'active visible':'', 'ui fluid multiple search selection dropdown']" @focus="setActive()">
       <i class="dropdown icon"></i>
 
-      <a v-for="sel in selectedWidthInfo" :key="`sel.${label}.${sel.id}`" class="ui label large transition visible" :data-value="sel.id">
+      <a
+        v-for="sel in selectedWidthInfo"
+        :key="`sel.${label}.${sel.id}`"
+        class="ui label large transition visible"
+        :data-value="sel.id">
         {{sel.name}} <span v-if="sel.short">({{sel.short}})</span><i class="delete icon" @click="removeSelected(sel.id)"></i>
       </a>
 
@@ -16,7 +20,19 @@
 
       <div v-show="active" class="menu active visible" ref="menu">
         <template v-if="active">
-          <div v-for="opt in options" :key="`opt.${label}.${opt.id}`" :class="[opt.main ? 'bold' : '', opt.id === options[index].id ? 'selected':'', selectType == 'chain' ? 'chain': '', 'item']" :data-value="opt.id" @click="addSelected(opt.id)">
+          <div
+            v-for="opt in options"
+            :key="`opt.${label}.${opt.id}`"
+            :class="[
+              opt.main ? 'bold' : '',
+              opt.id === options[index].id ? 'selected':'',
+              selectType,
+              $store.state[label].selected.indexOf(opt.id) !== -1 ? 'chain-active' : '',
+              'item'
+            ]"
+            :data-value="opt.id"
+            @click="addSelected(opt.id)"
+          >
             {{ opt.name }} <span v-if="opt.short">({{opt.short}})</span>
           </div>
           <div v-if="options.length < 1" class="message">{{ noResults }}</div>
@@ -33,7 +49,7 @@
 
   export default {
     name: 'foundation-filter',
-    props: ['data','label', 'icon', 'selectType'],
+    props: ['data','label', 'icon', 'selectType', 'size'],
     data: function(){
       return {
         active: false,
@@ -57,11 +73,15 @@
         }
       },
       addSelected(id) {
-        const selected = this.selected.map(id => id);
-        selected.push(id)
-        this.selected = selected
-        this.query = ''
-        this.index = 0
+        if(this.$store.state[this.label].selected.indexOf(id) === -1){
+          const selected = this.selected.map(id => id);
+          selected.push(id)
+          this.selected = selected
+          this.query = ''
+          this.index = 0
+        } else {
+          this.removeSelected(id)
+        }
       },
       removeSelected(id) {
         const selected = this.selected.map(id => id)
@@ -97,13 +117,14 @@
       },
       options(){
         const amount = this.amountToShow
-        const options = this.data.sort(sortLocale('name')).filter((o) => {
+        let options = this.selectType !== 'chain' ? this.data.sort(sortLocale('name')) : this.data.sort((a,b) => { return a.id-b.id })
+        options = options.filter((o) => {
           const name = accentFold(o.name.toLowerCase())
           const short = o.short ? accentFold(o.short.toLowerCase()) : ""
           const query = accentFold(this.query.toLowerCase())
 
           return (
-            (this.$store.state[this.label].selected.indexOf(o.id) === -1) &&
+            (this.$store.state[this.label].selected.indexOf(o.id) === -1 || this.selectType == 'chain') &&
             (name.indexOf(query) !== -1 || short.indexOf(query) !== -1))
         }).slice(0, amount)
         return options
@@ -158,6 +179,7 @@
 <style lang="less">
   .ui.selection.dropdown {
     .menu {
+      max-height: 24em !important;
       &>.item {
         &.bold {
           font-weight: 900;
@@ -165,6 +187,19 @@
         &.chain {
           position: relative;
           padding-left: 40px !important;
+
+          &.chain-active {
+            background: #666;
+            border-top-color: #5f5f5f;
+            color: #fff;
+
+            &::after {
+              border-color: #fff;
+            }
+            &::before {
+              border-color: #fff;
+            }
+          }
 
           &::after {
             position: absolute;
