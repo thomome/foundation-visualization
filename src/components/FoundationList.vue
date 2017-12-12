@@ -170,6 +170,10 @@
     position: relative;
     z-index: 900;
 
+    .menu.active.visible {
+      display: block;
+    }
+
     .ui.header {
       margin-top: 0;
     }
