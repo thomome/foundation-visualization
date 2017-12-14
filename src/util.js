@@ -4,6 +4,8 @@ function sortLocale(opt, dir) {
   if (typeof(opt) == 'string') {
     const key = opt
     return (a, b) => {
+      if(typeof(a[key]) == 'string') a[key] = a[key].replace(/["\(\)]/g, '')
+      if(typeof(b[key]) == 'string') b[key] = b[key].replace(/["\(\)]/g, '')
       if (!a[key] || !b[key]) return false
       return a[key].localeCompare(b[key]) * mult
     }
