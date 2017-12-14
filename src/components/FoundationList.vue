@@ -5,7 +5,7 @@
         <i class="icon download"></i>{{ term('export') }} (CSV)
       </button>
       <div class="ui label">
-        <i class="icon users"></i> {{ numFoundations }}
+        {{ numFoundations }} {{ term('foundations') }}
       </div>
     </div>
     <div class="ui vertical segment clearing right aligned small-padding">
@@ -68,6 +68,10 @@
           {
             label: 'che_number',
             sort_key: 'cheNumber',
+          },
+          {
+            label: 'canton',
+            sort_key: 'regionCanton',
           }
         ],
         amountToShow: 15,
@@ -136,16 +140,20 @@
         for(let i = 0; i < foundationsLength; i++){
           const foundation = this.foundations[i]
           const row = {
-            [this.term('foundation')]: group.name,
-            [this.term('head')]: group.heads.map(head => head.name).join(', '),
-            [this.term('institution')]: group.institution,
-            [this.term('department')]: group.department,
-            [this.term('institute')]: group.institute,
-            [this.term('canton')]: group.canton,
-            [this.term('website')]: group.website,
-            [this.term('topic')]: group.topics.map(topic => topic.name).join(', '),
-            Latitude: group.coords.lat,
-            Longitude: group.coords.lng
+            [this.term('foundation')]: foundation.name,
+            [this.term('che_number')]: foundation.cheNumber,
+            [this.term('grant')]: foundation.grants.map(g => g.name).join(', '),
+            [this.term('recipient')]: foundation.recipients.map(r => r.name).join(', '),
+            [this.term('region')]: foundation.region.name,
+            [this.term('canton')]: foundation.regionCanton,
+            [this.term('town')]: foundation.regionTown,
+            [this.term('scope1')]: foundation.scopes1.map(s => s.name).join(', '),
+            [this.term('scope2')]: foundation.scopes2.map(s => s.name).join(', '),
+            [this.term('innochain')]: foundation.innochains.map(i => i.name).join(', '),
+            [this.term('educhain')]: foundation.educhains.map(e => e.name).join(', '),
+            [this.term('website')]: foundation.website,
+            Latitude: foundation.coords.lat,
+            Longitude: foundation.coords.lng
           }
           table.push(row)
         }
@@ -182,6 +190,14 @@
     }
     .ui.button.thin {
       font-weight: normal;
+    }
+    .ui.breadcrumb.chain-breadcrumb {
+      line-height: 1.35em;
+      margin-bottom: 1em;
+
+      .divider {
+        color: #888;
+      }
     }
 
     .ui.labels {
