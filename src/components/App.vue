@@ -7,9 +7,9 @@
           <div class="fifteen wide field">
             <div class="three fields">
               <foundation-select size="five" :data="this.$store.getters.scopes2" label="scope2" icon="tags"></foundation-select>
-              <foundation-select size="five" :data="this.$store.getters.scopes1" label="scope1" icon="tags"></foundation-select>
-              <foundation-filter v-if="chainType == 1" selectType="chain" :data="this.$store.getters.innochains" label="innochain" icon="rocket"></foundation-filter>
-              <foundation-filter v-if="chainType == 2" selectType="chain" :data="this.$store.getters.educhains" label="educhain" icon="graduation cap"></foundation-filter>
+              <foundation-select size="five" :data="this.$store.getters.scopes1" label="scope1" icon="chain"></foundation-select>
+              <foundation-filter v-show="chainType == 1" selectType="chain" :data="this.$store.getters.innochains" label="innochain" icon="rocket"></foundation-filter>
+              <foundation-filter v-show="chainType == 2" selectType="chain" :data="this.$store.getters.educhains" label="educhain" icon="graduation cap"></foundation-filter>
             </div>
             <transition name="slide">
               <div class="two fields" v-show="extended || forceExtended">
