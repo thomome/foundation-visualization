@@ -131,30 +131,54 @@
         const vueObj = this;
 
         this.popup = L.popup({
-          autoClose: false,
+          autoClose: true,
           minWidth: 440,
           autoPanPadding: L.point(50,50)
         }).setContent(function(){
           const id = this._source.data.id;
           const data = vueObj.$store.getters.foundationById(id)
           const term = vueObj.$store.getters.term
-          //const scopes1 = data.scopes1.map(scope1 => scope1.name).join(', ')
+
+          let cheLabel = ''
+          if(data.cheNumber != 0) {
+            cheLabel = `
+              <a target="_blank" class="ui label tiny primary basic che-label" href="https://www.uid.admin.ch/Detail.aspx?uid_id=${data.cheNumber.replace(/[.-]/g, '')}">
+                <i class="icon arrow right"></i>${data.cheNumber}
+              </a>`
+          }
+          let title = data.name
+          if(data.website) {
+            title = `
+              <a target="_blank" href="${data.website}">
+                ${data.name}
+                <sup><i class="icon external"></i></sup>
+              </a>`
+          }
+          let region = data.region.name
+          if(data.regionId === 1 || data.regionId === 2) {
+            region = `${data.region.name} (${data.regionTown})`
+          } else if(data.regionId === 3) {
+            region = `${data.region.name} (${data.regionCanton})`
+          }
+
           let content = `
             <div class="ui segment basic vertical">
-              <h4 class="ui header">`
-          if(data.cheNumber != 0) content += `<a target="_blank" href="https://www.uid.admin.ch/Detail.aspx?uid_id=${data.cheNumber.replace(/[.-]/g, '')}">`
-          content += `${data.name}`
-          if(data.cheNumber != 0) content += `<sup><i class="icon external"></i></sup></a>`
-          content += `
-                <div class="sub header"></div>
+              <h4 class="ui header">
+                ${ cheLabel }
+                ${ title }
+                <div class="sub header">
+                  ${data.scopes2.map(s => s.name).join(' & ')} | ${data.scopes1.map(s => s.name).join(' & ')}
+                </div>
               </h4>
               <div class="content">
-                <p><strong></strong></p>
                 <p class="ui divider"></p>
-                <p class="keywords"></p>
+                <p class="keywords">
+                  ${ term('grant') }: <strong>${data.grants.map(g => g.name).join(', ')}</strong><br>
+                  ${ term('recipient') }: <strong>${data.recipients.map(r => r.name).join(', ')}</strong></br>
+                  ${ term('region') }: <strong>${ region }</strong><br>
+                </p>
               </div>
             </div>`
-
           return content
         })
       },
@@ -258,8 +282,25 @@
       width: 100%;
       height: 100%;
 
+      .leaflet-popup-close-button {
+        right: -30px;
+        padding: 10px;
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+        line-height: 10px;
+        color: #fff;
+        text-decoration: none;
+        font-weight: normal;
+        background: #444;
+        box-sizing: border-box;
+        border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
+      }
+
       .leaflet-popup-content-wrapper {
         border-radius: 3px;
+        border-top-right-radius: 0;
 
         .leaflet-popup-content {
           max-width: 70vw;
@@ -267,10 +308,16 @@
           margin: 0 !important;
           box-sizing: border-box;
 
+          .che-label {
+            float: right
+          }
+
           .segment {
             padding: 0;
 
             .header, .content {
+              clear: both;
+
               @media (max-width: 768px){
                 font-size: 0.7em;
               }
@@ -294,8 +341,8 @@
 
 
       .map-cluster-bounds {
-        fill: hsla(22, 34%, 40%, 1);
-        stroke: hsla(22, 34%, 40%, 1);
+        fill: hsla(115, 37%, 55%, 1);
+        stroke: hsla(115, 37%, 55%, 1);
         fill-opacity: 1;
         stroke-opacity: 1;
         stroke-width: 0;
@@ -308,17 +355,17 @@
         box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.4);
 
         &.large {
-          background: hsla(22, 22%, 27%, 1);
+          background: hsla(115, 37%, 25%, 1);
           line-height: 50px;
           font-size: 18px;
         }
         &.regular {
-          background: hsla(22, 28%, 32%, 1);
+          background: hsla(115, 37%, 35%, 1);
           line-height: 45px;
           font-size: 16px;
         }
         &.small {
-          background: hsla(22, 34%, 40%, 1);
+          background: hsla(115, 37%, 45%, 1);
           line-height: 40px;
           font-size: 14px;
         }
@@ -331,10 +378,10 @@
           display: block;
           width: 100%;
           height: 100%;
-          color: hsla(22, 54%, 60%, 1);
+          color: hsla(115, 80%, 70%, 1);
 
           .dot {
-            fill: hsla(22, 22%, 27%, 1);
+            fill: hsla(115, 37%, 32%, 1);
           }
         }
       }
