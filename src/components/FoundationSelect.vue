@@ -11,7 +11,6 @@
 
       <div v-show="active" class="menu active visible" ref="menu">
         <template v-if="active">
-          <div class="item" @click="removeSelected()"></div>
           <div
             v-for="opt in options"
             :key="`opt.${label}.${opt.id}`"
@@ -21,9 +20,8 @@
               'item'
             ]"
             :data-value="opt.id"
-            @click="setSelected(opt.id)"
-          >
-            {{ opt.name }} <span v-if="opt.short">({{opt.short}})</span>
+            @click="setSelected(opt.id)" v-html="opt.name"
+          ><span v-if="opt.short">({{opt.short}})</span>
           </div>
         </template>
       </div>
@@ -54,7 +52,7 @@
         } else if(e.which === 40){
           if(this.index < this.options.length-1) this.index++
         } else if(e.which === 38){
-          if(this.index > 0) this.index--
+          if(this.index > -1) this.index--
         } else if(e.which === 8){
           if(this.query.length < 1){
             if(this.selected.length > 0) this.removeSelected(this.selected[this.selected.length-1])
@@ -62,8 +60,11 @@
         }
       },
       setSelected(id) {
-        this.selected = [id]
-        this.index = 0
+        if(id){
+          this.selected = [id]
+        } else {
+          this.removeSelected()
+        }
         this.$refs.dropdown.blur()
       },
       removeSelected(id) {
@@ -73,7 +74,11 @@
       },
       setActive(e){
         this.active = true
-        this.index = 0
+        if(this.selected[0]){
+          this.index = this.options.map(o => o.id).indexOf(this.selected[0])
+        } else {
+          this.index = 0
+        }
       },
       setInactive(e){
         const relatedTarget = e.relatedTarget || e.explicitOriginalTarget || document.activeElement
@@ -95,6 +100,7 @@
       options(){
         const amount = this.amountToShow
         const options = this.data.sort(sortLocale('name')).slice(0, amount)
+        options.unshift({id: null, name: '&nbsp;' })
         return options
       },
       selected: {
