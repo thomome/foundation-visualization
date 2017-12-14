@@ -101,7 +101,7 @@ export const store = new Vuex.Store({
       })
     },
     regions(state){
-      return state.region.available.map(id => {
+      return state.region.list.map(id => {
         const region = state.region.data[id]
         region.name = region[state.language.selected]
         return region
@@ -118,8 +118,15 @@ export const store = new Vuex.Store({
     foundationById(state, getters){
       return (id) => {
         const foundation = state.foundation.data[id]
+        const regions = getters.regions;
+        const recipients = getters.recipients;
+        const grants = getters.grants;
+        const scopes1 = getters.scopes1;
+        const scopes2 = getters.scopes2;
+        const innochains = getters.innochains;
+        const educhains = getters.educhains;
 
-        foundation.region = state.region.data[foundation.regionId].name
+        foundation.region = state.region.data[foundation.regionId]
         foundation.recipients = foundation.recipientIds.map(recipient_id => state.recipient.data[recipient_id])
         foundation.grants = foundation.grantIds.map(grant_id => state.grant.data[grant_id])
         foundation.scopes1 = foundation.scope1Ids.map(scope1_id => state.scope1.data[scope1_id])
