@@ -9,7 +9,7 @@
     </a>
     <h4 class="ui header">
       <a target="_blank" v-if="foundation.website" :href="foundation.website">{{ foundation.name }} <sup><i class="icon external"></i></sup></a>
-      <span v-if="!foundation.website">{{ foundation.name }}</span>
+      <span style="color: #069;" v-if="!foundation.website">{{ foundation.name }}</span>
 
       <div class="sub header">
         {{ scopes }}
