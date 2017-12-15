@@ -1,0 +1,22 @@
+{
+  "title": "Cleantech Stiftungen Schweiz",
+  "scope1": "Kette",
+  "scope2": "Wirkungsbereich",
+  "recipient": "Empfänger",
+  "grant": "Fördertyp",
+  "educhain": "Bildungskette",
+  "innochain": "Innovationskette",
+  "foundation": "Stiftung",
+  "foundations": "Stiftungen",
+  "che_number": "UID-Register",
+  "canton": "Kanton",
+  "town": "Ortschaft",
+  "region": "Geografisches Wirkungsgebiet",
+  "sort_by": "Sortieren nach",
+  "export": "Ergebnisse Exportieren",
+  "show_more": "Mehr Anzeigen",
+  "show_more_hint": "[amount] von [total] Stiftungen",
+  "no_results": "Keine Ergebnisse gefunden.",
+  "export_name": "cleantech_stiftungen",
+  "source_message": "Die vorliegende Liste von Stiftungen basiert auf benutzerdefinierten Abfragen aus der Cleantech Stiftungsdatenbank des schweizerischen Bundesamts für Umwelt BAFU. Geben Sie bei jeglicher Benutzung dieser Daten das schweizerische Bundesamts für Umwelt als Quelle an."
+}

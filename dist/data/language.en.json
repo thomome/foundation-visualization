@@ -1,0 +1,22 @@
+{
+  "title": "Cleantech Foundations in Switzerland",
+  "scope1": "Chain",
+  "scope2": "Scope",
+  "recipient": "Recipient",
+  "grant": "Grant type",
+  "educhain": "Education chain",
+  "innochain": "Innovation chain",
+  "foundation": "Foundation",
+  "foundations": "Foundations",
+  "che_number": "UID-Register",
+  "canton": "Canton",
+  "town": "Town",
+  "region": "Geographic region of influence",
+  "sort_by": "Sort by",
+  "export": "Export results",
+  "show_more": "Show More",
+  "show_more_hint": "[amount] of [total] Foundations",
+  "no_results": "No results found.",
+  "export_name": "cleantech_foundations",
+  "source_message": "The underlying list of foundations is based on user defined query from the cleantech foundation database published by the Swiss Federal Office for the Environment FOEN.  Please quote the Swiss Federal Office for the Environment for any use of these data."
+}

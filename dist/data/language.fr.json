@@ -1,0 +1,22 @@
+{
+  "title": "Foundations de Cleantech en Suisse",
+  "scope1": "Chaîne",
+  "scope2": "Portée",
+  "recipient": "Bénéficiaire",
+  "grant": "Type de subvention",
+  "educhain": "Chaîne d'éducation",
+  "innochain": "Chaîne d'innovation",
+  "foundation": "Fondation",
+  "foundations": "Fondations",
+  "che_number": "UID-Register",
+  "canton": "Canton",
+  "town": "Village",
+  "region": "Région géographique d'influence",
+  "sort_by": "Classification par",
+  "export": "Export des résultats",
+  "show_more": "Plus",
+  "show_more_hint": "[amount] de [total] fondations",
+  "no_results": "Aucun résultat trouvé.",
+  "export_name": "foundations_de_cleantech",
+  "source_message": "La liste de foundations suivante  est basé sur une réquête réalisée sur la base de données de la foundations de cleantech publiée par l'office fédéral suisse de l'environnement OFEV. Veuillez s'il vous plaît mentionner l'office fédéral suisse de l'environnement pour toute utilisation de ces données."
+}

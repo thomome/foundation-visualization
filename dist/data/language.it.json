@@ -1,0 +1,22 @@
+{
+  "title": "Fondazioni di Cleantech in Svizzera",
+  "scope1": "Catena",
+  "scope2": "Scopo",
+  "recipient": "Ricevitore",
+  "grant": "Tipo di sovvenzione",
+  "educhain": "Catena di formazione",
+  "innochain": "Catena dell'innovazione",
+  "foundation": "Fondazione",
+  "foundations": "Fondazioni",
+  "che_number": "UID-Registrare",
+  "canton": "Cantone",
+  "town": "Villaggio",
+  "region": "Area geografica di influenza",
+  "sort_by": "Ordinare per",
+  "export": "Esportazione risultati",
+  "show_more": "Mostra Altro",
+  "show_more_hint": "[amount] su [total] fondazioni",
+  "no_results": "Nessun risultato trovato.",
+  "export_name": "fondazioni_di_cleantech",
+  "source_message": "La sottostante lista dei fondazioni deriva di una base di dati pubblica dell Ufficio federale dell'ambiente UFAM. Si prega di citare l' Ufficio federale dell'ambiente UFAM per qualsiasi uso di questa base di dati."
+}
