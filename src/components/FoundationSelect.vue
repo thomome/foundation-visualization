@@ -4,7 +4,7 @@
       <i :class="[icon, 'icon']"></i> <span>{{ title }}</span>
     </label>
 
-    <div tabindex="-1" ref="dropdown" @keydown="addFirstSelected($event)" @blur="setInactive($event)" :class="[isLoading ? 'loading':'', active ? 'active visible':'', 'ui fluid selection dropdown']" @focus="setActive()">
+    <div tabindex="-1" ref="dropdown" @keydown="addFirstSelected($event)" @focus="setActive()" @blur="setInactive($event)" :class="[isLoading ? 'loading':'', active ? 'active visible':'', 'ui fluid selection dropdown']">
       <i class="dropdown icon"></i>
 
       <div class="text" v-if="selected.length > 0">{{selectedWidthInfo.name}}</div>
@@ -81,13 +81,9 @@
         }
       },
       setInactive(e){
-        const relatedTarget = e.relatedTarget || e.explicitOriginalTarget || document.activeElement
-        if(!relatedTarget || !this.$refs.dropdown.contains(relatedTarget)){
-
-          this.active = false
-          this.$refs.menu.scrollTop = 0
-          this.amountToShow = 10
-        }
+        this.active = false
+        this.$refs.menu.scrollTop = 0
+        this.amountToShow = 10
       }
     },
     computed: {
