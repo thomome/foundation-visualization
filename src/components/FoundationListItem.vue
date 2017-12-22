@@ -21,7 +21,7 @@
         <div class="ui breadcrumb small chain-breadcrumb">
           <template v-for="(innochain, index) in foundation.innochains">
             <div class="section">{{ innochain.name }}</div>
-            <div v-if="index+1 < foundation.innochains.length" class="divider">&shy;/&shy;</div>
+            <div v-if="index+1 < foundation.innochains.length" class="divider">&shy;|&shy;</div>
           </template>
         </div>
       </div>
@@ -30,7 +30,7 @@
         <div class="ui breadcrumb small chain-breadcrumb">
           <template v-for="(educhain, index) in foundation.educhains">
             <div class="section">{{ educhain.name }}</div>
-            <div v-if="index+1 < foundation.educhains.length" class="divider">&shy;/&shy;</div>
+            <div v-if="index+1 < foundation.educhains.length" class="divider">&shy;|&shy;</div>
           </template>
         </div>
       </div>
