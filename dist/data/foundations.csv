@@ -1,655 +1,656 @@
 ﻿id,name,che_number,region_town,region_canton,regionId,recipientIds,grantIds,scope1Ids,scope2Ids,innochainIds,educhainIds,coords,website
-11,Fondation Odeon,CHE-100.311.788,Genève,Genève,5,"1,2,3,4",1,1,"1,2","1,2",,"46.2012814,6.1419784",
-15,Fondazione Luigi Brentani,CHE-100.641.464,Lugano,Ticino,3,1,5,2,"1,2",,4,"46.0077848,8.9527342",
-16,Stiftung HTW Chur Technik,CHE-100.642.653,Chur,Graubünden,3,1,2,"1,2",2,"2,3,4,5,6",6,"46.8512309,9.5139716",http://www.fhtw-chur.ch/index.php?id=59
-24,Stiftung der Baloise Bank SoBa zur Förderung der solothurnischen Wirtschaft,CHE-100.660.958,Solothurn,Solothurn,3,"1,2,4",5,"1,2","1,2","1,2,3,4,5,6",8,"47.2090871,7.5337835",https://www.baloise.ch/de/ueber-uns/engagement/stiftung-baloise-bank-soBa.html
-26,Dr. Henri und Andrée Schramek-Frank Stiftung,CHE-100.675.598,Basel,Basel-Stadt,2,2,1,"1,2",2,1,"5,6","47.5523996,7.5938029",
-30,Schweizerische Stiftung zur Förderung des biologischen Pflanzenschutzes (SFBP),CHE-100.703.674,Zürich,Zürich,5,"1,2,3,4",2,1,2,"1,2,3,4,5,6",,"47.3774386,8.5487444",
-35,Volkart Stiftung,CHE-100.707.778,Winterthur,Zürich,5,3,2,1,2,"1,2,3,4,5,6",,"47.5004345,8.7253166",http://www.volkart.ch/
-36,STIFTUNG FUTUR,CHE-100.800.604,Rapperswil,St. Gallen,2,"1,2,4","1,2,4,5",1,"1,2","2,3,4,5,6",,"47.2278251,8.8178887",http://www.futur.ch/
-37,Solidarité Universitaire pour le Développement-SUD,CHE-100.856.645,Lausanne,Vaud,5,"2,3",1,"1,2",1,1,"5,6","46.5417954,6.6544537",
-42,Stiftung zur Förderung der Forschung und Ausbildung in Unternehmenswissenschaften an der ETH Zürich,CHE-101.003.237,Zürich,Zürich,3,"1,2","1,4","1,2","1,2","1,2",5,"47.3677948,8.5454725",
-44,Anna Maria und Karl Kramer-Stiftung,CHE-101.014.703,Zürich,Zürich,2,3,1,"1,2",2,"1,2",8,"47.3877193,8.5398614",http://www.kramer-stiftung.ch/
-51,Fondation Ernest Boninchi,CHE-101.141.649,Genève,Genève,3,1,4,2,"1,2",,5,"46.1996468,6.1422246",http://wadme.unige.ch:3149/pls/opdinf/pbsfiche20w$pbs_fiche.QueryViewByKey?P_FICHE_ID=291&Z_CHK=38378
-60,Stiftung Reiken-Patronat für akademische Nachdiplom- und Doktorandenstudien,CHE-101.308.263,Langnau am Albis,Zürich,5,"1,2","2,4",2,"1,2",,5,"47.2935950,8.5363970",
-67,Fondation Agassiz,CHE-101.647.392,Lausanne,Vaud,3,1,4,2,2,,5,"46.5210895,6.5801606",https://www.unil.ch/agassiz/home.html
-68,"Experiment für eine humane Erde, Stiftung für Kultur und Forschung",CHE-101.655.210,Weinfelden,Thurgau,6,"1,2,3,4",2,"1,2",2,"1,2,3,4",8,"47.5671975,9.1062249",
-69,Kugler-Werdenberg-Stiftung,CHE-101.657.195,Basel,Basel-Stadt,1,3,2,1,2,1,,"47.5576654,7.5904037",
-71,Fondation pour la protection phytosanitaire,CHE-101.660.607,Cernier,Neuchâtel,4,"2,3","1,2","1,2",2,"1,2,3,4,5,6",8,"47.0586943,6.9081921",
-80,"Stiftung Forschung 3R (Vermindern, Verbessern und Vermeiden von Tierversuchen)",CHE-101.694.411,Münsingen,Bern,4,2,2,1,2,2,,"46.8687184,7.5633802",http://www.forschung3r.ch/index.html
-83,Stiftung Gartenbau,CHE-101.713.563,Wädenswil,Zürich,2,2,2,"1,2",2,2,"4,5,6,7","47.2181101,8.6791294",
-84,Omega Science Foundation,CHE-101.713.706,Biel/Bienne,Bern,5,"2,3","1,2",1,"1,2","1,2",,"47.1439234,7.2606655",
-87,Zürcher Stiftung für Textil-Forschung,CHE-101.728.719,Winterthur,Zürich,4,"1,2,3,4",2,1,2,"2,3,4",,"47.4852218,8.7067133",
-89,Z Zurich Foundation,CHE-101.746.568,Zürich,Zürich,5,3,2,"1,2",2,2,"5,6,7","47.3621159,8.5350277",https://www.zurich.ch/en/about-us/corporate-responsibility/z-zurich-foundation
-95,BERNARD VAN LEER STIFTUNG LUZERN,CHE-101.764.744,Luzern,Luzern,3,3,1,2,2,,8,"47.0540097,8.3096367",https://bernardvanleer.org/
-96,"Stiftung Dr. J.E. Brandenberger, Erfinder des Cellophans, errichtet von seiner Tochter Irma Marthe Brandenberger",CHE-101.768.972,Zürich,Zürich,4,1,5,1,"1,2","1,2",,"47.3795790,8.5456637",http://www.stiftungbrandenberger.ch/index.php/de/
-99,Robert und Ruth Heuberger-Stiftung,CHE-101.776.049,Winterthur,Zürich,4,"2,3",2,"1,2","1,2","1,2,3,4,5,6",8,"47.5050643,8.7255192",http://www.siska.ch/siska/stiftung/
-103,Frey-Clavel-Stiftung,CHE-101.792.798,Basel,Basel-Stadt,2,"1,2,3","1,2,4",1,2,"1,2",,"47.5531664,7.5930150",
-105,Fondation Edmond Adolphe de Rothschild,CHE-101.795.880,Chambésy,Genève,5,3,"1,2,3,4,5","1,2","1,2",,"2,3,4,5,6,7,8","46.2346029,6.1393814",http://www.edrfoundations.org/default-fr.aspx
-106,Fondation Hans Wilsdorf,CHE-101.796.922,Carouge,Genève,2,"1,2,3","2,4",2,2,,"1,2,3,4,5,6,7,8","46.1868060,6.1396679",http://www.agfa-ge.ch/wilsdorf.php
-112,Jubiläumsstiftung der Basellandschaftlichen Kantonalbank,CHE-101.814.684,Liestal,Basel-Landschaft,3,1,"4,5","1,2","1,2","1,2","5,6","47.4858080,7.7318994",https://www.blkb.ch/die-blkb/unsere-engagements/stiftungen/jubilaeumsstiftung
-113,Stiftung Basler Kantonalbank zur Förderung von Forschung und Unterricht der Wirtschaftswissenschaften an der Universität Basel,CHE-101.816.743,Basel,Basel-Stadt,3,1,4,"1,2","1,2","1,2",5,"47.5527270,7.5936211",
-114,Stiftung Pro Flims,CHE-101.817.636,Flims Dorf,Graubünden,2,1,2,2,"1,2",,8,"46.7736657,9.2046202",http://www.kulturfoerderung.ch/fr/address/529/
-115,Bio-Stiftung Schweiz,CHE-101.822.330,Romanshorn,Thurgau,5,3,3,"1,2",2,"1,2,3,4,5,6","4,5,6,7,8","47.5733647,9.3609305",http://www.bio-stiftung.ch/logicio/pmws/indexDOM.php?client_id=biostiftung&page_id=stiftung&lang_iso639=de
-117,"Jetty, Aron und Simon Blum-Stiftung",CHE-101.825.363,Zürich,Zürich,4,"1,3","1,2,4","1,2","1,2","1,2",8,"47.3799729,8.5070149",
-121,Fondation Herbette,CHE-101.835.278,Lausanne,Vaud,3,1,"2,3,4",2,2,,5,"46.5210895,6.5801606",https://www.unil.ch/herbette/fr/home.html
-126,Velux Stiftung,CHE-101.877.236,Zürich,Zürich,5,"1,2,3,4","2,5","1,2","1,2","1,2,3,4,5,6",8,"47.3702563,8.5460822",http://www.veluxstiftung.ch/home/index.php
-128,SWF Stiftung für wissenschaftliche Forschung,CHE-101.893.784,Zürich,Zürich,4,"1,2","2,5",1,"1,2","1,2",,"47.3625255,8.5514523",
-134,Lehrlingsstiftung suissetec aargau Gebäudetechnik-Genossenschaft,CHE-101.922.813,Aarau,Aargau,3,"2,3",1,2,1,,"4,7","47.3882956,8.0499596",
-136,Stiftung Pro Parpan,CHE-101.925.622,Parpan,Graubünden,1,1,"1,4",2,2,,8,"46.7614966,9.5584755",http://www.proparpan.ch/
-140,Stiftung Adrian Girard und dessen Nachkommen Maria Dorer-Girard und Arthur Girard,CHE-101.951.281,Grenchen,Solothurn,1,"1,3","1,2,4",2,2,,"3,4,5,6,7","47.1909612,7.3964567",
-142,Dr. Markus Guggenheim-Schnurr-Stiftung für Geschichte der Medizin und der Naturwissenschaften,CHE-101.953.268,Zürich,Zürich,4,"1,4","1,3,5",1,"1,2","1,2",,"47.3762085,8.5456995",http://www.guggenheim-schnurr.ch/
-143,Berufsbildungsstiftung der VSSM-Fachgruppe Holzgerätebau,CHE-101.953.357,Zürich,Zürich,4,1,4,2,2,,7,"47.3800956,8.5539911",
-144,Albert-Heim-Stiftung,CHE-101.953.446,Bern,Bern,5,"1,2","2,5","1,2",2,"1,2","5,8","46.9421412,7.4489427",http://www.albert-heim-stiftung.ch/cms/
-150,Eugen Meyer-Stiftung,CHE-101.969.996,Willisau,Luzern,1,1,4,2,"1,2",,8,"47.1222577,7.9926824",http://www.eugenmeyer-stiftung.ch/
-152,Stiftung Emilia Guggenheim-Schnurr der Naturforschenden Gesellschaft in Basel,CHE-101.985.541,Basel,Basel-Stadt,2,"1,2,3,4",2,1,"1,2","1,2",,"47.5566907,7.5787092",http://www.ngib.ch/stiftung-egs/
-159,Peter und Anne Koechlin-Stiftung,CHE-102.004.191,Basel,Basel-Stadt,4,1,4,2,"1,2",,"5,6,7","47.5521345,7.6004167",
-170,"Stiftung zur Förderung von Technologiemanagement, Technologiepolitik und Technologietransfer",CHE-102.033.436,St. Gallen,St. Gallen,2,2,1,"1,2","1,2",2,5,"47.4316121,9.3746170",
-175,Fondation H. Dudley Wright,CHE-102.041.312,Genève,Genève,2,"1,2,3",3,"1,2",2,1,8,"46.2017526,6.1540691",http://www.hdwright.org/index.php/fr/
-181,Stiftung Urwaldreservat Bödmeren,CHE-102.077.480,Schwyz,Schwyz,2,2,2,"1,2",2,"1,2",8,"47.0211804,8.6498478",http://www.boedmeren.ch/?page_id=36&lang=de
-184,Gebert Rüf Stiftung,CHE-102.168.898,Zürich,Zürich,4,"2,4",2,1,"1,2","2,3,4,5,6",,"47.3675216,8.5547995",http://www.grstiftung.ch/de.html
-190,"Stiftung ""Ponte Projektfonds""",CHE-102.644.611,Zürich,Zürich,2,1,2,1,1,,,"47.3734407,8.5196461",http://www.ponteprojektfonds.ch/
-216,Stiftung Lauerzersee,CHE-103.992.210,Schwyz,Schwyz,2,"2,3",2,"1,2",2,"1,2",8,"47.0124072,8.6576729",http://www.pronatura-sz.ch/lauerzersee
-219,Stiftung zur Förderung der Berufsausbildung im Strassenbau und in der Strassenverkehrstechnik,CHE-104.015.596,Zürich,Zürich,4,"1,2","1,4,5",2,2,,"6,7","47.3879283,8.5287508",http://www.vss.ch/fileadmin/redacteur/Alle_Files/VSS/VSS_2014.05.07_VSS_Stiftungsurkunde_d-f.pdf
-225,Gust und Lyn Guhl-Stiftung,CHE-104.047.231,Schöfflisdorf,Zürich,1,"1,3","2,4","1,2",2,"1,2","4,5,6,7","47.5055629,8.4171978",
-228,Johann Wolfgang von Goethe-Stiftung,CHE-104.051.505,Basel,Basel-Stadt,5,1,"1,2,4",2,2,,8,"47.5509103,7.6074183",http://www.goethestiftungbasel.ch/
-234,Bristol-Stiftung,CHE-104.066.642,Zürich,Zürich,5,3,1,1,2,"1,2,3,4,5,6",,"47.3642174,8.5490462",http://www.bristol-stiftung.ch/
-235,Eduard Batschelet-Mader Stiftung,CHE-104.068.894,Basel,Basel-Stadt,5,"2,3",2,1,2,"1,2",,"47.5577908,7.5907760",
-237,Stiftung SwissEngineering STV,CHE-104.092.987,Zürich,Zürich,4,"1,4",2,1,"1,2","2,3,4,5,6",,"47.3802172,8.5438286",http://www.swissengineering.ch/index.php?option=com_content&view=article&id=218&Itemid=305&lang=de
-240,Johannes Waldburger-Stiftung,CHE-104.146.100,Herisau,Appenzell Ausserrhoden,2,,"1,2",2,2,,8,"47.3903308,9.2773386",http://www.johanneswaldburger.ch
-241,Fondation Latsis Internationale,CHE-104.162.748,Genève,Genève,4,1,5,"1,2","1,2","1,2,3,4,5,6",5,"46.1922793,6.1652007",http://www.fondationlatsis.org/
-245,Stiftung Wald-Klima-Umwelt,CHE-104.304.356,Basel,Basel-Stadt,5,1,"2,4",2,2,,8,"47.5323867,7.5882336",http://www.wald-klima-umwelt.ch/index.php
-249,Stiftung zur Förderung der Denkmalpflege,CHE-104.354.696,Zürich,Zürich,4,"2,3",2,"1,2","1,2",2,"5,6,7","47.3894754,8.5457897",http://www.stiftung-denkmalpflege.ch/
-252,Werner Steiger Stiftung,CHE-104.426.700,Untersiggenthal,Aargau,5,"1,2,3,4","1,4","1,2","1,2","2,3,4","5,6,7","47.5000870,8.2656862",
-256,Albert Koechlin Stiftung AKS,CHE-104.791.714,Luzern,Luzern,2,"1,3","2,5",2,2,,8,"47.0507870,8.3040433",http://www.aks-stiftung.ch/stiftung
-257,Georg und Bertha Schwyzer-Winiker-Stiftung,CHE-104.901.807,Zürich,Zürich,3,2,2,"1,2",2,"1,2",5,"47.3663386,8.5290893",
-275,"SWISSAID, Schweizerische Stiftung für Entwicklungszusammenarbeit",CHE-105.911.139,Bern,Bern,5,"1,2,3,4",2,2,2,,"2,3,4,5,6,7,8","46.9451899,7.4192379",https://www.swissaid.ch/de
-289,AGROGEN Stiftung,CHE-106.075.853,Lyssach,Bern,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"47.0803238,7.5833182",
-309,Stiftung Technopark Zürich,CHE-106.388.275,Zürich,Zürich,1,4,1,1,"1,2","2,3,4,5,6",,"47.3901869,8.5158465",http://www.technopark.ch/en/technopark/about-technopark/
-339,Hasler Stiftung,CHE-107.354.801,Bern,Bern,4,"1,2,3,4","1,2,4","1,2","1,2","2,3,4,5,6","2,3,4,5,6","46.9467224,7.4374059",http://www.haslerstiftung.ch/de/home
-343,Fondation Les Cerlatez,CHE-107.490.315,Saignelégier,Jura,3,"1,2,3,4",2,2,2,,8,"47.2432941,7.0282920",http://www.centre-cerlatez.ch/
-344,Stiftung Seemuseum,CHE-107.498.386,Kreuzlingen,Thurgau,5,"2,3",2,"1,2",2,"1,2",8,"47.6487513,9.1893349",http://www.seemuseum.ch/
-350,Fondazione Uomo Natura,CHE-107.713.248,Lugano,Ticino,5,"1,2,3,4",2,2,2,,8,"46.0169853,8.9558872",
-353,Schweizerischer Nationalfonds zur Förderung der wissenschaftlichen Forschung,CHE-107.810.911,Bern,Bern,5,1,"2,4","1,2","1,2","1,2","5,6,7","46.9492172,7.4324107",http://www.snf.ch/de/Seiten/default.aspx
-372,Avenira Stiftung,CHE-107.974.010,Luzern,Luzern,5,"1,2,3,4",2,"1,2","1,2","1,2","2,3,4,5,6,7,8","47.0477525,8.3051432",
-383,Ernst Göhner Stiftung,CHE-108.139.493,Zug,Zug,4,"2,3",2,"1,2","1,2",2,"5,6","47.1621610,8.5138945",http://www.ernst-goehner-stiftung.ch/
-390,Stiftung zur Förderung der appenzell-ausserrhodischen Wirtschaft,CHE-108.492.021,Herisau,Appenzell Ausserrhoden,3,4,"1,2",1,"1,2","3,4,5,6",,"47.3927761,9.2822373",http://wirtschaftar.ch/de/home
-398,Fondation Ernest Dubois,CHE-108.761.356,Saint-Sulpice (VD),Vaud,3,"1,2,3,4","2,5","1,2",2,"1,2,3,4,5,6",8,"46.5154362,6.5668499",http://fondat11.myhostpoint.ch/
+2,Walter Hochstrasser-Stiftung,CHE-110.377.406,Zürich,Zürich,2,1,4,2,2,,5,"47.3765359,8.5480928",
+3,Fondation iDrate,CHE-115.681.544,Conches,Genève,5,1,"2,4","1,2",2,"1,2,3,4,5,6",8,"46.1876631,6.1763323",
+4,Stiftung Emilia Guggenheim-Schnurr der Naturforschenden Gesellschaft in Basel,CHE-101.985.541,Basel,Basel-Stadt,2,"1,2,3,4",2,1,"1,2","1,2",,"47.5566907,7.5787092",http://www.ngib.ch/stiftung-egs/
+5,Stiftung Gandhi Hilfswerk Schweiz,CHE-114.260.370,Zürich,Zürich,5,"1,2","1,2,4",2,"1,2",,"4,5,6","47.3785825,8.4779987",
+6,Sandoz - Fondation de Famille,CHE-110.403.618,Glarus,Glarus,4,"1,2,4",,"1,2","1,2","2,3,4,5,6","5,6,8","47.0395719,9.0687689",http://www.sandozfondation.ch/fr
+7,Foundation - Global Risk Forum GRF Davos,CHE-114.620.712,Davos Platz,Graubünden,5,"1,2,3,4",2,"1,2",2,2,8,"46.7926247,9.8191515",http://grforum.org/
+8,INSEL Foundation,CHE-113.309.832,Bern,Bern,4,"1,2,3,4","2,4",1,"1,2","2,3,4,5,6",,"46.9477087,7.4255497",
+9,Fondation pour le développement durable des régions de montagne,CHE-109.398.637,Sion,Valais,5,"1,2,3,4",2,"1,2",2,1,8,"46.2351892,7.3552392",http://www.fddm.ch/fr/
+10,BORNEO TROPICAL RAINFOREST FOUNDATION,CHE-110.530.211,Vernier,Genève,5,"1,2,3,4",1,"1,2",2,"1,2,3,4,5,6",8,"46.2141395,6.1111637",
+11,Fondation Inartis,CHE-234.358.825,Savièse,Valais,4,"1,2,3,4",3,"1,2","1,2","1,2,3,4,5,6",8,"46.2673436,7.3562613",http://inartis.ch/
+12,Stiftung Reiken-Patronat für akademische Nachdiplom- und Doktorandenstudien,CHE-101.308.263,Langnau am Albis,Zürich,5,"1,2","2,4",2,"1,2",,5,"47.2935950,8.5363970",
+13,Stiftung zur Förderung der wirtschaftlichen Entwicklung von Glarus Süd,CHE-109.380.672,Schwanden GL,Glarus,2,4,2,1,"1,2","4,5,6",,"46.9952929,9.0685627",http://www.glarus.ch/xml_1/internet/de/application/d237/d262/f270.cfm
+14,Thierry und Eliane Bollag-Strauss Stiftung,CHE-109.996.399,Zürich,Zürich,4,"1,2,3","1,2,4","1,2","1,2","1,2","2,3,4,5,6","47.3739646,8.5628804",
+15,Stiftung Robert und Yvonne Peter-Aeby,CHE-111.654.703,Zürich,Zürich,4,"1,2,3","2,4",2,"1,2",,"4,5,6,7","47.3561744,8.5573416",
+16,La Fondation Mondiale INSEAD (The INSEAD World Foundation),CHE-110.398.331,Genève,Genève,5,1,4,2,"1,2",,7,"46.1980968,6.1482733",https://www.insead.edu/give
+17,SYNGENTA STIFTUNG FÜR NACHHALTIGE LANDWIRTSCHAFT,CHE-109.582.678,Basel,Basel-Stadt,5,"2,3,4","1,2",1,2,"2,3,4,5,6",,"47.5675554,7.6058069",https://www.syngentafoundation.org/
+18,Fondazione Silvio Leoni,CHE-112.660.882,Riazzino,Ticino,5,1,"2,4","1,2",2,"1,2","5,6,7","46.1744390,8.8951150",
+19,MDPI SUSTAINABILITY FOUNDATION,CHE-149.291.773,Basel,Basel-Stadt,5,1,5,1,2,1,,"47.5658293,7.5913505",http://wsforum.org/
+20,"Stiftung-Eleonora-Susanna für den Natur-, Umwelt- und Tierschutz",CHE-110.413.120,Zürich,Zürich,5,"1,2,3","2,4",2,2,,"4,5,6,7","47.3627555,8.5527810",
+21,Fondation Plenum,CHE-115.221.898,Genève,Genève,6,3,"2,3","1,2",2,1,8,"46.2024778,6.1613424",
+22,Barramundi-Stiftung,CHE-299.888.241,Lengwil,Thurgau,5,"1,2,3,4","1,2,4",2,"1,2",,"2,3,4,5,6,7,8","47.6247891,9.1903801",
+23,Wishdom International Foundation,CHE-113.691.922,Cham,Zug,5,"1,2,3,4",2,"1,2","1,2","1,2","1,2,3,4,5,6,7","47.1861207,8.4736495",
+24,Stiftung zur Förderung der Trinkwasserqualität,CHE-110.096.491,Zürich,Zürich,5,"2,3,4",2,1,2,"1,2",,"47.3781412,8.5633116",
+25,Stiftung Ambros Lüthi,CHE-183.003.611,Fribourg,Fribourg,4,1,2,"1,2",2,"1,2",5,"46.8177766,7.1729722",http://diuf.unifr.ch/al/de/node/32
+26,Fondazione JAMINOR-INT.,CHE-149.050.666,Giubiasco,Ticino,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"46.1821665,9.0262842",
+27,Das hungernde Kind,CHE-110.394.155,Winterthur,Zürich,5,"1,2,3,4","2,4",1,"1,2","1,2",,"47.5086972,8.7256204",
+28,Fondation d'impulsion technologique et économique (FITEC),CHE-113.677.804,Delémont,Jura,3,4,1,"1,2","1,2","2,3,4,5,6",8,"47.3673026,7.3435574",http://www.fitec.ch/
+29,Gebert Rüf Stiftung,CHE-102.168.898,Zürich,Zürich,4,"2,4",2,1,"1,2","2,3,4,5,6",,"47.3675216,8.5547995",http://www.grstiftung.ch/de.html
+30,SHIVA Stiftung,CHE-437.640.213,St. Gallen,St. Gallen,2,"2,3,4",1,"1,2",2,"1,2",8,"47.4237239,9.3728682",
+31,UBS Stiftung für Soziales und Ausbildung,CHE-110.409.041,Zürich,Zürich,4,"1,3",2,2,"1,2",,"4,5,6,7","47.3719809,8.5381437",https://www.ubs.com/global/de/about_ubs/stiftungen/soziales.html
+32,Hauser-Stiftung,CHE-110.172.229,Weggis,Luzern,4,"1,3","2,3,4",2,2,,8,"47.0390637,8.4427001",
+33,Oikos - Stiftung für Oekonomie und Oekologie,CHE-110.383.217,St. Gallen,St. Gallen,3,1,2,"1,2",2,1,5,"47.4316121,9.3746170",http://www.iwoe.unisg.ch/de/institut/oikos
+34,ICIMOD Stiftung,CHE-110.558.267,Bern,Bern,5,"2,3",2,"1,2","1,2","1,2","4,5,6","46.9474936,7.4449505",
+35,Fonds vaudois du bois,CHE-110.205.975,Lausanne,Vaud,4,"1,2,3,4","1,2,3",2,2,,8,"46.5567716,6.6833176",
+36,Fondation ImpactHope (Foundation ImpactHope),CHE-114.429.321,Bourguillon,Fribourg,5,3,2,2,"1,2",,8,"46.8006500,7.1771571",http://www.impacthope.net/index.php/fr/
+37,Ypsomed Innovationsfonds,CHE-110.107.887,Burgdorf,Bern,2,4,"2,5",1,"1,2","3,4,5,6",,"47.0401198,7.6301580",http://www.innovationsfonds.ch/
+38,"MAVA, Fondation pour la Nature",CHE-110.381.425,Gland,Vaud,5,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.4156948,6.2778411",http://fr.mava-foundation.org/
+39,Ernst Hadorn-Stiftung,CHE-109.329.837,Zürich,Zürich,1,"1,2","2,4","1,2","1,2",1,"5,6","47.3698308,8.5438325",
+40,Stiftung ERNE ambiente,CHE-110.268.639,Dällikon,Zürich,4,"1,2,3,4",2,1,2,"2,3,4,5,6",,"47.4462908,8.4346626",
+41,Sozialfonds suissetec,CHE-111.704.583,Zürich,Zürich,4,"2,3","1,2",2,"1,2",,"4,5,6,7","47.3750459,8.5608375",
+42,Kantensprung Stiftung,CHE-442.957.420,Basel,Basel-Stadt,5,3,2,1,"1,2","3,4",,"47.5409640,7.5931079",https://www.kantensprung-stiftung.ch/
+43,Ignaz Staub-Stiftung,CHE-406.046.362,Ennetbürgen,Nidwalden,5,"1,3","1,4",2,"1,2",,8,"46.9877343,8.3984511",
+44,Honegger-Stiftung,CHE-110.377.576,Glarus,Glarus,6,"1,2,3,4",2,1,2,"1,2",,"47.0407135,9.0675514",
+45,Fondation du 175ème de la Caisse d'Epargne d'Aubonne,CHE-220.453.653,Aubonne,Vaud,5,"1,2,3,4",5,2,"1,2",,8,"46.4950276,6.3910082",
+46,Foundation Ithaka Institute,CHE-114.920.048,Arbaz,Valais,6,"1,2,3,4",2,1,"1,2","2,3,4,5,6",,"46.2736178,7.3851224",http://www.ithaka-institut.org/en/home
+47,CALEO Stiftung,CHE-112.039.920,Bellikon,Aargau,5,"1,3","1,2,5",1,"1,2","1,2",,"47.3902165,8.3428039",
+48,Klimastiftung Schweiz,CHE-114.448.672,Zürich,Zürich,4,4,"1,2",1,"1,2","2,3,4,5,6",,"47.3592631,8.5351676",http://www.klimastiftung.ch/
+49,Louise Blackborne-Stiftung,CHE-111.651.509,Bern,Bern,5,"2,3",1,"1,2","1,2","1,2",5,"46.9473759,7.4536854",
+50,Stiftung Urwaldreservat Bödmeren,CHE-102.077.480,Schwyz,Schwyz,2,2,2,"1,2",2,"1,2",8,"47.0211804,8.6498478",http://www.boedmeren.ch/?page_id=36&lang=de
+51,Schilling-Stiftung,CHE-110.399.158,Baden,Aargau,5,"3,4",2,2,"1,2",,"2,3,4","47.4761145,8.3085290",
+52,Ernst und Jacqueline Weil-Stiftung,CHE-110.391.843,Zürich,Zürich,2,"1,2","1,2,4",2,"1,2",,"4,5,6","47.3806560,8.5629819",
+53,Stiftung Wasserzyt,CHE-113.515.828,Spiez,Bern,5,"1,2,3,4",2,2,2,,8,"46.6916422,7.6819249",http://www.wasserzyt.ch
+54,Stiftung Vision Zukunft,CHE-112.106.930,Aarau,Aargau,4,3,"1,2",2,2,,8,"47.3968358,8.0405333",http://www.vision-zukunft.ch
+55,JAF Foundation (Switzerland),CHE-114.742.924,Basel,Basel-Stadt,5,"1,2,3","2,4",2,2,,"1,2,3,4,5,6,8","47.5526712,7.5854740",
+56,Stiftung Salud y Vida,CHE-133.453.679,Basel,Basel-Stadt,5,"1,2,3,4",2,"1,2",2,"1,2",8,"47.5517499,7.6014182",
+57,Fondation neuchâteloise des entreprises de plâtrerie-peinture pour la formation et le perfectionnement professionnels,CHE-110.112.575,Hauterive NE,Neuchâtel,3,"1,2,4",3,2,2,,7,"47.0087415,6.9710320",
+58,JPlus - Stiftung für Energieeffizienz,CHE-262.268.908,Bettingen,Basel-Stadt,4,"1,2","2,4","1,2",1,"1,2","5,6","47.5694326,7.6610162",
+59,Evariste Mertens-Stiftung zur Förderung der Gartenarchitektur und Landschaftsplanung in der Schweiz,CHE-110.378.015,Zürich,Zürich,4,"1,2,3","2,3,4,5","1,2",2,"1,2","4,6,7","47.3818149,8.5353261",
+60,Dr. Willi Zeller-Stiftung,CHE-109.749.151,Zürich,Zürich,6,"2,3",2,"1,2",2,"1,2","1,2,3","47.3578369,8.5774990",
+61,Entwicklungsfonds Seltene Metalle,CHE-109.946.326,Zürich,Zürich,5,"2,3,4","2,3","1,2","1,2","1,2",5,"47.3760824,8.5404533",http://www.esmfoundation.org/
+62,3hf Stiftung Schweiz,CHE-112.332.113,Ennenda,Glarus,5,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"47.0431633,9.0738084",http://www.3hf.org/
+63,Stiftung Ernst Witzig,CHE-110.379.641,Frauenfeld,Thurgau,4,"1,2","2,4","1,2","1,2","1,2","1,2,3,4,5,6","47.5629964,8.8715562",
+64,Kristian Gerhard Jebsen Stiftung,CHE-465.901.873,Pfäffikon SZ,Schwyz,5,"2,3,4","1,2","1,2",2,"1,2","1,2,3,4,5,6,7","47.2021203,8.7773252",
+65,Fondazione Adiuvare,CHE-169.377.449,Lugano,Ticino,6,"1,2,3,4","1,4",1,"1,2","1,2",,"45.9977800,8.9473708",
+66,PORISTES STIFTUNG,CHE-114.886.753,Bern,Bern,5,"1,2,3","1,2,4","1,2","1,2","1,2","1,2,3","46.9485099,7.4469210",
+67,Lindt Cocoa Foundation,CHE-472.907.355,Kilchberg ZH,Zürich,5,3,2,"1,2",2,"2,3,4,5,6",8,"47.3180696,8.5526154",http://lindtcocoafoundation.org
+68,"Stiftung ""Hoffnung für notleidende Mitmenschen in Afrika"" (Hope)",CHE-114.580.834,Allenwinden,Zug,5,"2,3",1,2,2,,"2,3","47.1700534,8.5440131",
+69,FONDAZIONE LA MARTINA,CHE-199.370.073,Chiasso,Ticino,4,4,1,"1,2",2,"1,2","4,5,6","45.8334144,9.0299958",https://www.lamartina.com/lm/it/it/aboutus
+70,bilding - Schweizerische Stiftung zur Förderung des Ingenieurnachwuchses im Bauwesen,CHE-113.012.964,Bern,Bern,4,"1,2","1,5",2,1,,"3,4,5,6,8","46.9456137,7.4367936",http://www.bilding.ch
+71,Hilfskasse für schweizerische Waldfachleute und deren Familienangehörige,CHE-114.098.193,Zürich,Zürich,4,"1,3","1,4",2,2,,7,"47.3834362,8.5423930",http://www.forstverein.ch/fileadmin/Datenordner/hilfskasse/Flyer_Hilfskasse_Forstverein_GzD_10.3.2016.pdf
+72,Yvonne und Alberto Galbiati-Stiftung,CHE-114.668.386,Zürich,Zürich,4,"1,3,4",2,1,"1,2","3,4,5,6",,"47.3631887,8.5572914",http://www.galbiati-stiftung.ch/
+73,Mekkihelp Stiftung,CHE-115.188.858,Wetzikon ZH,Zürich,5,3,1,2,2,,"2,3,4","47.3217901,8.7964125",
+74,"Stiftung Forschung 3R (Vermindern, Verbessern und Vermeiden von Tierversuchen)",CHE-101.694.411,Münsingen,Bern,4,2,2,1,2,2,,"46.8687184,7.5633802",http://www.forschung3r.ch/index.html
+75,Stiftung Drittes Millennium,CHE-110.403.883,Uetikon,Zürich,5,"1,2,3,4",2,2,"1,2",,"2,3,4,5,6,7","47.2685380,8.6863034",http://www.stiftung-drittes-millennium.com/en/stiftung/stiftungszweck.html
+76,Stiftung IH&RA für die Zukunft,CHE-112.973.045,Zürich,Zürich,5,2,"1,2,3,4","1,2",2,2,"4,5,6","47.3818149,8.5353261",
+77,Gamil-Stiftung,CHE-112.742.184,Küsnacht ZH,Zürich,5,"1,2,3","2,4","1,2","1,2","1,2","1,2,3,4,5,6,7","47.3299116,8.5824466",
+78,(Fondazione Gerling) (Gerling Stiftung) (Gerling Foundation),CHE-110.395.137,Tegna,Ticino,5,"1,2,3,4","1,2,3,4","1,2",2,"1,2,3,4,5,6",8,"46.1128736,8.7026415",
+79,KRÜGER FOUNDATION,CHE-311.863.610,Staad,St. Gallen,5,"1,2,3,4",2,"1,2",2,1,8,"47.4726540,9.5544326",http://www.krugerfoundation.org/
+80,"Stiftung ""Ponte Projektfonds""",CHE-102.644.611,Zürich,Zürich,2,1,2,1,1,,,"47.3734407,8.5196461",http://www.ponteprojektfonds.ch/
+81,Comanis Foundation,CHE-112.989.431,Bern,Bern,5,3,2,"1,2",2,2,"1,2,3,4,5","46.9505311,7.4579323",http://www.comanis.ch/en/purpose/purpose.htm
+82,Hasler Stiftung,CHE-107.354.801,Bern,Bern,4,"1,2,3,4","1,2,4","1,2","1,2","2,3,4,5,6","2,3,4,5,6","46.9467224,7.4374059",http://www.haslerstiftung.ch/de/home
+83,Albin-Pedrotti-Stiftung,CHE-109.988.678,St. Gallen,St. Gallen,4,"1,3",2,2,1,,8,"47.4295161,9.3793739",
+84,Fondation pour la conservation de l'environnement (Foundation for Environmental Conservation),CHE-110.375.241,Morges,Vaud,4,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.5096852,6.4957529",
+85,Peter und Anne Koechlin-Stiftung,CHE-102.004.191,Basel,Basel-Stadt,4,1,4,2,"1,2",,"5,6,7","47.5521345,7.6004167",
+86,Fondation Horyou (Horyou Foundation),CHE-286.978.768,Genève,Genève,5,"1,3","1,4","1,2",2,"1,2",8,"46.1963848,6.1464742",https://www.horyou.com/
+87,Stiftung für unternehmerische Entwicklung,CHE-113.330.884,Glattbrugg,Zürich,4,"1,3,4","1,4",1,1,"2,3,4,5,6",,"47.4327031,8.5587467",http://www.kmufuture.ch/
+88,MON SOLEIL FONDAZIONE,CHE-380.335.130,Lugano,Ticino,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"46.0090241,8.9502248",
+89,HUMANITY INTERNATIONAL FOUNDATION SWITZERLAND,CHE-225.255.623,Luzern,Luzern,5,"1,2,3","1,4",2,"1,2",,8,"47.0618631,8.2740408",http://hifs.ch/
+90,Lagrev Stiftung,CHE-109.988.879,Zürich,Zürich,6,"1,2,3,4","1,2,4",2,"1,2",,"2,3,4,5,6","47.3657437,8.5260534",
+91,FONDATION PAUL DUBRULE,CHE-114.982.658,Genève,Genève,4,"1,2,3,4",2,"1,2","1,2",1,8,"46.1992477,6.1418140",
+92,Stiftung Josef Binkert AG,CHE-113.775.192,Wallisellen,Zürich,4,1,5,2,"1,2",,"4,5,6,7","47.4156838,8.5821551",https://www.binkertag.ch/site/de-ch/Unternehmen/Sozial-Partnerschaft
+93,FONDAZIONE DALLE MOLLE PER LA QUALITÀ DELLA VITA,CHE-109.833.780,Lugano,Ticino,5,"1,2,3,4",5,1,2,"2,3,4,5,6",,"46.0079693,8.9520041",http://www.dallemolle.ch/de/stiftung/prasentation
+94,"Max Hauri, Stötzler - Stiftung",CHE-114.164.045,Habsburg,Aargau,1,1,4,2,"1,2",,"4,5,6","47.4639817,8.1893773",http://www.sch.ch/?rub=1476
+95,Annette Ringier-Stiftung,CHE-243.593.911,Glarus,Glarus,5,"2,3,4","1,2",2,2,,5,"47.0425197,9.0659182",
+96,Stiftung Pro Parpan,CHE-101.925.622,Parpan,Graubünden,1,1,"1,4",2,2,,8,"46.7614966,9.5584755",http://www.proparpan.ch/
+97,AWUNI Stiftung für Tierschutz,CHE-194.458.542,Zumikon,Zürich,5,3,"1,2","1,2",2,1,8,"47.3297614,8.6319269",http://www.awuni.ch/page/
+98,Margarethe und Rudolf Gsell-Stiftung,CHE-110.401.720,Basel,Basel-Stadt,4,"1,2,3,4",2,"1,2",2,2,"5,6,8","47.5610716,7.5941639",
+99,Acél-Stiftung zur Förderung der Forschung in Betriebswissenschaften und Engineering,CHE-111.959.930,Zürich,Zürich,2,"2,3,4","1,2","1,2","1,2","2,3,4,5,6",5,"47.3918307,8.5004756",
+100,Stiftung BASE (Basel Agency for Sustainable Energy),CHE-109.384.061,Basel,Basel-Stadt,5,"1,2,3,4",2,2,"1,2",,8,"47.5516742,7.5908396",http://energy-base.org/
+101,Stiftung Licht Recycling Schweiz SLRS,CHE-112.333.325,Bern,Bern,5,"1,2,3,4",2,2,"1,2",,8,"46.9504635,7.4530769",http://www.slrs.ch/index-de.php?frameset=1
+102,Lehrlingsstiftung suissetec aargau Gebäudetechnik-Genossenschaft,CHE-101.922.813,Aarau,Aargau,3,"2,3",1,2,1,,"4,7","47.3882956,8.0499596",
+103,Stiftung Maximilian Bircher,CHE-462.493.145,Braunwald,Glarus,4,1,4,"1,2",2,"1,2",8,"46.9405508,8.9931156",http://www.bircher-benner.com/index.php?id=17&l=fr
+104,Stiftung Jeruel,CHE-114.971.844,Langnau im Emmental,Bern,5,"2,3","1,2",2,2,,"1,2,3,4,5,6,7","46.9429820,7.7808962",http://www.jeruel.net/cms/
+105,Lantal Foundation for Cultural and Sustainable Education,CHE-109.851.275,Langenthal,Bern,2,"1,2","2,4","1,2",2,"1,2","4,5,6,7","47.2146316,7.7779057",
+106,M. & P.-A. Mathier Ausbildungsstiftung,CHE-110.620.015,Zürich,Zürich,5,1,"4,5",2,2,,5,"47.3675496,8.5415741",
+107,Dr. Robert + Marlies Holzach - Stiftung,CHE-261.122.521,Küsnacht ZH,Zürich,4,1,4,2,"1,2",,"4,5,6,7,8","47.3254842,8.5844288",
+108,Stiftung Grüner Bundesplatz,CHE-110.234.936,Zug,Zug,5,"1,2,3","1,2,4",1,"1,2","1,2",,"47.1700412,8.5155951",
+109,Georg und Bertha Schwyzer-Winiker-Stiftung,CHE-104.901.807,Zürich,Zürich,3,2,2,"1,2",2,"1,2",5,"47.3663386,8.5290893",
+110,Excellence Foundation Zurich for Economic and Social Research,CHE-192.122.522,Zürich,Zürich,1,"1,2","1,4","1,2",2,"1,2",5,"47.3729108,8.5500140",http://www.efzh.org/index.php?path=home
+111,FREY CHARITABLE FOUNDATION,CHE-112.160.088,Freienbach,Schwyz,5,"1,2,3","1,4","1,2","1,2","1,2","2,3,4,5,6,7","47.2072910,8.7521722",
+112,The Dunemere Foundation,CHE-350.649.256,Frauenfeld,Thurgau,5,"2,3","1,2","1,2",2,"1,2","1,2,3,4,5,6,7","47.5473268,8.9068842",
+113,Fondation Bru,CHE-157.014.856,Genève,Genève,5,"1,3",2,"1,2",2,"1,2,3,4,5,6","2,3,4,5","46.1983673,6.1439374",http://www.fondation-bru.org/
+114,Porter Foundation Switzerland,CHE-222.347.631,Verbier,Valais,5,"1,3","1,2,4",2,2,,8,"46.1002473,7.2217405",http://www.dameshirleyporter.net/philanthropy.html
+115,Stiftung Isla,CHE-110.270.783,Braunau,Thurgau,6,"2,3",2,"1,2",2,2,"4,5,6,7","47.4986372,9.0589999",
+116,Stiftung für Meereswissenschaft und -forschung,CHE-110.404.635,Zürich,Zürich,5,"1,2,3,4",2,1,2,"1,2",,"47.3670459,8.5373253",
+117,"Stiftung Berthold Leibinger, Schweizerisches Zentrum zur Förderung industrieller Innovation",CHE-110.410.647,Grüsch,Graubünden,5,4,1,"1,2","1,2","3,4,5,6","4,5,6,7","46.9754163,9.6407317",
+118,Bourse d'Etudes Rotary Porrentruy - Delémont,CHE-109.334.198,Delémont,Jura,4,1,4,2,"1,2",,"5,6,7","47.3705484,7.3422276",
+119,Abisch-Frenkel-Stiftung,CHE-109.387.556,Basel,Basel-Stadt,5,2,2,"1,2","1,2","1,2",5,"47.5564370,7.5858599",
+120,Peter Baumann Foundation,CHE-109.983.511,Altendorf,Schwyz,5,"1,2,3","2,4","1,2","1,2",2,"2,3,4,5,6","47.1863947,8.8301350",http://www.peterbaumannfoundation.org/
+121,Stiftung Topas,CHE-114.143.020,Thalheim AG,Aargau,5,"1,2,3,4","1,2,4","1,2","1,2","1,2","1,2,3","47.4388529,8.1069616",
+122,Schweizerische Orchideenstiftung Herbarium Jany Renz,CHE-109.548.026,Basel,Basel-Stadt,5,1,5,1,2,1,,"47.5361371,7.5886059",https://orchid.unibas.ch/index.php/en/
+123,Stiftung UNESCO Welterbe Schweizer Alpen Jungfrau-Aletsch,CHE-114.017.639,Naters,Valais,2,3,"1,2","1,2",2,"1,2","2,3,4,5,6,7,8","46.3227190,7.9856722",https://www.jungfraualetsch.ch/de/traegerschaft/
+124,Thomas Abegg Stiftung für Geist und Kultur,CHE-390.045.633,Wilen SZ,Schwyz,5,"1,2,3,4","2,4","1,2","1,2","1,2","4,5,6","47.1968261,8.7317480",
+125,lastminute foundation,CHE-180.409.046,Chiasso,Ticino,5,"3,4","1,2","1,2","1,2","1,2,3,4,5,6",8,"45.8343767,9.0300237",http://lastminutefoundation.org/
+126,Purpose Stiftung,CHE-291.307.433,Basel,Basel-Stadt,5,4,1,"1,2","1,2","2,3,4,5,6",8,"47.5565738,7.5883694",http://purpose.ag/
+127,Stiftung zur Förderung der rechtlichen und wirtschaftlichen Forschung an der Universität Basel,CHE-110.385.305,Basel,Basel-Stadt,3,2,3,"1,2","1,2",1,5,"47.5587086,7.5869412",https://forschdb2.unibas.ch/inf2/rm_projects/object_view.php?r=403076&type=5
+128,Fondation Esse Quam Videri,CHE-401.255.728,Cologny,Genève,6,"1,2,3,4",2,2,2,,8,"46.2165584,6.1809624",
+129,Pefi Waldstiftung,CHE-110.196.738,Wohlen AG,Aargau,4,"1,3","2,3,5",2,2,,"2,3,8","47.3477629,8.2719800",http://www.waldprodukte.ch/pages/naturverein-wohlen/archiv.php
+130,Fondation Philanthropique Next,CHE-170.186.206,Villars-sur-Glâne,Fribourg,5,"1,3,4",2,"1,2","1,2","2,3,4,5,6",8,"46.7987363,7.1266389",
+131,Stiftung Jubiläum 2014,CHE-310.027.858,Liestal,Basel-Landschaft,3,4,"2,5",1,2,"3,4,5,6",,"47.4858080,7.7318994",
+132,Fondazione Luigi Brentani,CHE-100.641.464,Lugano,Ticino,3,1,5,2,"1,2",,4,"46.0077848,8.9527342",
+133,Fondation OSEM Observatoire Stratégique de l'Eau et des Matières Premières,CHE-431.409.166,Fribourg,Fribourg,4,2,3,"1,2",2,1,8,"46.8159298,7.1718283",http://osem.ch/
+134,Fondation EROL (EROL Foundation),CHE-225.257.823,Genève,Genève,5,3,2,2,2,,8,"46.2022146,6.1519720",https://www.erolfoundation.org/
+135,Fondation H. Dudley Wright,CHE-102.041.312,Genève,Genève,2,"1,2,3",3,"1,2",2,1,8,"46.2017526,6.1540691",http://www.hdwright.org/index.php/fr/
+136,the cogito foundation,CHE-109.374.128,Wollerau,Schwyz,5,2,2,"1,2","1,2","1,2",5,"47.2003955,8.7117452",http://www.cogitofoundation.ch/en/
+137,Stiftung Maria Margaretha Huldi,CHE-369.495.328,Romanshorn,Thurgau,2,1,4,2,"1,2",,"5,6","47.5534624,9.3354124",http://www.mmhuldi.ch/
+138,Fondation Race for Water (Race for Water Stiftung) (Race for Water Foundation),CHE-115.708.551,Lausanne,Vaud,5,"1,2,3,4","1,2","1,2",2,"2,3,4,5,6","2,3","46.5228404,6.6113423",http://www.raceforwater.com/
+139,Adolphe Merkle-Stiftung,CHE-114.013.268,Fribourg,Fribourg,3,"1,3,4","1,2,4","1,2","1,2","1,2,3,4,5,6",5,"46.8020814,7.1534678",http://www.fondation-vm.ch/fr/fondation-adolphe-merkle.html
+140,Fondation pour le Globe de la science et de l'innovation (Foundation for the Globe of Science and Innovation),CHE-113.940.172,Meyrin,Genève,5,4,"1,2","1,2","1,2","1,2,3,4,5,6",8,"46.2296528,6.0533135",http://www.fondationglobe.ch/
+141,Charlotte und Nelly Dornacher Stiftung,CHE-114.697.927,Chur,Graubünden,2,"1,3","1,2,4","1,2",2,"1,2",8,"46.8525666,9.5324073",
+142,Fondazione Valle Bavona,CHE-109.808.799,Cavergno,Ticino,1,"3,4",2,1,2,"1,2",,"46.3450894,8.6057293",http://www.bavona.ch/
+143,Corvus Stiftung,CHE-109.551.927,Zürich,Zürich,5,"1,2,3,4",2,"1,2",2,"1,2","2,3","47.3651092,8.5352481",
+144,Fondation NORDESTA - Reforestation & Education,CHE-114.314.215,Genève,Genève,5,"1,2,3,4","2,4","1,2",2,1,8,"46.2080547,6.1434238",http://www.nordesta.org/fr
+145,Albert-Heim-Stiftung,CHE-101.953.446,Bern,Bern,5,"1,2","2,5","1,2",2,"1,2","5,8","46.9421412,7.4489427",http://www.albert-heim-stiftung.ch/cms/
+146,Bündner Stiftung INNOZET,CHE-110.072.148,Grüsch,Graubünden,2,4,1,1,"1,2","2,3,4,5,6",,"46.9754163,9.6407317",http://www.innozet.ch/Wir-ueber-uns.7.0.html
+147,Eugen Meyer-Stiftung,CHE-101.969.996,Willisau,Luzern,1,1,4,2,"1,2",,8,"47.1222577,7.9926824",http://www.eugenmeyer-stiftung.ch/
+148,Karl Näf Stiftung,CHE-110.462.058,Glarus,Glarus,4,"1,2,3,4","2,4",1,"1,2","1,2",,"47.0425197,9.0659182",
+149,Multinational Intelligence Studies Campus - Fondazione,CHE-250.225.068,Roveredo GR,Graubünden,5,"1,2,3,4","2,4","1,2","1,2","1,2","5,7","46.2400000,9.1300000",
+150,Leadership Foundation for Professional Education and Global Learning,CHE-112.761.738,Altendorf,Schwyz,5,"1,2,3,4","1,2,3,4,5","1,2","1,2","1,2,3,4,5,6","5,6,7","47.1926476,8.8241399",
+151,Fondazione Widar,CHE-110.362.652,Lugano,Ticino,5,"1,2","1,2,4","1,2",2,"1,2",8,"46.0047650,8.9511528",
+152,DIE HUSSON HALABI STIFTUNG,CHE-207.858.752,Bern,Bern,5,1,4,2,"1,2",,5,"46.9472445,7.4423956",
+153,Global Citizen Foundation,CHE-240.902.128,Zürich,Zürich,5,3,2,2,"1,2",,"2,3,4,5","47.3745766,8.5239226",http://global-citizen.org/
+154,JP Charitable Foundation,CHE-251.758.982,Verbier,Valais,4,3,"2,4",2,2,,8,"46.1002473,7.2217405",
+155,Stiftung Dr. Hans und Hilde von Lorentz,CHE-253.247.741,Zürich,Zürich,4,1,4,2,"1,2",,"4,5","47.3732472,8.5379960",
+156,Velux Stiftung,CHE-101.877.236,Zürich,Zürich,5,"1,2,3,4","2,5","1,2","1,2","1,2,3,4,5,6",8,"47.3702563,8.5460822",http://www.veluxstiftung.ch/home/index.php
+157,Cartago Foundation,CHE-315.094.023,Luzern,Luzern,6,"1,2,3","1,4","1,2",2,"1,2",8,"47.0529545,8.3057740",
+158,Stiftung SwissEngineering STV,CHE-104.092.987,Zürich,Zürich,4,"1,4",2,1,"1,2","2,3,4,5,6",,"47.3802172,8.5438286",http://www.swissengineering.ch/index.php?option=com_content&view=article&id=218&Itemid=305&lang=de
+159,TISCA/TIARA-Stiftung,CHE-112.004.695,Bühler,Appenzell Ausserrhoden,3,"1,2,3","2,4","1,2","1,2","1,2","4,5,6","47.3738940,9.4208694",
+160,Stiftung dropforlife,CHE-116.337.368,Zürich,Zürich,5,3,2,1,2,,,"47.3582018,8.5548084",https://dropforlife.org/stiftung/
+161,Stiftung Freiheit und Verantwortung,CHE-112.887.807,Kriens,Luzern,4,"1,2,3","2,5",2,1,,8,"47.0354069,8.2882523",http://www.fuv.ch/
+162,"Stiftung für Innovation, Entwicklung und Forschung Graubünden",CHE-114.012.398,Chur,Graubünden,3,"1,3,4","1,2",1,"1,2","1,2,3,4,5,6",,"46.8512493,9.5338018",http://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/innovation/ueberuns/Seiten/default.aspx
+163,Fondation Latsis Internationale,CHE-104.162.748,Genève,Genève,4,1,5,"1,2","1,2","1,2,3,4,5,6",5,"46.1922793,6.1652007",http://www.fondationlatsis.org/
+164,Stiftung The Spirit of Bern,CHE-338.706.788,Muri b. Bern,Bern,4,"2,3,4","1,2",2,2,,8,"46.9315901,7.4851965",https://www.spiritofbern.ch/de/about-us/stiftung
+165,STIFTUNG FUTUR,CHE-100.800.604,Rapperswil,St. Gallen,2,"1,2,4","1,2,4,5",1,"1,2","2,3,4,5,6",,"47.2278251,8.8178887",http://www.futur.ch/
+166,UBS Foundation of Economics in Society,CHE-338.461.836,Zürich,Zürich,1,"1,2,3,4","1,3","1,2",2,"1,2","5,6,7","47.3729108,8.5500140",http://www.ubscenter.uzh.ch/index.php/en/about
+167,Stiftung Kalaidos Fachhochschule,CHE-110.011.023,Zürich,Zürich,1,2,1,"1,2",2,"2,3,4,5,6","6,7","47.4154771,8.5434841",https://www.kalaidos-fh.ch/de-CH
+168,Stiftung Marie-Lou Ringgenberg,CHE-109.597.131,Bern,Bern,1,"1,2,3,4","2,4","1,2","1,2","1,2","2,3,4,5,6","46.9572974,7.4553171",
+169,Alice Wartemann-Stiftung,CHE-110.558.853,Dettighofen bei Oberhofen,Thurgau,3,"1,2,3,4",2,1,2,2,,"47.6254792,9.2024187",
+170,Thalmann-Stiftung,CHE-110.401.275,Olten,Solothurn,2,"1,2,3,4",2,"1,2","1,2","1,2",8,"47.3509992,7.9030365",
+171,Werner Siemens-Stiftung,CHE-110.339.127,Zug,Zug,5,2,2,"1,2","1,2","2,3,4,5,6",8,"47.1767494,8.5186695",http://www.wernersiemens-stiftung.ch/home/
+172,Karl Kahane Stiftung,CHE-110.378.819,Celerina/Schlarigna,Graubünden,5,3,2,"1,2",2,"1,2,3,4,5,6",8,"46.5142899,9.8606201",http://www.kahanefoundation.org/
+173,Keller-Rain-Stiftung,CHE-363.587.512,Aarau,Aargau,5,1,4,2,"1,2",,"4,5,6","47.3851318,8.0444008",
+174,Stiftung Schwendi-Obertoggenburg,CHE-113.359.422,Zürich,Zürich,2,"1,2,3,4",2,2,2,,"4,5,6","47.3534315,8.5980542",
+175,FAMILY BUSINESS INTERNATIONAL FOUNDATION (FAMILY BUSINESS INTERNATIONAL FONDATION),CHE-349.824.535,Lausanne,Vaud,5,"1,2,3,4",2,"1,2",2,1,8,"46.5102186,6.6207417",http://www.fbn-i.org/
+176,FORUM DAVOS,CHE-109.556.497,Davos Platz,Graubünden,5,3,"1,2","1,2","1,2",1,8,"46.7975594,9.8220772",https://www.weforum.org/
+177,Stiftung zukunft-fertig-los,CHE-115.106.168,Meggen,Luzern,6,4,1,1,"1,2","1,2,3,4,5,6",,"47.0443609,8.3650842",
+178,Sports for Water Foundation,CHE-115.921.961,Egg bei Zürich,Zürich,5,"1,2,3,4",2,2,2,,"2,3,4,5,6","47.2970890,8.6955261",
+179,J&K Wonderland Stiftung,CHE-186.621.484,Zug,Zug,5,"1,2,3","1,2,3,4","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.1659859,8.5210976",
+180,Hekla Stiftung,CHE-113.070.654,Zürich,Zürich,5,"1,2,3","1,2,4","1,2","1,2","1,2","1,2,3,4,5,6,7","47.3741677,8.5352094",
+181,Bâloise-Jubiläumsstiftung,CHE-110.572.600,Basel,Basel-Stadt,6,"1,2,3,4","2,4",1,2,"2,3",,"47.5493741,7.5936658",
+182,Temperatio-Stiftung,CHE-111.969.437,Kilchberg,Zürich,2,"1,2,3,4",2,2,2,,8,"47.3301039,8.5433138",http://www.temperatio.ch/
+183,Schweizerische Umweltstiftung,CHE-109.684.008,Luzern,Luzern,4,"1,2,3,4",5,"1,2",2,"1,2,3,4,5,6",8,"47.0547826,8.3112282",https://www.umwelt-stiftung.ch/home/
+184,Stefanie und Wolfgang Baumann Stiftung,CHE-109.983.497,Basel,Basel-Stadt,6,"1,2","2,4","1,2","1,2","1,2","5,6","47.5477918,7.6064662",
+185,Fondazione Synergia,CHE-179.132.062,Lugano,Ticino,5,"2,3,4",2,1,"1,2","2,3,4,5,6",,"46.0071229,8.9571187",
+186,Singenberg-Stiftung,CHE-109.557.723,Basel,Basel-Stadt,5,2,2,"1,2",2,"1,2","4,5,6,8","47.5414161,7.6201628",
+187,Fondation Segré,CHE-399.917.759,Zug,Zug,5,3,2,2,2,,7,"47.1653506,8.5140076",http://www.fondationsegre.org/
+188,FHA-Stiftung Wirtschaft,CHE-109.338.032,Aarau,Aargau,2,2,1,"1,2","1,2","1,2,3","5,6,7","47.3886765,8.0493548",https://www.aihk.ch/dienstleistungen-fuer-die-unternehmen/externe-fachbereiche/fha-stiftungen-technik-wirtschaft/index.html
+189,Stiftung für Wirtschaft und Gesellschaft,CHE-344.116.046,Heimberg,Bern,4,"1,4","1,4","1,2",2,"3,4,5,6","4,5,6,7,8","46.7982254,7.6033792",
+190,Christoph Merian Stiftung,0,Basel,Basel-Stadt,3,"1,2,3,4",2,2,2,,"1,2,3,4,5,6,7","47.5545500,7.5955908",http://www.cms-basel.ch/de/aktuell.html
+191,Walter Züttel Stiftung,CHE-113.191.157,Zug,Zug,5,"2,3","1,2","1,2",2,"1,2","1,2,3,4,5,6,7,8","47.1825985,8.5214234",
+192,Albert Lück-Stiftung,CHE-110.380.816,Zürich,Zürich,1,2,2,"1,2",1,"1,2",5,"47.3828885,8.5422889",http://albert-lueck-stiftung.ch/
+193,"Anke, Remo und Avy Schällibaum-Stiftung (ARAS)",CHE-416.304.382,Zürich,Zürich,5,"1,2,3,4","1,2,4",1,2,"1,2",,"47.3805078,8.5075289",
+194,Pro Aqua - Pro Vita,CHE-109.613.758,Basel,Basel-Stadt,4,"1,2,3,4","1,2",1,2,"1,2,3,4,5,6",,"47.5641002,7.5995437",http://www.umweltpreis.ch/fr-CH/die-stiftung.aspx
+195,Stiftung Seniorenuniversität,CHE-109.797.776,Bern,Bern,3,1,5,"1,2","1,2",1,"7,8","46.9503715,7.4381864",http://www.seniorenuni.unibe.ch/ueber_uns/
+196,PG Impact Investments Foundation,CHE-292.626.332,Baar,Zug,5,"1,2,3,4",2,"1,2","1,2","3,4,5,6","2,3,4","47.1953729,8.5260870",
+197,Fondation Sens de la Vie,CHE-280.372.573,Lausanne,Vaud,4,1,2,"1,2","1,2",1,5,"46.5142419,6.6258056",
+198,de Clivo - Stiftung,CHE-113.940.858,Zürich,Zürich,5,"1,3","2,4",2,2,,"2,3,4,5,6","47.3560334,8.5541880",http://www.declivo.ch/
+199,Ores Stiftung für die Erforschung der marinen Umwelt,CHE-110.398.182,Basel,Basel-Stadt,5,"1,3","1,4","1,2",2,1,8,"47.5478680,7.6059179",http://www.ores.ch/index.php/education/swiss-services/der-walkoffer
+200,ABB Jürgen Dormann Foundation for Engineering Education,CHE-113.816.342,Baden,Aargau,5,1,4,2,1,,"5,6","47.4781989,8.3032502",http://new.abb.com/sustainability/foundation
+201,INVENTUS BERN - Stiftung,CHE-110.408.544,Bern-Bümpliz,Bern,1,"1,2","2,4,5","1,2",1,"2,3,4,5,6",6,"46.9418526,7.3915477",http://www.inventus.ch
+202,Fondation Raymond JACOT,CHE-439.948.573,Vernier,Genève,4,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.2189251,6.0875999",http://fondation-jacot.ch/
+203,Stiftung zur Förderung der Freiheit von Mensch und Natur,CHE-336.638.294,Zug,Zug,5,"1,2,3","1,2,4","1,2",2,"1,2","2,3,4,5,6,7","47.1725320,8.5183458",
+204,Jubiläumsstiftung der Basellandschaftlichen Kantonalbank,CHE-101.814.684,Liestal,Basel-Landschaft,3,1,"4,5","1,2","1,2","1,2","5,6","47.4858080,7.7318994",https://www.blkb.ch/die-blkb/unsere-engagements/stiftungen/jubilaeumsstiftung
+205,"Schweiz. Stiftung für Forschung und Ausbildung ""Qualität"" SFAQ",CHE-110.385.009,Zollikofen,Bern,6,"1,2","2,4,5","1,2","1,2",2,"5,6","46.9932747,7.4569846",
+206,Fondation E. et G. GELBERT,CHE-114.548.687,Genève,Genève,2,"1,2,3",2,"1,2","1,2",2,8,"46.2024709,6.1547259",http://www.fondation-gelbert.ch/v2/
+207,Karl Herr-Stiftung,CHE-110.377.091,Aarau,Aargau,3,1,4,2,"1,2",,"5,6","47.3901319,8.0477786",
+208,OPA - Objective Polyglot Apprenticeship,CHE-109.347.806,Zürich,Zürich,5,"1,2,3,4","1,2,4",2,"1,2",,"2,3,4,6,7","47.4175773,8.5574965",
+209,Theo Nydegger Stiftung,CHE-115.308.602,Thun,Bern,5,"1,3","2,5",2,2,,"1,2,3,4,5,6,7,8","46.7642913,7.6117849",
+210,Moritz Straus-Stiftung,CHE-110.408.975,Basel,Basel-Stadt,4,"1,2","2,4","1,2","1,2","1,2","5,6,7","47.5488957,7.5977381",
+211,Fondazione Futuro Calanca,CHE-114.474.675,Landarenca,Graubünden,2,"1,2,3,4","2,4","1,2",2,"1,2,3,4,5,6",8,"46.3181564,9.1261451",
+212,Kugler-Werdenberg-Stiftung,CHE-101.657.195,Basel,Basel-Stadt,1,3,2,1,2,1,,"47.5576654,7.5904037",
+213,Jürg Weber-Stiftung,CHE-110.523.530,Burgdorf,Bern,1,2,2,1,2,2,,"47.0553206,7.6252106",
+214,Stiftung Valladas Grischunas,CHE-171.558.003,Strada,Graubünden,2,"1,2,3,4",2,"1,2","1,2","2,3,4,5,6",8,"46.8626604,10.4352586",http://valladas-grischunas.ch/
+215,Fondazione VEL per la sperimentazione e l'introduzione di veicoli efficienti leggeri nell'uso quotidiano,CHE-110.238.733,Mendrisio,Ticino,4,"1,2,3,4",2,"1,2","1,2","2,3,4,5,6",8,"45.8742138,8.9779075",
+216,Stiftung Oekomedia,CHE-114.342.080,Basel,Basel-Stadt,6,"1,2,3,4",2,2,2,,8,"47.5516742,7.5908396",
+217,"Stiftung Dr. J.E. Brandenberger, Erfinder des Cellophans, errichtet von seiner Tochter Irma Marthe Brandenberger",CHE-101.768.972,Zürich,Zürich,4,1,5,1,"1,2","1,2",,"47.3795790,8.5456637",http://www.stiftungbrandenberger.ch/index.php/de/
+218,KPMG Foundation,CHE-113.961.613,Zürich,Zürich,5,3,"1,2",2,2,,"2,3,4,5,6,7","47.3753007,8.5201082",https://home.kpmg.com/ch/en/home/about/kpmg-foundation.html
+219,Arc Jurassien Déchets (AJD),CHE-483.924.725,Tramelan,Neuchâtel,2,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6","7,8","47.2240877,7.0991046",http://www.fondation-ajd.ch/arc-jurassien-dechets
+220,Stiftung Kausari,CHE-116.000.905,Solothurn,Solothurn,5,"1,2,3,4",2,"1,2",2,1,8,"47.2051690,7.5410335",http://samay-runa.com/kausari-stiftung/
+221,Little Troll Foundation,CHE-113.287.018,Genève,Genève,5,"1,3","2,4",2,2,,8,"46.1968714,6.1457630",http://www.troll-foundation.ch/
+222,One Nature Foundation,CHE-113.683.621,Vevey,Vaud,4,"1,2,3,4",2,2,2,,8,"46.4573709,6.8511913",http://www.onenaturefoundation.org/
+223,Fondation Orchidée,CHE-110.413.249,Chêne-Bougeries,Genève,5,"1,2,3,4",3,"1,2",2,1,8,"46.1874613,6.1727747",http://www.orchidee.org/
+224,Stiftung Accentus,CHE-109.640.867,Zürich,Zürich,5,"2,3",2,"1,2",2,"1,2",8,"47.3562474,8.5152645",https://www.accentus.ch/
+225,Fondazione Montelaura,CHE-113.543.173,Roveredo,Graubünden,2,"1,2,3,4",1,2,2,,8,"46.2400000,9.1300000",http://www.coloniamontelaura.ch/upload_files/corso%20funghi.pdf
+226,Stiftung Pro Bono,CHE-112.475.706,Luzern,Luzern,4,"1,2,3,4",2,"1,2","1,2","1,2",8,"47.0572897,8.3225935",
+227,Stipendienfonds der Korporationsgemeinde Sursee,CHE-110.379.753,Sursee,Luzern,2,1,4,2,"1,2",,"4,5,6,7","47.1682607,8.1058790",
+228,Fondation Hans Wilsdorf,CHE-101.796.922,Carouge,Genève,2,"1,2,3","2,4",2,2,,"1,2,3,4,5,6,7,8","46.1868060,6.1396679",http://www.agfa-ge.ch/wilsdorf.php
+229,The Tamari Foundation,CHE-152.261.519,Genève,Genève,5,"2,3",2,2,2,,8,"46.2058393,6.1422816",http://tamarifoundation.ch/
+230,Fondation Claude Guignard,CHE-244.056.254,Vandoeuvres,Genève,4,3,1,"1,2","1,2",1,8,"46.2129808,6.2089990",
+231,Fondation Givaudan,CHE-258.427.291,Vernier,Genève,5,3,2,2,2,,8,"46.2065629,6.0785769",http://www.givaudan-foundation.org/?language=fr
+232,St. Galler Stiftung zur Förderung studentischer Aktivitäten,CHE-114.536.939,Rorschach,St. Gallen,3,3,1,2,"1,2",,"5,6","47.4730557,9.5035820",
+233,Michael Kohn - Stiftung,CHE-112.047.434,Zürich,Zürich,1,2,1,1,1,"2,3,4,5,6",,"47.4017241,8.4951432",https://www.ethz-foundation.ch/dr-michael-kohn-fordert-quantentechnologie/
+234,Fondazione paesaggio Mont Grand a Soazza,CHE-114.544.471,Soazza,Graubünden,2,"1,3",3,"1,2",2,"1,2",8,"46.3447952,9.2452698",http://www.fondazionemontgrand.ch/index.php?__id=96&rt=Page&act=readpage&pid=5
+235,stiftung fhnw,CHE-115.755.622,Windisch,Aargau,2,2,2,"1,2",2,"2,3,4,5,6","6,7","47.4817211,8.2113634",http://www.stiftungfhnw.ch/stiftung-fhnw/index.php
+236,DGFI Stiftung,CHE-151.889.419,Zürich,Zürich,5,"1,2,3,4","1,4","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.3861258,8.5172354",
+237,Stiftung zur Förderung des Naturhistorischen Museums,CHE-110.163.348,Basel,Basel-Stadt,1,3,"1,2",1,2,1,,"47.5576654,7.5904037",
+238,Hans Vontobel Stiftung zur Förderung des Gemeinwohls,CHE-112.148.182,Zürich,Zürich,4,3,1,1,2,2,,"47.3649922,8.5347557",https://www.vontobel-stiftung.ch/DE/Home
+239,Finergence Fondation pour le financement initial d'entreprises novatrices,CHE-110.066.952,Neuchâtel,Neuchâtel,3,4,2,1,"1,2","2,3,4,5,6",,"47.0796880,6.7958459",http://www.finergence.ch/
+240,"Fondation pour le concours ""Environnement + Jeunesse""",CHE-110.397.751,Lausanne,Vaud,2,"1,2",5,2,2,,"2,3,4","46.5411564,6.6312878",http://www.environnementjeunesse.ch/index.htm
+241,Pfyl Stiftung,CHE-402.275.722,Zürich,Zürich,4,"2,3,4",2,"1,2","1,2","1,2","4,5,6,7","47.3872678,8.5348697",
+242,Thurgauische Stiftung für Wissenschaft und Forschung,CHE-109.586.311,Frauenfeld,Thurgau,3,"1,2","1,2,3,4","1,2","1,2",2,5,"47.5569034,8.8970753",https://amh.tg.ch/wissenschaft/thurgauische-stiftung-fuer-wissenschaft-und-forschung.html/3631
+243,Dr. Bernhard Stüdeli Stiftung,CHE-475.798.677,Pfäffikon SZ,Schwyz,2,3,1,1,"1,2","1,2,3,4,5,6",,"47.1972903,8.7649705",
+244,Foundation Zürich Park Side,CHE-403.517.069,Horgen,Zürich,2,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6","1,2,3,4,5,6,7","47.2609075,8.5977944",http://www.zurichparkside.org/
+245,Stiftung re-connected,CHE-111.691.638,Oberägeri,Zug,2,"1,2","2,4",2,"1,2",,"4,5,6,7","47.1376038,8.6172422",
+246,Dr. h. c. Karl Nicklaus Stiftung,CHE-162.992.346,Zug,Zug,4,"1,2,3,4",2,"1,2","1,2","2,3,4,5,6","4,5,6","47.1740656,8.5055023",
+247,Anna Maria und Karl Kramer-Stiftung,CHE-101.014.703,Zürich,Zürich,2,3,1,"1,2",2,"1,2",8,"47.3877193,8.5398614",http://www.kramer-stiftung.ch/
+248,Fondazione Leonardo,CHE-110.233.500,Lugano,Ticino,2,1,4,"1,2","1,2","1,2,3",5,"46.0031391,8.9496231",
+249,Curt Rommel-Stiftung,CHE-109.668.759,Bern,Bern,2,1,4,2,"1,2",,5,"46.9499653,7.4355493",
+250,Fondation Indosuez (Suisse),CHE-494.734.117,Genève,Genève,5,3,"1,2,3","1,2",2,1,8,"46.2044810,6.1471759",https://www.ca-indosuez.com/switzerland/en/indosuez-in-switzerland/csr-our-foundation
+251,Fondation ARPE,CHE-114.692.752,Zürich,Zürich,5,"1,3","1,4,5","1,2",2,2,"4,5,6","47.3659875,8.5355839",http://www.fondationarpe.com/en/home/
+252,Paul Niggli-Stiftung,CHE-110.379.629,Zürich,Zürich,4,1,"4,5","1,2","1,2","1,2",5,"47.3783717,8.5463523",
+253,Innovationsstiftung der Schwyzer Kantonalbank,CHE-113.181.704,Schwyz,Schwyz,3,4,"1,2",1,"1,2","3,4,5,6",,"47.0208159,8.6511419",https://www.szkb.ch/pub/firmenkunden/firmengruendung/finanzieren/innovationsstiftung
+254,Fondation UNEDU.H,CHE-429.120.348,Lausanne,Vaud,5,"1,2,3,4",2,"1,2","1,2",1,8,"46.5161709,6.6283198",http://www.fondation-unedu-h.org/
+255,Fondation Petunia,CHE-436.741.082,Genève,Genève,5,3,1,"1,2",2,1,8,"46.2038339,6.1559117",http://www.thepetuniafoundation.net/
+256,Stiftung sahee,CHE-112.759.167,Zürich,Zürich,5,3,2,2,2,,"2,3","47.3588427,8.5897557",http://sahee.org/pages/portrait.php?lg=de
+257,Zuger Stiftung für Wirtschaft und Wissenschaft,CHE-115.873.262,Baar,Zug,4,1,5,1,1,"1,2",,"47.1953556,8.5243632",https://www.werz.hsr.ch/index.php?id=10016
+258,Löwenspur Stiftung,CHE-320.997.184,Arbon,Thurgau,5,"1,2,3,4","1,2,4",2,"1,2",,"1,2,3,4,5,6,7,8","47.5178811,9.4366078",
+259,Fondation Sinopec-Addax Petroleum (Sinopec-Addax Petroleum Foundation),CHE-202.856.935,Chêne-Bougeries,Genève,4,3,2,2,2,,8,"46.1945419,6.1716512",https://www.sinopecaddaxpetroleumfoundation.org/
+260,Arthur und Frieda Thurnheer-Jenni Stiftung,CHE-110.200.067,Zürich,Zürich,4,"1,2,3,4",2,"1,2",2,"1,2",8,"47.3576071,8.5267012",
+261,Fondazione Tralcio,CHE-114.558.243,Lugano,Ticino,5,"3,4",2,1,"1,2",1,,"46.0075564,8.9542299",
+262,Werner Dessauer Stiftung,CHE-113.310.025,Zollikon,Zürich,4,"2,3","1,2",2,2,,"2,3,4,5,6,8","47.3333217,8.5787222",
+263,Swiss Finance Institute Stiftung,CHE-112.486.472,Zürich,Zürich,4,2,"1,2","1,2","1,2","1,2","5,6","47.3798842,8.5422797",
+264,Fondazione Realizza-ti,CHE-116.067.223,Gordola,Ticino,3,"1,4","1,2",1,"1,2","2,3,4,5,6",,"46.1810325,8.8604729",
+265,Fundaziun VnÃ,CHE-111.993.921,Vnà,Graubünden,1,"1,2,3,4","1,2",2,2,,8,"46.8422838,10.3642523",http://www.fundaziunvna.ch/index.php?id=37
+266,Stiftung Bredroli,CHE-111.723.675,Zürich,Zürich,5,"1,2,3","2,4",2,"1,2",,"1,2,3,4,5,6,7","47.3561744,8.5573416",
+267,Stiftung Pro-Vida,CHE-115.174.997,Luzern,Luzern,5,3,"2,3",2,2,,"2,3,4,5,6,7","47.0474185,8.3081358",
+268,Volkart Stiftung,CHE-100.707.778,Winterthur,Zürich,5,3,2,1,2,"1,2,3,4,5,6",,"47.5004345,8.7253166",http://www.volkart.ch/
+269,Quanterra : centre international sur les dangers naturels et les risques en milieu montagneux et l'impact causé par les changements climatiques,CHE-110.170.408,Lausanne,Vaud,5,2,2,"1,2",2,"1,2,3,4,5,6",7,"46.5204790,6.6132029",https://quanterra.ch/
+270,Stiftung ENTER,CHE-116.057.880,Solothurn,Solothurn,4,"2,3","1,2","1,2","1,2","1,2,3,4,5,6",8,"47.2149779,7.5325621",http://www.enter-online.ch/index.php?id=zweck-enter
+271,Gebauer Stiftung,CHE-111.741.319,Zürich,Zürich,5,"1,3","1,4","1,2","1,2",2,"4,5,6,7","47.3639594,8.5473251",http://www.gebauerstiftung.ch/
+272,LUMA & cetera Stiftung,CHE-327.208.351,Gstaad,Bern,5,"1,2,3,4","2,4",2,2,,"1,2,3,4,5,6,7,8","46.5119370,7.3025210",
+273,STIFTUNG EFG INTERNATIONAL,CHE-114.270.960,Zürich,Zürich,5,"1,2,3,4","1,2,3,5","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.3688600,8.5375149",
+274,Veryta Foundation,CHE-112.980.476,Lugano,Ticino,5,"1,2,3","1,2,3,4","1,2","1,2","1,2,3,4,5,6","2,3,4,5,6","46.0083876,8.9610255",
+275,NOMIS STIFTUNG,CHE-114.571.580,Zürich,Zürich,5,"2,3",2,"1,2","1,2",1,8,"47.3673193,8.5376496",
+276,Swiss Re Foundation,CHE-481.251.275,Zürich,Zürich,5,"2,3","2,5",1,2,"2,3,4,5,6",,"47.3598056,8.5348743",http://www.swissrefoundation.org/
+277,Centre de formation du secteur de la construction (CEFOSC),CHE-110.545.276,Eschert,Bern,4,1,"1,4",2,1,,"4,6","47.2789815,7.3947483",
+278,DodoBahati Stiftung für den Schutz der letzten Wildtiere,CHE-318.154.495,Au ZH,Zürich,5,1,4,2,2,,"2,3,7","47.2405898,8.6465673",http://www.dodobahati.ch/de/impressum
+279,PRO-NATURA INTERNATIONAL FOUNDATION FOR SUSTAINABLE DEVELOPMENT,CHE-112.015.339,Genève,Genève,5,"1,2,3,4",2,2,"1,2",,8,"46.2072472,6.1467603",https://www.pronatura.org/
+280,Swiss Support for Children,CHE-425.067.933,Kreuzlingen,Thurgau,5,"1,2,3","1,2,3,4",2,"1,2",,"2,3,4","47.6547305,9.1731315",http://ssfc.ch/
+281,Stiftung Polybau,CHE-109.678.769,Uzwil,St. Gallen,4,2,2,2,1,,6,"47.4364579,9.1342334",http://www.polybau.ch/index.cfm/de/verein_polybau/
+282,Sonjan Stiftung,CHE-110.348.327,Gipf-Oberfrick,Aargau,2,"1,2,3",2,"1,2",2,"1,2",5,"47.4996328,7.9745219",
+283,Stiftung zur Förderung der Denkmalpflege,CHE-104.354.696,Zürich,Zürich,4,"2,3",2,"1,2","1,2",2,"5,6,7","47.3894754,8.5457897",http://www.stiftung-denkmalpflege.ch/
+284,Whale Foundation,CHE-115.303.929,Zürich,Zürich,6,"1,2,3,4","1,2,4","1,2","1,2","1,2","4,5,6","47.3662833,8.5471952",
+285,Peter Bockhoff Stiftung,CHE-456.934.566,Zürich,Zürich,4,"1,2,3,4","1,2",2,1,,8,"47.3805078,8.5075289",
+286,Fondation Agassiz,CHE-101.647.392,Lausanne,Vaud,3,1,4,2,2,,5,"46.5210895,6.5801606",https://www.unil.ch/agassiz/home.html
+287,FONDATION PRINCE ALBERT II DE MONACO - SUISSE,CHE-114.392.385,Genève,Genève,5,"1,2,3,4",5,"1,2","1,2","1,2,3,4",8,"46.2056433,6.1363672",http://www.fpa2.org/
+288,Johannes Waldburger-Stiftung,CHE-104.146.100,Herisau,Appenzell Ausserrhoden,2,,"1,2",2,2,,8,"47.3903308,9.2773386",http://www.johanneswaldburger.ch
+289,Fondazione Uomo Natura,CHE-107.713.248,Lugano,Ticino,5,"1,2,3,4",2,2,2,,8,"46.0169853,8.9558872",
+290,International Golf and Life Foundation,CHE-114.751.774,St-Sulpice VD,Vaud,5,4,"1,2",2,2,,8,"46.5102829,6.5570161",
+291,NOVAGENESIS FOUNDATION,CHE-462.978.098,Weggis,Luzern,4,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"47.0273824,8.4578554",http://novagenesisfoundation.org/
+292,Kathrin Schweizer-Stiftung,CHE-417.570.779,Hedingen,Zürich,4,"1,2","2,4",2,2,,"4,5,6,7","47.3003168,8.4454266",
+293,Stiftung M.A. Center Switzerland,CHE-115.082.645,Flaach,Zürich,5,"1,2,3","2,4",2,2,,"2,3,4,8","47.5749750,8.5813080",http://www.ziegelhuette.ch/
+294,Gust und Lyn Guhl-Stiftung,CHE-104.047.231,Schöfflisdorf,Zürich,1,"1,3","2,4","1,2",2,"1,2","4,5,6,7","47.5055629,8.4171978",
+295,EHW-Stiftung,CHE-301.477.814,Köniz,Bern,5,"1,2,3","1,2,4","1,2","1,2","1,2","1,2,3,4,8","46.9248060,7.4119597",
+296,Afrikanische Innovations Stiftung,CHE-115.171.467,Zürich,Zürich,5,1,5,1,"1,2","3,4,5,6",,"47.3880637,8.5182402",http://africaninnovation.org/
+297,Drosos Stiftung,CHE-110.295.010,Zürich,Zürich,5,3,2,2,2,,"4,7","47.3828885,8.5422889",https://drosos.org/
+298,Stiftung Spitzenflühli,CHE-112.182.492,Basel,Basel-Stadt,4,"1,2,3,4",2,"1,2",2,1,8,"47.5594817,7.5880840",http://spitzenfluehli.ch/
+299,Fondation suisse pour la promotion des échanges et de la mobilité (FPEM),CHE-475.676.330,Bern,Bern,5,"1,2,3",2,2,1,,"2,3,4,5,6,7","46.9375268,7.4465649",http://www.fpem-ch.ch
+300,Stiftung Freie Gemeinschaftsbank,CHE-109.338.115,Basel,Basel-Stadt,5,"1,2,3,4",2,"1,2","1,2",1,8,"47.5565738,7.5883694",https://www.gemeinschaftsbank.ch/stiftung/stiftung
+301,"Fundaziun Chapella, Center per furmaziun e perscrutaziun, S-chanf",CHE-114.412.473,Cinuos-chel,Graubünden,2,"2,3,4",2,"1,2",2,"1,2","1,2,3,4,5,6,7,8","46.6324942,10.0141668",
+302,Johann Wolfgang von Goethe-Stiftung,CHE-104.051.505,Basel,Basel-Stadt,5,1,"1,2,4",2,2,,8,"47.5509103,7.6074183",http://www.goethestiftungbasel.ch/
+303,STMicroelectronics Foundation,CHE-109.576.086,Genève,Genève,5,"2,3",1,"1,2","1,2","1,2,3,4,5,6",8,"46.2028384,6.1547776",http://www.stfoundation.org
+304,Solaqua Stiftung,CHE-109.338.121,St. Gallen,St. Gallen,5,"1,2,3,4",2,2,2,,8,"47.4264832,9.3777914",http://www.solaqua.ch/en
+305,W.A. de Vigier Stiftung,CHE-110.145.698,Solothurn,Solothurn,4,"1,4",5,2,"1,2",,8,"47.2127247,7.5339087",http://www.devigier.ch/fr-FR/Home
+306,Fondation Ashoka Suisse (Ashoka Switzerland Foundation),CHE-114.842.017,Genève,Genève,5,1,4,"1,2",2,"2,3,4,5,6",8,"46.1997408,6.1681874",https://www.ashoka.org
+307,Parrotia-Stiftung,CHE-109.992.792,Zürich,Zürich,2,"1,2","1,4",1,"1,2","1,2",,"47.3673104,8.5336252",
+308,Water for Life Foundation,CHE-208.011.899,Basel,Basel-Stadt,5,3,"2,5",2,2,,8,"47.5479113,7.5941087",http://www.waterforlife.ch/
+309,LARIX FOUNDATION. Innovation matters. Switzerland,CHE-204.954.336,Bern,Bern,4,3,2,1,"1,2","1,2",,"46.9491313,7.4453505",
+310,Wilhelm Doerenkamp-Stiftung,CHE-109.613.882,Chur,Graubünden,5,"1,2","1,4","1,2","1,2","1,2","5,6,7","46.8636345,9.5309489",
+311,Fondazione Stella Chiara,CHE-471.031.246,Comano,Ticino,4,3,2,"1,2","1,2","1,2,3,4,5,6",8,"46.0376064,8.9577077",
+312,Mary Haid-Ohlson Stiftung,CHE-112.700.493,Pfäffikon SZ,Schwyz,5,"1,2","1,2,3,4","1,2",2,"1,2","2,3,4,5,6,7","47.2017861,8.7782898",
+313,"ESPERIA - Stiftung für Kultur, Bildung und Wissenschaft",CHE-113.887.023,Zürich,Zürich,5,1,4,"1,2",1,"2,3,4,5,6","5,6,7","47.3759690,8.5368620",http://www.esperia-foundation.org/
+314,Stiftung Drs. Werner und Louise Greuter-Briner,CHE-113.359.416,Winterthur,Zürich,5,"2,3",2,2,2,,"1,2,3,4,5,6,7,8","47.5052494,8.7243270",
+315,Frey-Clavel-Stiftung,CHE-101.792.798,Basel,Basel-Stadt,2,"1,2,3","1,2,4",1,2,"1,2",,"47.5531664,7.5930150",
+316,Fondation de la Société Neuchâteloise de Sciences Economiques,CHE-109.845.145,Neuchâtel,Neuchâtel,3,"1,3","2,3,4,5","1,2","1,2","1,2,3,4,5,6","5,7","46.9894962,6.9308822",http://www.snse.ch/snse-historique
+317,FONDATION VINCENT MERKLE,CHE-349.560.419,Fribourg,Fribourg,4,"1,2,3,4","1,2,3,4","1,2","1,2","1,2,3,4,5,6",8,"46.8020814,7.1534678",http://www.fondation-vm.ch/fr
+318,The Aurora Light Foundation,CHE-115.298.458,Klosters,Graubünden,5,"1,3","2,4","1,2","1,2","2,3,4,5,6",8,"46.8705522,9.8867170",http://auroralightfoundation.com/
+319,FONDAZIONE SORRISO,CHE-232.971.943,Chiasso,Ticino,3,1,"2,4","1,2","1,2","1,2,3,4,5,6","4,5,6","45.8358686,9.0288700",
+320,TRESTLE Group Stiftung,CHE-112.641.407,Diessenhofen,Thurgau,5,3,2,2,"1,2",,"4,5,6","47.6838377,8.7534642",
+321,FONDAZIONE EVEREST LUGANO,CHE-115.991.252,Lugano,Ticino,5,"1,2,3,4","1,2,3","1,2","1,2","1,2,3,4",4,"46.0062624,8.9593058",http://www.everest-fondazione.ch/
+322,Präventionsstiftung der Kantonalen Gebäudeversicherungen,CHE-110.093.995,Bern,Bern,4,"1,2,3,4",2,1,1,,,"46.9466751,7.4411938",http://www.praeventionsstiftung.ch
+323,Immobilienstiftung Rudolf Steiner Schulen Zürich (ImmoRSS),CHE-256.012.571,Zürich,Zürich,1,2,1,2,"1,2",,"1,2,3,4","47.3727873,8.5544208",https://www.immorss.ch/
+324,Novartis Stiftung für Mensch und Umwelt,CHE-110.409.319,Basel,Basel-Stadt,6,"3,4",1,2,2,,8,"47.5731486,7.5792042",
+325,Stiftung für Naturschutz und Wild,CHE-112.931.851,Basel,Basel-Stadt,5,"2,3","1,2",1,2,"1,2",,"47.5594033,7.5887743",
+326,Fondation Edmond Adolphe de Rothschild,CHE-101.795.880,Chambésy,Genève,5,3,"1,2,3,4,5","1,2","1,2",,"2,3,4,5,6,7,8","46.2346029,6.1393814",http://www.edrfoundations.org/default-fr.aspx
+327,Impact Corner - Stiftung,CHE-193.893.094,Zürich,Zürich,5,"1,2,3","1,2,4",2,2,,"1,2,3,4,5,6,7,8","47.3573515,8.5525622",
+328,FONDAZIONE Pierina Maria Storni,CHE-113.809.595,Sala Capriasca,Ticino,3,"2,3,4",1,2,"1,2",,"2,3,4,5,6,7","46.0655560,8.9563890",
+329,ELIBERT STIFTUNG,CHE-423.964.069,Heiden,Appenzell Ausserrhoden,3,"1,4","1,4",2,"1,2",,"4,5,6,7","47.4463277,9.5297241",
+330,Fondazione BPO,CHE-110.441.346,Champfèr,Graubünden,5,1,4,"1,2","1,2","1,2","4,5,6,7","46.4784800,9.8114300",
+331,Schweizerischer Nationalfonds zur Förderung der wissenschaftlichen Forschung,CHE-107.810.911,Bern,Bern,5,1,"2,4","1,2","1,2","1,2","5,6,7","46.9492172,7.4324107",http://www.snf.ch/de/Seiten/default.aspx
+332,Bühlmann-Kühni Stiftung,CHE-115.286.449,Biel-Benken,Basel-Landschaft,5,"2,3","1,2",1,"1,2","1,2",,"47.5103259,7.5248396",
+333,Wilsdorf Mettler Future Foundation,CHE-473.801.707,Pfäffikon SZ,Schwyz,6,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6","1,2,3,4,5,6,7,8","47.1972903,8.7649705",
+334,Fonds de bourses jurassien et biennois,CHE-109.233.775,Biel/Bienne,Bern,3,1,4,2,"1,2",,"4,5,6,7","47.1338107,7.2428711",http://www.fbjb.ch
+335,UZH Foundation,CHE-400.779.791,Zürich,Zürich,1,2,1,"1,2","1,2","2,3,4,5,6",5,"47.3796180,8.5469569",http://www.uzhfoundation.ch/de/
+336,Scholar Support Fund,CHE-492.550.291,Zug,Zug,5,1,4,2,"1,2",,"4,5,6","47.1716313,8.5167062",
+337,Stiftung GREATER ZURICH AREA Standortmarketing,CHE-109.325.957,Zürich,Zürich,3,4,1,1,1,"1,2,3,4,5,6",,"47.3755943,8.5436662",https://www.greaterzuricharea-stiftung.ch/oeffentliche-stifter/
+338,Meyer-Ravenna Stiftung,CHE-110.541.249,Zürich,Zürich,5,"1,2,3","2,4",1,"1,2","1,2",,"47.3764580,8.5578353",
+339,Werner Steiger Stiftung,CHE-104.426.700,Untersiggenthal,Aargau,5,"1,2,3,4","1,4","1,2","1,2","2,3,4","5,6,7","47.5000870,8.2656862",
+340,Stiftung Lauerzersee,CHE-103.992.210,Schwyz,Schwyz,2,"2,3",2,"1,2",2,"1,2",8,"47.0124072,8.6576729",http://www.pronatura-sz.ch/lauerzersee
+341,Fondation Pier-Luigi Giovannini,CHE-110.294.281,Fribourg,Fribourg,5,"1,2,3",2,2,"1,2",,8,"46.8000933,7.1514846",
+342,Béatrice Ederer-Weber Stiftung,CHE-263.055.172,Zürich,Zürich,5,"1,3",2,"1,2",2,1,8,"47.3617566,8.5490930",http://www.ederer-stiftung.ch/startseite
+343,Stiftung Seemuseum,CHE-107.498.386,Kreuzlingen,Thurgau,5,"2,3",2,"1,2",2,"1,2",8,"47.6487513,9.1893349",http://www.seemuseum.ch/
+344,Fondation Dimitris N. Chorafas,CHE-110.392.771,Luzern,Luzern,4,1,5,1,"1,2","1,2,3,4,5,6",,"47.0540097,8.3096367",http://research-office.epfl.ch/chorafas
+345,Stiftung SoliWerk,CHE-112.179.969,Almens,Graubünden,4,"2,3,4","2,3","1,2","1,2","1,2,3,4,5,6","1,2,3,4,5,6,7","46.7394742,9.4659578",http://stiftung.soliwerk.ch/
+346,earthbeat solutions foundation,CHE-407.899.120,Zürich,Zürich,5,"3,4","1,2,3",2,2,,8,"47.3730646,8.5350538",
+347,Fondazione Carla e Bruno Fabbroni,CHE-110.484.982,Lugano,Ticino,2,3,2,"1,2","1,2","1,2",8,"46.0089913,8.9557929",
+348,Fondation Les Cerlatez,CHE-107.490.315,Saignelégier,Jura,3,"1,2,3,4",2,2,2,,8,"47.2432941,7.0282920",http://www.centre-cerlatez.ch/
+349,Wolfermann-Nägeli-Stiftung,CHE-110.392.251,Zürich,Zürich,4,2,2,1,"1,2","1,2",,"47.3681441,8.5393976",
+350,Stiftung Swiss Excellence,CHE-110.554.766,Zürich,Zürich,4,4,"2,5",1,"1,2","3,4,5,6",,"47.3725085,8.5384723",http://swiss-excellence.ch/
+351,Fondazione Carlo e Albina Cavargna,CHE-110.412.830,Biasca,Ticino,2,1,"2,4","1,2","1,2",1,"5,7","46.3610582,8.9819228",
+352,Walder-Graf-Stiftung,CHE-379.754.483,Feldbach,Zürich,4,1,4,2,"1,2",,"4,5,6","47.2401393,8.7840313",
+353,Fondation Nadine de Rothschild,CHE-110.391.369,Genève,Genève,5,"1,2,3,4","1,2,3,4,5","1,2","1,2",,"2,3,4,5,6,7,8","46.2028384,6.1547776",http://www.edrfoundations.org/default-fr.aspx
+354,Stiftung zur internationalen Erhaltung der Pflanzenvielfalt,CHE-109.667.116,Brunnen,Schwyz,5,"1,2,3,4",2,1,2,"2,3",,"47.0038156,8.6031529",
+355,"SST, SCHWEIZERISCHE STIFTUNG FÜR SOLIDARITÄT IM TOURISMUS",CHE-109.526.384,Basel,Basel-Stadt,5,"1,2,3,4","1,2,5","1,2",2,2,"2,3,4,5,6,7,8","47.5512346,7.5682797",http://www.sstfoundation.org/de
+356,"Cooperaxion, Stiftung für nachhaltige Entwicklung und interkulturellen Austausch",CHE-112.566.591,Bern,Bern,5,3,1,2,2,,"2,3,4,8","46.9543566,7.4497593",http://www.cooperaxion.org
+357,Stiftung Innovation Emmental-Napf,CHE-112.153.125,Eggiwil,Bern,2,"3,4",2,"1,2",2,1,8,"46.8981958,7.7712548",http://www.stiftung-innovation.ch
+358,Fondation Ecojardinage,CHE-245.835.344,Essert-s-Champvent,Vaud,4,"1,2,3,4","4,5",2,2,,7,"46.7911571,6.5859181",https://www.ecojardinage.ch/la-fondation/qui-sommes-nous/
+359,Oak Foundation,0,Cointrin,Genève,5,"1,2,3,4",2,"1,2",2,1,8,"46.2237547,6.1094253",http://oakfnd.org/content/8233
+360,Rainbows4children Stiftung,CHE-111.732.734,Lachen,Schwyz,5,"1,2","3,4",2,1,,"1,2,3,4,5","47.1867723,8.8544917",http://www.rainbows4children.org/
+361,Fondation Jardin botanique scientifique et universitaire de Neuchâtel,CHE-113.678.092,Neuchâtel,Neuchâtel,3,4,1,"1,2",2,1,8,"47.0001364,6.9346864",http://www.jbneuchatel.ch/historique
+362,Organic World Foundation,CHE-337.064.036,Zug,Zug,5,"3,4","1,2","1,2","1,2","1,2,3,4,5,6","7,8","47.1772912,8.5176576",https://www.organicworldfoundation.ch/
+363,Europäische Umwelt-Stiftung,CHE-256.457.660,Basel,Basel-Stadt,5,"1,2,3,4","1,2,3,4,5","1,2","1,2",1,8,"47.5532109,7.5923838",https://www.european-environment-foundation.eu/
+364,Detas Foundation,CHE-265.701.729,Verbier,Valais,5,"1,2,3,4","2,4",2,2,,8,"46.1006852,7.2259308",
+365,Jubiläumsstiftung Georg Fischer,CHE-109.799.462,Schaffhausen,Schaffhausen,5,"1,2,3,4",2,1,2,"2,3,4,5,6",,"47.7083935,8.6437812",https://www.georgfischer.com/content/gf/com/en/UeberGeorgFischer/foundations.html
+366,Fondation Philanthropia (Philanthropia foundation),CHE-114.255.877,Genève,Genève,5,"1,2,3,4",1,"1,2",2,1,8,"46.2029913,6.1435832",http://www.fondationphilanthropia.org/?lang=fr
+367,Walters Kundert Stiftung,CHE-115.762.527,Zürich,Zürich,5,"1,2,3,4",2,"1,2","1,2","1,2","4,5,6","47.3683771,8.5364436",
+368,Foundation for Global Sustainability (FFGS),CHE-113.966.792,Zürich,Zürich,5,"1,2,3,4",2,1,"1,2","2,3,4,5,6",,"47.3771031,8.5334746",http://cleantech21.org/index.php?id=289
+369,Fondation Odeon,CHE-100.311.788,Genève,Genève,5,"1,2,3,4",1,1,"1,2","1,2",,"46.2012814,6.1419784",
+370,SWF Stiftung für wissenschaftliche Forschung,CHE-101.893.784,Zürich,Zürich,4,"1,2","2,5",1,"1,2","1,2",,"47.3625255,8.5514523",
+371,Robert Bider-Stiftung,CHE-115.282.575,Zürich,Zürich,5,"1,2,3","2,4","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.3646007,8.5490789",
+372,Empathie-Stiftung für Tiere und Umwelt,CHE-166.768.061,Bad Zurzach,Aargau,5,"1,2,3,4","1,2,4","1,2",2,"1,2,3,4,5,6","1,2,3,4,5,6,7,8","47.5863575,8.2885381",
+373,ETH Zürich Foundation,CHE-110.182.216,Zürich,Zürich,2,"1,2","2,4","1,2","1,2","1,2",5,"47.3790419,8.5440289",https://www.ethz-foundation.ch/
+374,Doris Dietschy und Denise Dietschy-Frick-Stiftung,CHE-141.803.008,Basel,Basel-Stadt,3,"2,3",1,"1,2","1,2","1,2",5,"47.5529591,7.5918856",
+375,"Fondazione di solidarietà della Loggia Massonica ""Brenno Bertoni""",CHE-110.387.913,Lugano,Ticino,3,1,4,2,"1,2",,"5,6","46.0073501,8.9525451",http://www.brennobertoni.ch/storia.html
+376,Stiftung Naturzentrum Glarnerland,CHE-113.900.698,Niederurnen,Glarus,3,"1,2,3,4",2,2,2,,8,"47.1245944,9.0565862",https://www.naturzentrumglarnerland.ch/%C3%BCber-uns/stiftung/
+377,Stiftung in honorem divinae sapientiae,CHE-110.522.192,Schwarzenberg,Luzern,5,"2,4",2,1,"1,2","1,2,3,4,5,6",,"47.0192475,8.1761207",
+378,Asmallworld Foundation,CHE-392.883.160,Zürich,Zürich,5,3,1,2,2,,"2,3","47.3510517,8.5605738",http://www.asmallworldfoundation.org/
+379,SESIG Stiftung,CHE-110.388.410,Adliswil,Zürich,3,"1,2,3,4",2,"1,2","1,2","3,4,5,6","4,5,6","47.3263500,8.5303766",
+380,Stiftung Netzwerk Bielersee,CHE-113.920.815,Biel/Bienne,Bern,4,"1,2,3,4",2,2,2,,8,"47.1386356,7.2454705",http://www.netzwerkbielersee.ch/de/
+381,Schweizerische Stiftung für Landschaftsarchitektur (SLA),CHE-110.410.529,Rapperswil,St. Gallen,4,1,5,"1,2",2,1,5,"47.2236318,8.8180845",https://www.sla-stiftung-landschaftsarchitektur.ch/
+382,Stiftung Zoodo,CHE-112.200.730,Wolfenschiessen,Nidwalden,5,"1,3",2,2,"1,2",,"2,3,4,5,6,7","46.9105324,8.4001230",http://www.zoodo.ch/
+383,Fondazione Internazionale Carli'n,CHE-267.282.181,Ascona,Ticino,5,1,2,1,"1,2","1,2,3,4,5,6",,"46.1561037,8.7700085",http://www.fondazionecarlin.com/
+384,Schweizerische Studienstiftung Fonds für begabte junge Menschen,CHE-110.400.620,Zürich,Zürich,4,1,4,2,"1,2",,5,"47.3675216,8.5547995",https://www.studienstiftung.ch/
+385,Fondation LAC,CHE-362.889.838,Veytaux,Vaud,4,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.4208130,6.9254603",
+386,Dr. Franz Käppeli Stiftung,CHE-326.663.422,Geltwil,Aargau,2,"1,2,3,4","1,2,3,4","1,2","1,2","1,2,3,4,5,6","4,5,6,7","47.2492718,8.3222253",
+387,Stiftung éducation21,CHE-334.292.233,Bern,Bern,4,2,2,2,2,,"2,3,4,7","46.9436347,7.4362290",http://www.education21.ch/en/home
+388,Stiftung Inspire,CHE-114.540.579,Zürich,Zürich,4,4,1,"1,2","1,2","2,3,4,5,6","5,6,7,8","47.3901869,8.5158465",
+389,CEB Trust Fund,CHE-111.779.434,Genève,Genève,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"46.2020119,6.1602564",
+390,Fondation Guilé,CHE-109.989.034,Boncourt,Jura,5,4,2,2,2,,8,"47.4991348,7.0195164",http://www.guile.org/
+391,Hurt-Stiftung,CHE-115.066.787,Ennetbürgen,Nidwalden,4,1,4,"1,2",2,"2,3,4,5,6",8,"46.9853085,8.4081028",http://hurt-stiftung.org/
+392,Beat und Dieter Jutzler-Stiftung,CHE-110.397.923,Münchenbuchsee,Bern,4,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",5,"47.0205965,7.4503536",
+393,Stiftung zur Förderung des landwirtschaftlichen Bildungswesens,CHE-110.389.616,Brugg AG,Aargau,4,2,"1,2,3",2,2,,"4,5,6,7","47.4842317,8.2047270",
+394,Fondation ProTechno (ProTechno Stiftung) (ProTechno Foundation),CHE-110.636.111,Neuchâtel,Neuchâtel,4,"1,3","1,3,4","1,2","1,2","1,2,3,4,5,6",8,"46.9914936,6.9302206",
+395,TONI HAGEN STIFTUNG (SCHWEIZ),CHE-109.672.442,Sils/Segl Maria,Graubünden,5,3,2,2,2,,8,"46.4293911,9.7645858",http://tonihagen-stiftung.ch/
+396,Happel Foundation,CHE-112.737.007,Luzern,Luzern,5,"1,3","2,4",2,2,,8,"47.0503196,8.3118311",
+397,Rotary Stiftung am Greifensee,CHE-109.588.037,Mönchaltorf,Zürich,5,"1,2,3,4","2,4",2,2,,"4,5,6","47.3113307,8.7182806",
+398,Gewerbe-Stiftung,CHE-377.291.928,Basel,Basel-Stadt,2,"1,4",2,"1,2","1,2","3,4,5,6","4,6,7,8","47.5523919,7.5915596",http://gewerbestiftung.ch/
+399,Stiftung Veronika Leutwyler,CHE-110.270.748,Zürich,Zürich,5,"1,2,3","1,2,4",2,"1,2",,"2,3,4","47.3791004,8.4945732",
+400,René Lanz Stiftung,CHE-293.547.824,Muri b. Bern,Bern,5,"1,2,3,4","1,2,3,4",2,"1,2",,"2,3,4,5,6","46.9263948,7.4964840",
+401,Global Institute for New Energy Technologies (GIFNET),CHE-110.271.328,Genève,Genève,5,"1,2,3,4",2,1,"1,2","1,2,3,4,5,6",,"46.2070181,6.1442955",
+402,Jura-Stiftung für Sediment- und Strukturgeologie,CHE-114.412.214,Zürich,Zürich,5,"1,2,3,4","2,4","1,2",2,1,5,"47.3681441,8.5393976",
 403,Stiftung des Rotary Clubs Oerlikon,CHE-109.070.680,Zürich,Zürich,5,"1,3","1,2,4",2,2,,8,"47.3929867,8.5153728",
-411,Fonds de bourses jurassien et biennois,CHE-109.233.775,Biel/Bienne,Bern,3,1,4,2,"1,2",,"4,5,6,7","47.1338107,7.2428711",http://www.fbjb.ch
-416,Naturwaldstiftung,CHE-109.325.696,Zürich,Zürich,3,"1,2,3,4",2,2,2,,8,"47.3976561,8.5080981",
-417,Stiftung GREATER ZURICH AREA Standortmarketing,CHE-109.325.957,Zürich,Zürich,3,4,1,1,1,"1,2,3,4,5,6",,"47.3755943,8.5436662",https://www.greaterzuricharea-stiftung.ch/oeffentliche-stifter/
-420,Ernst Hadorn-Stiftung,CHE-109.329.837,Zürich,Zürich,1,"1,2","2,4","1,2","1,2",1,"5,6","47.3698308,8.5438325",
-422,Bourse d'Etudes Rotary Porrentruy - Delémont,CHE-109.334.198,Delémont,Jura,4,1,4,2,"1,2",,"5,6,7","47.3705484,7.3422276",
-425,FHA-Stiftung Wirtschaft,CHE-109.338.032,Aarau,Aargau,2,2,1,"1,2","1,2","1,2,3","5,6,7","47.3886765,8.0493548",https://www.aihk.ch/dienstleistungen-fuer-die-unternehmen/externe-fachbereiche/fha-stiftungen-technik-wirtschaft/index.html
-426,Stiftung Freie Gemeinschaftsbank,CHE-109.338.115,Basel,Basel-Stadt,5,"1,2,3,4",2,"1,2","1,2",1,8,"47.5565738,7.5883694",https://www.gemeinschaftsbank.ch/stiftung/stiftung
-427,Solaqua Stiftung,CHE-109.338.121,St. Gallen,St. Gallen,5,"1,2,3,4",2,2,2,,8,"47.4264832,9.3777914",http://www.solaqua.ch/en
-431,Stiftung WirtschaftsSchule Thun,CHE-109.347.433,Thun,Bern,1,1,4,2,"1,2",,"2,3,4,5,6,7","46.7499831,7.6320373",http://www.wst.ch/die-wst/kommissionen/stiftung-wirtschaftsschule-thun
-432,OPA - Objective Polyglot Apprenticeship,CHE-109.347.806,Zürich,Zürich,5,"1,2,3,4","1,2,4",2,"1,2",,"2,3,4,6,7","47.4175773,8.5574965",
-441,the cogito foundation,CHE-109.374.128,Wollerau,Schwyz,5,2,2,"1,2","1,2","1,2",5,"47.2003955,8.7117452",http://www.cogitofoundation.ch/en/
-446,Stiftung zur Förderung der wirtschaftlichen Entwicklung von Glarus Süd,CHE-109.380.672,Schwanden GL,Glarus,2,4,2,1,"1,2","4,5,6",,"46.9952929,9.0685627",http://www.glarus.ch/xml_1/internet/de/application/d237/d262/f270.cfm
-448,Stiftung BASE (Basel Agency for Sustainable Energy),CHE-109.384.061,Basel,Basel-Stadt,5,"1,2,3,4",2,2,"1,2",,8,"47.5516742,7.5908396",http://energy-base.org/
-449,Schweizerische Stiftung der Kakao- und Schokoladewirtschaft,CHE-109.387.088,Bern,Bern,5,"1,2,3,4",3,"1,2","1,2",2,"2,3,4,6,7,8","46.9469897,7.4470390",
-450,Abisch-Frenkel-Stiftung,CHE-109.387.556,Basel,Basel-Stadt,5,2,2,"1,2","1,2","1,2",5,"47.5564370,7.5858599",
-451,Dätwyler Stiftung,CHE-109.390.481,Altdorf UR,Uri,3,3,"2,5","1,2",2,"1,2,3,4,5,6",8,"46.8796628,8.6393800",http://www.daetwyler-stiftung.ch/Home.8.0.html
-453,Fondation pour le développement durable des régions de montagne,CHE-109.398.637,Sion,Valais,5,"1,2,3,4",2,"1,2",2,1,8,"46.2351892,7.3552392",http://www.fddm.ch/fr/
-491,Konrad Heinrich Auer-Stiftung,CHE-109.511.017,Netstal,Glarus,3,1,"4,5","1,2","1,2","1,2",5,"47.0557608,9.0539850",
-494,"SST, SCHWEIZERISCHE STIFTUNG FÜR SOLIDARITÄT IM TOURISMUS",CHE-109.526.384,Basel,Basel-Stadt,5,"1,2,3,4","1,2,5","1,2",2,2,"2,3,4,5,6,7,8","47.5512346,7.5682797",http://www.sstfoundation.org/de
-497,Stiftung Mercator Schweiz,CHE-109.528.408,Zürich,Zürich,4,"2,3",2,"1,2",2,"1,2","1,2,3,4,5,6,7,8","47.3678154,8.5324747",http://www.stiftung-mercator.ch/de/stiftung/
-505,Schweizerische Orchideenstiftung Herbarium Jany Renz,CHE-109.548.026,Basel,Basel-Stadt,5,1,5,1,2,1,,"47.5361371,7.5886059",https://orchid.unibas.ch/index.php/en/
-506,Corvus Stiftung,CHE-109.551.927,Zürich,Zürich,5,"1,2,3,4",2,"1,2",2,"1,2","2,3","47.3651092,8.5352481",
-508,FORUM DAVOS,CHE-109.556.497,Davos Platz,Graubünden,5,3,"1,2","1,2","1,2",1,8,"46.7975594,9.8220772",https://www.weforum.org/
-509,Singenberg-Stiftung,CHE-109.557.723,Basel,Basel-Stadt,5,2,2,"1,2",2,"1,2","4,5,6,8","47.5414161,7.6201628",
-515,Stiftung für gesellschaftliche Lebensqualität,CHE-109.574.762,Liestal,Basel-Landschaft,4,"3,4","1,2",2,2,,8,"47.4843344,7.7365811",http://www.stiftunglq.com
-516,STMicroelectronics Foundation,CHE-109.576.086,Genève,Genève,5,"2,3",1,"1,2","1,2","1,2,3,4,5,6",8,"46.2028384,6.1547776",http://www.stfoundation.org
-520,SYNGENTA STIFTUNG FÜR NACHHALTIGE LANDWIRTSCHAFT,CHE-109.582.678,Basel,Basel-Stadt,5,"2,3,4","1,2",1,2,"2,3,4,5,6",,"47.5675554,7.6058069",https://www.syngentafoundation.org/
-522,Thurgauische Stiftung für Wissenschaft und Forschung,CHE-109.586.311,Frauenfeld,Thurgau,3,"1,2","1,2,3,4","1,2","1,2",2,5,"47.5569034,8.8970753",https://amh.tg.ch/wissenschaft/thurgauische-stiftung-fuer-wissenschaft-und-forschung.html/3631
-525,Rotary Stiftung am Greifensee,CHE-109.588.037,Mönchaltorf,Zürich,5,"1,2,3,4","2,4",2,2,,"4,5,6","47.3113307,8.7182806",
-537,Stiftung Marie-Lou Ringgenberg,CHE-109.597.131,Bern,Bern,1,"1,2,3,4","2,4","1,2","1,2","1,2","2,3,4,5,6","46.9572974,7.4553171",
-538,Anna-Maria-Wili-Stiftung,CHE-109.599.035,Kriens,Luzern,5,"1,2","2,4","1,2","1,2","1,2","4,5,6,8","47.0354069,8.2882523",
-542,Pro Aqua - Pro Vita,CHE-109.613.758,Basel,Basel-Stadt,4,"1,2,3,4","1,2",1,2,"1,2,3,4,5,6",,"47.5641002,7.5995437",http://www.umweltpreis.ch/fr-CH/die-stiftung.aspx
-543,Wilhelm Doerenkamp-Stiftung,CHE-109.613.882,Chur,Graubünden,5,"1,2","1,4","1,2","1,2","1,2","5,6,7","46.8636345,9.5309489",
-549,JACOBS STIFTUNG,CHE-109.625.477,Zürich,Zürich,5,2,"2,4","1,2","1,2","1,2","1,2,3","47.3597065,8.5480707",http://jacobsfoundation.org/de/
-556,Josef und Paulette Binkert Stiftung,CHE-109.638.770,Wallisellen,Zürich,4,"1,2,3,4","4,5","1,2",1,3,"4,6,7","47.4156838,8.5821551",
-558,Stiftung Accentus,CHE?109.640.867,Zürich,Zürich,5,"2,3",2,"1,2",2,"1,2",8,"47.3562474,8.5152645",https://www.accentus.ch/
-575,Stiftung zur internationalen Erhaltung der Pflanzenvielfalt,CHE-109.667.116,Brunnen,Schwyz,5,"1,2,3,4",2,1,2,"2,3",,"47.0038156,8.6031529",
-578,Curt Rommel-Stiftung,CHE-109.668.759,Bern,Bern,2,1,4,2,"1,2",,5,"46.9499653,7.4355493",
-580,TONI HAGEN STIFTUNG (SCHWEIZ),CHE-109.672.442,Sils/Segl Maria,Graubünden,5,3,2,2,2,,8,"46.4293911,9.7645858",http://tonihagen-stiftung.ch/
-581,Emil-Boral-Stiftung des Schweizer Hotelier-Vereins,CHE-109.672.577,Bern,Bern,4,"1,2","1,2,4","1,2",2,2,"4,6","46.9354921,7.4363143",
-585,Solon-Stiftung,CHE-109.676.581,Luzern 7,Luzern,6,"1,2,3","1,4","1,2",2,"1,2","4,5,6,8","47.0501671,8.3024918",
-587,Stiftung Polybau,CHE-109.678.769,Uzwil,St. Gallen,4,2,2,2,1,,6,"47.4364579,9.1342334",http://www.polybau.ch/index.cfm/de/verein_polybau/
-591,Schweizerische Umweltstiftung,CHE-109.684.008,Luzern,Luzern,4,"1,2,3,4",5,"1,2",2,"1,2,3,4,5,6",8,"47.0547826,8.3112282",https://www.umwelt-stiftung.ch/home/
-601,King Albert I Memorial Foundation,CHE-109.705.550,Zürich,Zürich,5,"1,3",5,1,2,2,,"47.3981118,8.5257797",http://www.king-albert.ch/
-602,Avina Stiftung,CHE-109.710.083,Hurden,Schwyz,5,"2,3,4","1,2","1,2","1,2","2,3,4,5,6","1,2,3,4,5,6,7","47.2133190,8.8001266",http://www.avinastiftung.ch/de/homepage
-606,Dr. Willi Zeller-Stiftung,CHE-109.749.151,Zürich,Zürich,6,"2,3",2,"1,2",2,"1,2","1,2,3","47.3578369,8.5774990",
-607,Stiftung für eine nachhaltige Ernährung durch die schweizerische Landwirtschaft,CHE-109.749.317,Brugg AG,Aargau,4,"2,3,4","2,3","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.4842317,8.2047270",
-625,Stiftung Seniorenuniversität,CHE-109.797.776,Bern,Bern,3,1,5,"1,2","1,2",1,"7,8","46.9503715,7.4381864",http://www.seniorenuni.unibe.ch/ueber_uns/
-628,Jubiläumsstiftung Georg Fischer,CHE-109.799.462,Schaffhausen,Schaffhausen,5,"1,2,3,4",2,1,2,"2,3,4,5,6",,"47.7083935,8.6437812",https://www.georgfischer.com/content/gf/com/en/UeberGeorgFischer/foundations.html
-633,Werner Steinegger Stiftung,CHE-109.808.316,Küsnacht,Zürich,4,"1,4","2,4",1,"1,2","2,3,4,5,6",,"47.3150196,8.5973387",
-634,Fondazione Valle Bavona,CHE-109.808.799,Cavergno,Ticino,1,"3,4",2,1,2,"1,2",,"46.3450894,8.6057293",http://www.bavona.ch/
-636,Stiftung Umweltbildung und Tourismus Uri-Gotthard,CHE-109.810.359,Göschenen,Uri,2,"1,2,3,4",2,2,2,,"1,2,3,4,5,6,7,8","46.6682035,8.5867271",
-639,Posen Stiftung,CHE-109.812.192,Luzern,Luzern,6,"1,2","1,4","1,2","1,2","1,2","1,2,3,4,5,6,7","47.0529545,8.3057740",
-641,Stiftung Corymbo,CHE-109.823.988,Zürich,Zürich,5,"1,3",2,1,2,"2,3,4,5,6",,"47.3664923,8.5182899",https://corymbo.ch/
-644,Stiftung zur Förderung der Textilindustrie (SFT),CHE-109.826.142,Zürich,Zürich,4,"2,4",2,1,2,2,,"47.3664798,8.5367857",
-648,Fondazione Don Bautista Gargantini per il sostegno allo sviluppo e all'educazione,CHE-109.830.089,Lugano,Ticino,5,"2,3",2,2,"1,2",,"1,2,3,4,5,6,7,8","46.0115227,8.9557689",
-653,FONDAZIONE DALLE MOLLE PER LA QUALITÀ DELLA VITA,CHE-109.833.780,Lugano,Ticino,5,"1,2,3,4",5,1,2,"2,3,4,5,6",,"46.0079693,8.9520041",http://www.dallemolle.ch/de/stiftung/prasentation
-660,Fondation de la Société Neuchâteloise de Sciences Economiques,CHE-109.845.145,Neuchâtel,Neuchâtel,3,"1,3","2,3,4,5","1,2","1,2","1,2,3,4,5,6","5,7","46.9894962,6.9308822",http://www.snse.ch/snse-historique
-661,Lantal Foundation for Cultural and Sustainable Education,CHE-109.851.275,Langenthal,Bern,2,"1,2","2,4","1,2",2,"1,2","4,5,6,7","47.2146316,7.7779057",
-663,Marianne & Benno Lüthi Stiftung,CHE-109.914.987,Forch,Zürich,5,"1,2,3","2,4","1,2",2,"1,2","4,5,6","47.3264670,8.6493964",
-668,Entwicklungsfonds Seltene Metalle,CHE-109.946.326,Zürich,Zürich,5,"2,3,4","2,3","1,2","1,2","1,2",5,"47.3760824,8.5404533",http://www.esmfoundation.org/
-673,"Oekopolis Stiftung für interdisziplinäre Information, Innovation und Projektgestaltung im Beziehungsfeld Energie-Technik-Natur",CHE-109.950.138,Zürich,Zürich,4,"1,2,3,4",2,1,"1,2","3,4,5,6",,"47.3803563,8.5005467",
-678,Stiftung Vision Mitte,CHE-109.983.416,Windisch,Aargau,2,"1,2,3,4",2,2,2,,4,"47.4778864,8.2167194",
-679,Stefanie und Wolfgang Baumann Stiftung,CHE-109.983.497,Basel,Basel-Stadt,6,"1,2","2,4","1,2","1,2","1,2","5,6","47.5477918,7.6064662",
-680,Peter Baumann Foundation,CHE-109.983.511,Altendorf,Schwyz,5,"1,2,3","2,4","1,2","1,2",2,"2,3,4,5,6","47.1863947,8.8301350",http://www.peterbaumannfoundation.org/
-688,Fondazione Filantropica Danilo e Luca Fossati,CHE-109.988.075,Massagno,Ticino,5,"1,3",2,2,2,,"1,2,3,4,5,6,7","46.0129779,8.9432062",http://www.fondazionefossati.org/
-689,Albin-Pedrotti-Stiftung,CHE-109.988.678,St. Gallen,St. Gallen,4,"1,3",2,2,1,,8,"47.4295161,9.3793739",
-691,Lagrev Stiftung,CHE-109.988.879,Zürich,Zürich,6,"1,2,3,4","1,2,4",2,"1,2",,"2,3,4,5,6","47.3657437,8.5260534",
-692,Fondation Guilé,CHE-109.989.034,Boncourt,Jura,5,4,2,2,2,,8,"47.4991348,7.0195164",http://www.guile.org/
-695,NTFP-Stiftung,CHE-109.990.706,Bern,Bern,5,"2,3",2,"1,2",2,2,8,"46.9493917,7.4407736",
-698,Parrotia-Stiftung,CHE-109.992.792,Zürich,Zürich,2,"1,2","1,4",1,"1,2","1,2",,"47.3673104,8.5336252",
-707,Hansdieter und Thildy Kretschmer Stiftung,CHE-109.995.566,Neftenbach,Zürich,5,3,"1,2",2,2,,"2,3,4,5,6","47.5216840,8.6737619",
-709,Thierry und Eliane Bollag-Strauss Stiftung,CHE-109.996.399,Zürich,Zürich,4,"1,2,3","1,2,4","1,2","1,2","1,2","2,3,4,5,6","47.3739646,8.5628804",
-710,The UsitawiNetwork Foundation,CHE-109.996.488,Münsingen,Bern,5,"2,3,4","2,3","1,2","1,2","3,4,5,6","2,3,4,5,6,7,8","46.8733177,7.5520051",http://www.usitawi.org/ueber-uns/wer-sind-wir/
-716,Giuseppe Kaiser-Stiftung,CHE-110.001.415,Neftenbach,Zürich,6,"1,3","1,4,5","1,2","1,2","1,2","5,6","47.5242477,8.6712187",
-719,Stiftung Kalaidos Fachhochschule,CHE-110.011.023,Zürich,Zürich,1,2,1,"1,2",2,"2,3,4,5,6","6,7","47.4154771,8.5434841",https://www.kalaidos-fh.ch/de-CH
-729,Finergence Fondation pour le financement initial d'entreprises novatrices,CHE-110.066.952,Neuchâtel,Neuchâtel,3,4,2,1,"1,2","2,3,4,5,6",,"47.0796880,6.7958459",http://www.finergence.ch/
-732,Bündner Stiftung INNOZET,CHE-110.072.148,Grüsch,Graubünden,2,4,1,1,"1,2","2,3,4,5,6",,"46.9754163,9.6407317",http://www.innozet.ch/Wir-ueber-uns.7.0.html
-743,Präventionsstiftung der Kantonalen Gebäudeversicherungen,CHE-110.093.995,Bern,Bern,4,"1,2,3,4",2,1,1,,,"46.9466751,7.4411938",http://www.praeventionsstiftung.ch
-744,Stiftung zur Förderung der Trinkwasserqualität,CHE-110.096.491,Zürich,Zürich,5,"2,3,4",2,1,2,"1,2",,"47.3781412,8.5633116",
-749,Ypsomed Innovationsfonds,CHE-110.107.887,Burgdorf,Bern,2,4,"2,5",1,"1,2","3,4,5,6",,"47.0401198,7.6301580",http://www.innovationsfonds.ch/
-751,Fondation Werner Buser,CHE-110.110.524,Bonfol,Jura,4,"1,2,3,4",2,"1,2",2,"2,3,4,5,6",8,"47.4759769,7.1527006",
-753,Fondation neuchâteloise des entreprises de plâtrerie-peinture pour la formation et le perfectionnement professionnels,CHE-110.112.575,Hauterive NE,Neuchâtel,3,"1,2,4",3,2,2,,7,"47.0087415,6.9710320",
-754,Rotary Stiftung Forch,CHE-110.112.747,Esslingen,Zürich,5,"1,2,3,4","2,4",2,2,,"4,5,6","47.2916788,8.7073776",
-757,DEGIRMENKAYA-STIFTUNG,CHE-110.145.623,Liestal,Basel-Landschaft,5,"1,3","2,4",2,2,,"4,5,6,8","47.4758269,7.7255229",
-758,W.A. de Vigier Stiftung,CHE-110.145.698,Solothurn,Solothurn,4,"1,4",5,2,"1,2",,8,"47.2127247,7.5339087",http://www.devigier.ch/fr-FR/Home
-764,Stiftung zur Förderung des Naturhistorischen Museums,CHE-110.163.348,Basel,Basel-Stadt,1,3,"1,2",1,2,1,,"47.5576654,7.5904037",
-768,Fondation Pierre et Nouky Bataillard,CHE-110.166.654,Chavannes-Renens,Vaud,4,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.5261362,6.6181507",https://fondationbataillard.ch/
-771,Quanterra : centre international sur les dangers naturels et les risques en milieu montagneux et l'impact causé par les changements climatiques,CHE-110.170.408,Lausanne,Vaud,5,2,2,"1,2",2,"1,2,3,4,5,6",7,"46.5204790,6.6132029",https://quanterra.ch/
-773,Hauser-Stiftung,CHE-110.172.229,Weggis,Luzern,4,"1,3","2,3,4",2,2,,8,"47.0390637,8.4427001",
-777,Armand und Rosa Baudère-Stiftung,CHE-110.179.757,Reiden,Luzern,5,"1,2,3",2,"1,2","1,2","1,2","5,6,8","47.2392750,7.9693421",
-778,ETH Zürich Foundation,CHE-110.182.216,Zürich,Zürich,2,"1,2","2,4","1,2","1,2","1,2",5,"47.3790419,8.5440289",https://www.ethz-foundation.ch/
-789,Kodu Stiftung,CHE-110.192.278,Schwyz,Schwyz,4,"2,3","2,3","1,2",2,"1,2","5,6","47.0212859,8.6509289",
-790,Ernst und Annelies Grossenbacher-Güntzel-Stiftung,CHE-110.194.604,St. Gallen,St. Gallen,4,"1,2,3","2,4","1,2",2,"1,2","4,5,6,7,8","47.4343860,9.3813459",
-794,Pefi Waldstiftung,CHE-110.196.738,Wohlen AG,Aargau,4,"1,3","2,3,5",2,2,,"2,3,8","47.3477629,8.2719800",http://www.waldprodukte.ch/pages/naturverein-wohlen/archiv.php
-797,MAX KOHLER STIFTUNG,CHE-110.199.613,Zürich,Zürich,5,"1,2,3","1,2,4,5","1,2","1,2","1,2","1,2,3,4,5,6","47.3741677,8.5352094",
-798,Arthur und Frieda Thurnheer-Jenni Stiftung,CHE-110.200.067,Zürich,Zürich,4,"1,2,3,4",2,"1,2",2,"1,2",8,"47.3576071,8.5267012",
-799,Fonds vaudois du bois,CHE-110.205.975,Lausanne,Vaud,4,"1,2,3,4","1,2,3",2,2,,8,"46.5567716,6.6833176",
-804,Däster-Schild Stiftung,CHE-110.217.725,Grenchen,Solothurn,5,3,"1,2","1,2",2,1,8,"47.1909612,7.3964567",http://www.daester-schild-stiftung.ch/
-811,Fondazione Leonardo,CHE-110.233.500,Lugano,Ticino,2,1,4,"1,2","1,2","1,2,3",5,"46.0031391,8.9496231",
-812,Spendenstiftung Bank Vontobel,CHE-110.234.592,Zürich,Zürich,5,"1,2,3","1,2,4","1,2","1,2","1,2","2,3","47.3649922,8.5347557",
-813,Stiftung Grüner Bundesplatz,CHE-110.234.936,Zug,Zug,5,"1,2,3","1,2,4",1,"1,2","1,2",,"47.1700412,8.5155951",
-816,Fondazione VEL per la sperimentazione e l'introduzione di veicoli efficienti leggeri nell'uso quotidiano,CHE-110.238.733,Mendrisio,Ticino,4,"1,2,3,4",2,"1,2","1,2","2,3,4,5,6",8,"45.8742138,8.9779075",
-827,Schweizerische Stiftung für Kunststoff-Reintegration,CHE-110.257.624,St. Gallen,St. Gallen,4,"2,3,4","1,2,3","1,2",2,"1,2,3,4,5,6","5,6","47.4126509,9.3407336",
-832,Stiftung ERNE ambiente,CHE-110.268.639,Dällikon,Zürich,4,"1,2,3,4",2,1,2,"2,3,4,5,6",,"47.4462908,8.4346626",
-833,Stiftung Veronika Leutwyler,CHE-110.270.748,Zürich,Zürich,5,"1,2,3","1,2,4",2,"1,2",,"2,3,4","47.3791004,8.4945732",
-834,Stiftung Isla,CHE-110.270.783,Braunau,Thurgau,6,"2,3",2,"1,2",2,2,"4,5,6,7","47.4986372,9.0589999",
-835,Global Institute for New Energy Technologies (GIFNET),CHE-110.271.328,Genève,Genève,5,"1,2,3,4",2,1,"1,2","1,2,3,4,5,6",,"46.2070181,6.1442955",
-841,Stiftung Akademie für die Wissenschaft der Zukunft in Europa (AFFS),CHE-110.285.566,Bischofszell,Thurgau,5,"1,2,3,4","1,4","1,2",2,"1,2",8,"47.4942713,9.2376077",http://conference.keysofenoch.eu/fr/
-851,Eidgenössische Stiftung zur Förderung schweizerischer Volkswirtschaft durch wissenschaftliche Forschung,CHE-110.291.851,Zürich,Zürich,4,4,2,1,"1,2","3,4,5,6",,"47.3843230,8.5444566",http://www.volkswirtschaft-stiftung.ch/
-854,Dr. Lukas Werenfels-Stiftung,CHE-110.294.192,Zürich,Zürich,5,3,2,2,"1,2",,"2,3,4,5,6,7,8","47.3767872,8.5329575",
-857,Fondation Pier-Luigi Giovannini,CHE-110.294.281,Fribourg,Fribourg,5,"1,2,3",2,2,"1,2",,8,"46.8000933,7.1514846",
-858,Drosos Stiftung,CHE-110.295.010,Zürich,Zürich,5,3,2,2,2,,"4,7","47.3828885,8.5422889",https://drosos.org/
-871,Fondazione Ferdinando e Laura Pica-Alfieri,CHE-110.320.731,Lugano,Ticino,2,"1,2,3,4",2,"1,2",2,"1,2","5,6,8","46.0064870,8.9542347",http://fondazionepicaalfieri.ch/
-873,Michel Comte Water Foundation,CHE-110.322.799,Zürich,Zürich,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6","1,2,3,4,5,6,7","47.3581620,8.5531309",
-878,"Willy und Margherit Wölfli-Stiftung für den Natur-, Umwelt- und Tierschutz",CHE-110.327.070,Neerach,Zürich,5,"1,3","1,2,4",2,2,,"4,5,6,8","47.5105476,8.4636654",
-881,Stiftung Natur- und Tierpark Goldau,CHE-110.330.706,Goldau,Schwyz,4,"2,3",2,1,2,"1,2",,"47.0508789,8.5519183",http://www.tierpark.ch/ueber-uns/stiftung-natur-und-tierpark-goldau/
-882,Gomsinnova-Stiftung,CHE-110.331.031,Binn,Valais,3,"1,3,4","1,4","1,2",2,"1,2,3,4,5,6",8,"46.3639755,8.1839263",
-883,Stiftung myclimate - The Climate Protection Partnership,CHE-110.336.005,Zürich,Zürich,5,"2,3,4",1,2,2,,"2,3,4,5,6,7,8","47.3880637,8.5182402",http://www.myclimate.org/
-884,Werner Siemens-Stiftung,CHE-110.339.127,Zug,Zug,5,2,2,"1,2","1,2","2,3,4,5,6",8,"47.1767494,8.5186695",http://www.wernersiemens-stiftung.ch/home/
-886,Stiftung Finanzplatz Basel,CHE-110.342.000,Basel,Basel-Stadt,1,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"47.5597986,7.5931928",http://www.wsu.bs.ch/ueber-uns/partnerorganisationen/stiftung-finanzplatz-basel.html
-887,Sonjan Stiftung,CHE-110.348.327,Gipf-Oberfrick,Aargau,2,"1,2,3",2,"1,2",2,"1,2",5,"47.4996328,7.9745219",
-891,Fondazione Widar,CHE-110.362.652,Lugano,Ticino,5,"1,2","1,2,4","1,2",2,"1,2",8,"46.0047650,8.9511528",
-896,Fondation pour la conservation de l'environnement (Foundation for Environmental Conservation),CHE-110.375.241,Morges,Vaud,4,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.5096852,6.4957529",
-906,Karl Herr-Stiftung,CHE-110.377.091,Aarau,Aargau,3,1,4,2,"1,2",,"5,6","47.3901319,8.0477786",
-908,Walter Hochstrasser-Stiftung,CHE-110.377.406,Zürich,Zürich,2,1,4,2,2,,5,"47.3765359,8.5480928",
-910,Honegger-Stiftung,CHE-110.377.576,Glarus,Glarus,6,"1,2,3,4",2,1,2,"1,2",,"47.0407135,9.0675514",
-912,Ulrich und Klara Huber-Reber-Stiftung,CHE-110.377.731,Basel,Basel-Stadt,2,3,1,"1,2",2,1,8,"47.5521345,7.6004167",
-913,Evariste Mertens-Stiftung zur Förderung der Gartenarchitektur und Landschaftsplanung in der Schweiz,CHE-110.378.015,Zürich,Zürich,4,"1,2,3","2,3,4,5","1,2",2,"1,2","4,6,7","47.3818149,8.5353261",
-917,Irene-Stiftung,CHE-110.378.297,Zürich,Zürich,5,"1,3","2,4",2,2,,8,"47.3945726,8.5377579",http://www.irenestiftung.ch/
-920,Karl Kahane Stiftung,CHE-110.378.819,Celerina/Schlarigna,Graubünden,5,3,2,"1,2",2,"1,2,3,4,5,6",8,"46.5142899,9.8606201",http://www.kahanefoundation.org/
-924,Paul Niggli-Stiftung,CHE-110.379.629,Zürich,Zürich,4,1,"4,5","1,2","1,2","1,2",5,"47.3783717,8.5463523",
-925,Stiftung Ernst Witzig,CHE-110.379.641,Frauenfeld,Thurgau,4,"1,2","2,4","1,2","1,2","1,2","1,2,3,4,5,6","47.5629964,8.8715562",
-926,Stipendienfonds der Korporationsgemeinde Sursee,CHE-110.379.753,Sursee,Luzern,2,1,4,2,"1,2",,"4,5,6,7","47.1682607,8.1058790",
-928,Kühne-Stiftung,CHE-110.379.919,Schindellegi,Schwyz,5,"2,3,4","2,3","1,2",1,2,"4,5,6,7","47.1783656,8.7075795",https://www.kuehne-stiftung.org/index.php?id=1275
-933,Albert Lück-Stiftung,CHE-110.380.816,Zürich,Zürich,1,2,2,"1,2",1,"1,2",5,"47.3828885,8.5422889",http://albert-lueck-stiftung.ch/
-935,"MAVA, Fondation pour la Nature",CHE-110.381.425,Gland,Vaud,5,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.4156948,6.2778411",http://fr.mava-foundation.org/
-945,Oikos - Stiftung für Oekonomie und Oekologie,CHE-110.383.217,St. Gallen,St. Gallen,3,1,2,"1,2",2,1,5,"47.4316121,9.3746170",http://www.iwoe.unisg.ch/de/institut/oikos
-953,"Schweiz. Stiftung für Forschung und Ausbildung ""Qualität"" SFAQ",CHE-110.385.009,Zollikofen,Bern,6,"1,2","2,4,5","1,2","1,2",2,"5,6","46.9932747,7.4569846",
-954,Stiftung zur Förderung der rechtlichen und wirtschaftlichen Forschung an der Universität Basel,CHE-110.385.305,Basel,Basel-Stadt,3,2,3,"1,2","1,2",1,5,"47.5587086,7.5869412",https://forschdb2.unibas.ch/inf2/rm_projects/object_view.php?r=403076&type=5
-963,Fondazione Giorgio Schwarz-Fraissinet,CHE-110.387.623,Vira,Ticino,2,"2,3",2,2,2,,8,"46.1434100,8.8406300",
-965,"Fondazione di solidarietà della Loggia Massonica ""Brenno Bertoni""",CHE-110.387.913,Lugano,Ticino,3,1,4,2,"1,2",,"5,6","46.0073501,8.9525451",http://www.brennobertoni.ch/storia.html
-969,SESIG Stiftung,CHE-110.388.410,Adliswil,Zürich,3,"1,2,3,4",2,"1,2","1,2","3,4,5,6","4,5,6","47.3263500,8.5303766",
-970,Fondazione Giuseppe Soldati,CHE-110.388.798,Neggio,Ticino,2,"1,3","2,4",2,"1,2",,8,"45.9857933,8.8796168",
-971,Stiftung zur Förderung der beruflichen Aus- und Weiterbildung in der Holzindustrie,CHE-110.389.591,Uznach,St. Gallen,6,1,4,2,2,,7,"47.2251191,8.9754828",
-972,Stiftung zur Förderung des landwirtschaftlichen Bildungswesens,CHE-110.389.616,Brugg AG,Aargau,4,2,"1,2,3",2,2,,"4,5,6,7","47.4842317,8.2047270",
-981,Fondation Nadine de Rothschild,CHE-110.391.369,Genève,Genève,5,"1,2,3,4","1,2,3,4,5","1,2","1,2",,"2,3,4,5,6,7,8","46.2028384,6.1547776",http://www.edrfoundations.org/default-fr.aspx
-982,Vrenjo-Stiftung,CHE-110.391.518,Arlesheim,Basel-Landschaft,3,"1,2,3","1,3,4","1,2","1,2","1,2","1,2,3,8","47.4960635,7.6236847",
-983,Ernst und Jacqueline Weil-Stiftung,CHE-110.391.843,Zürich,Zürich,2,"1,2","1,2,4",2,"1,2",,"4,5,6","47.3806560,8.5629819",
-984,Wolfermann-Nägeli-Stiftung,CHE-110.392.251,Zürich,Zürich,4,2,2,1,"1,2","1,2",,"47.3681441,8.5393976",
-985,Fondation Dimitris N. Chorafas,CHE-110.392.771,Luzern,Luzern,4,1,5,1,"1,2","1,2,3,4,5,6",,"47.0540097,8.3096367",http://research-office.epfl.ch/chorafas
-990,Das hungernde Kind,CHE-110.394.155,Winterthur,Zürich,5,"1,2,3,4","2,4",1,"1,2","1,2",,"47.5086972,8.7256204",
-994,Stiftung Nord - Süd,CHE-110.394.801,Zürich,Zürich,5,"2,3",2,2,"1,2",,"2,3,4,5","47.3602439,8.5833356",
-996,(Fondazione Gerling) (Gerling Stiftung) (Gerling Foundation),CHE-110.395.137,Tegna,Ticino,5,"1,2,3,4","1,2,3,4","1,2",2,"1,2,3,4,5,6",8,"46.1128736,8.7026415",
-997,"Stiftung für Bevölkerung, Migration und Umwelt (BMU)",CHE-110.395.166,Uetikon am See,Zürich,5,"1,3","1,4",1,2,2,,"47.2657856,8.6779400",http://www.bmu-foundation.ch/
-1004,Humanatura-Stiftung,CHE-110.397.030,Wauwil,Luzern,6,"2,3,4",2,2,2,,"1,2,3,4,5,6,7,8","47.1876441,8.0254880",
-1008,"Fondation pour le concours ""Environnement + Jeunesse""",CHE-110.397.751,Lausanne,Vaud,2,"1,2",5,2,2,,"2,3,4","46.5411564,6.6312878",http://www.environnementjeunesse.ch/index.htm
-1009,Beat und Dieter Jutzler-Stiftung,CHE-110.397.923,Münchenbuchsee,Bern,4,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",5,"47.0205965,7.4503536",
-1010,Ores Stiftung für die Erforschung der marinen Umwelt,CHE-110.398.182,Basel,Basel-Stadt,5,"1,3","1,4","1,2",2,1,8,"47.5478680,7.6059179",http://www.ores.ch/index.php/education/swiss-services/der-walkoffer
-1011,La Fondation Mondiale INSEAD (The INSEAD World Foundation),CHE-110.398.331,Genève,Genève,5,1,4,2,"1,2",,7,"46.1980968,6.1482733",https://www.insead.edu/give
-1014,Stiftung Ammann von Wittenwil,CHE-110.398.839,Wittenwil,Thurgau,3,"1,2,3,4",2,2,2,,"4,5,6,7","47.5029349,8.9244667",
-1017,Schilling-Stiftung,CHE-110.399.158,Baden,Aargau,5,"3,4",2,2,"1,2",,"2,3,4","47.4761145,8.3085290",
-1022,Schweizerische Studienstiftung Fonds für begabte junge Menschen,CHE-110.400.620,Zürich,Zürich,4,1,4,2,"1,2",,5,"47.3675216,8.5547995",https://www.studienstiftung.ch/
-1025,Thalmann-Stiftung,CHE-110.401.275,Olten,Solothurn,2,"1,2,3,4",2,"1,2","1,2","1,2",8,"47.3509992,7.9030365",
-1027,Margarethe und Rudolf Gsell-Stiftung,CHE-110.401.720,Basel,Basel-Stadt,4,"1,2,3,4",2,"1,2",2,2,"5,6,8","47.5610716,7.5941639",
-1029,Fondation Montagu,CHE-110.401.950,Zürich,Zürich,5,"2,3","2,3",2,2,,"2,3,8","47.3640340,8.5465866",http://www.fondationmontagu.org/
-1036,LATOUR - Stiftung für Landwirtschaft und Tourismus,CHE-110.402.547,Davos,Graubünden,2,"1,2,4","2,4",2,2,,"4,5,6,8","46.8325430,9.8577325",
-1038,Rollirain,CHE-110.402.889,Steckborn,Thurgau,2,"2,3,4","1,2,3","1,2",2,"1,2,3,4,5,6","4,6,7","47.6519314,8.9654857",http://www.rollirain.ch/pages/betrieb/traegerschaft.php
-1043,Sandoz - Fondation de Famille,CHE-110.403.618,Glarus,Glarus,4,"1,2,4",,"1,2","1,2","2,3,4,5,6","5,6,8","47.0395719,9.0687689",http://www.sandozfondation.ch/fr
-1045,Stiftung Drittes Millennium,CHE-110.403.883,Uetikon,Zürich,5,"1,2,3,4",2,2,"1,2",,"2,3,4,5,6,7","47.2685380,8.6863034",http://www.stiftung-drittes-millennium.com/en/stiftung/stiftungszweck.html
-1051,Stiftung für Meereswissenschaft und -forschung,CHE-110.404.635,Zürich,Zürich,5,"1,2,3,4",2,1,2,"1,2",,"47.3670459,8.5373253",
-1086,GLOBAL FOUNDATION FOR LIFE SCIENCES,CHE-110.408.461,Fribourg,Fribourg,4,2,3,"1,2",2,1,8,"46.8068818,7.1624845",
-1088,INVENTUS BERN - Stiftung,CHE-110.408.544,Bern-Bümpliz,Bern,1,"1,2","2,4,5","1,2",1,"2,3,4,5,6",6,"46.9418526,7.3915477",http://www.inventus.ch
-1091,Moritz Straus-Stiftung,CHE-110.408.975,Basel,Basel-Stadt,4,"1,2","2,4","1,2","1,2","1,2","5,6,7","47.5488957,7.5977381",
-1092,UBS Stiftung für Soziales und Ausbildung,CHE-110.409.041,Zürich,Zürich,4,"1,3",2,2,"1,2",,"4,5,6,7","47.3719809,8.5381437",https://www.ubs.com/global/de/about_ubs/stiftungen/soziales.html
-1095,Novartis Stiftung für Mensch und Umwelt,CHE-110.409.319,Basel,Basel-Stadt,6,"3,4",1,2,2,,8,"47.5731486,7.5792042",
-1098,Marion Jean Hofer-Woodhead-Stiftung,CHE-110.409.489,Basel,Basel-Stadt,6,"1,2,3,4","1,2",1,2,"1,2",,"47.5537144,7.5924782",
-1107,FONDATION INTERNATIONALE GUY DE ROTHSCHILD,CHE-110.410.506,Fribourg,Fribourg,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"46.8011901,7.1516840",
-1108,Schweizerische Stiftung für Landschaftsarchitektur (SLA),CHE-110.410.529,Rapperswil,St. Gallen,4,1,5,"1,2",2,1,5,"47.2236318,8.8180845",https://www.sla-stiftung-landschaftsarchitektur.ch/
-1111,"Stiftung Berthold Leibinger, Schweizerisches Zentrum zur Förderung industrieller Innovation",CHE-110.410.647,Grüsch,Graubünden,5,4,1,"1,2","1,2","3,4,5,6","4,5,6,7","46.9754163,9.6407317",
-1121,Jacques und Susanna Chauvet Stiftung,CHE-110.412.184,Zürich,Zürich,6,"1,2,3,4",2,2,2,,"2,3,4,5,6","47.3554128,8.5314180",
-1127,Fondazione Carlo e Albina Cavargna,CHE-110.412.830,Biasca,Ticino,2,1,"2,4","1,2","1,2",1,"5,7","46.3610582,8.9819228",
-1130,"Stiftung-Eleonora-Susanna für den Natur-, Umwelt- und Tierschutz",CHE-110.413.120,Zürich,Zürich,5,"1,2,3","2,4",2,2,,"4,5,6,7","47.3627555,8.5527810",
-1131,Fondation Orchidée,CHE-110.413.249,Chêne-Bougeries,Genève,5,"1,2,3,4",3,"1,2",2,1,8,"46.1874613,6.1727747",http://www.orchidee.org/
-1133,Stiftung Res Bona,CHE-110.413.367,Birsfelden,Basel-Landschaft,5,"1,2,3","2,4",1,"1,2","1,2",,"47.5565994,7.6246520",
-1140,Fondazione BPO,CHE-110.441.346,Champfèr,Graubünden,5,1,4,"1,2","1,2","1,2","4,5,6,7","46.4784800,9.8114300",
-1142,Stiftung zur Förderung der unabhängigen und nachhaltigen Konsumenteninformation,CHE-110.441.501,Kloten,Zürich,4,"2,3,4",2,"1,2",2,"1,2",8,"47.4487673,8.5785430",
-1144,Stiftung GlobalLokal,CHE-110.441.866,Basel,Basel-Stadt,2,"1,2,3,4",2,1,2,"1,2",,"47.5445826,7.5840377",
-1151,Stiftung Stein,CHE-110.442.883,Schwyz,Schwyz,5,"1,2","2,4","1,2","1,2","1,2","5,6","47.0221793,8.6472525",
-1152,Karl Näf Stiftung,CHE-110.462.058,Glarus,Glarus,4,"1,2,3,4","2,4",1,"1,2","1,2",,"47.0425197,9.0659182",
-1157,LafargeHolcim Foundation for Sustainable Construction,CHE-110.476.586,Zürich,Zürich,5,4,5,1,1,"2,3,4,5,6",,"47.4148845,8.5599939",https://www.lafargeholcim-foundation.org/
-1159,Fondazione Carla e Bruno Fabbroni,CHE-110.484.982,Lugano,Ticino,2,3,2,"1,2","1,2","1,2",8,"46.0089913,8.9557929",
-1166,Stiftung in honorem divinae sapientiae,CHE-110.522.192,Schwarzenberg,Luzern,5,"2,4",2,1,"1,2","1,2,3,4,5,6",,"47.0192475,8.1761207",
-1167,Jürg Weber-Stiftung,CHE-110.523.530,Burgdorf,Bern,1,2,2,1,2,2,,"47.0553206,7.6252106",
-1169,BORNEO TROPICAL RAINFOREST FOUNDATION,CHE-110.530.211,Vernier,Genève,5,"1,2,3,4",1,"1,2",2,"1,2,3,4,5,6",8,"46.2141395,6.1111637",
-1172,Meyer-Ravenna Stiftung,CHE-110.541.249,Zürich,Zürich,5,"1,2,3","2,4",1,"1,2","1,2",,"47.3764580,8.5578353",
-1173,Centre de formation du secteur de la construction (CEFOSC),CHE-110.545.276,Eschert,Bern,4,1,"1,4",2,1,,"4,6","47.2789815,7.3947483",
-1175,Stiftung Swiss Excellence,CHE-110.554.766,Zürich,Zürich,4,4,"2,5",1,"1,2","3,4,5,6",,"47.3725085,8.5384723",http://swiss-excellence.ch/
-1178,ICIMOD Stiftung,CHE-110.558.267,Bern,Bern,5,"2,3",2,"1,2","1,2","1,2","4,5,6","46.9474936,7.4449505",
-1179,Alice Wartemann-Stiftung,CHE-110.558.853,Dettighofen bei Oberhofen,Thurgau,3,"1,2,3,4",2,1,2,2,,"47.6254792,9.2024187",
-1182,Bâloise-Jubiläumsstiftung,CHE-110.572.600,Basel,Basel-Stadt,6,"1,2,3,4","2,4",1,2,"2,3",,"47.5493741,7.5936658",
-1184,Heinz Kaiser Stiftung,CHE-110.593.192,Zürich,Zürich,3,"1,2","2,4","1,2","1,2","1,2","2,3,4,5,6,7","47.3625255,8.5514523",
-1188,Richard Büchner-Stiftung zur Förderung der wirtschafts- und sozialwissenschaftlichen Forschung,CHE-110.616.752,Zürich,Zürich,6,"1,2","2,4","1,2",2,"1,2","5,6","47.4109145,8.5406832",
-1189,M. & P.-A. Mathier Ausbildungsstiftung,CHE-110.620.015,Zürich,Zürich,5,1,"4,5",2,2,,5,"47.3675496,8.5415741",
-1190,Fondation ProTechno (ProTechno Stiftung) (ProTechno Foundation),CHE-110.636.111,Neuchâtel,Neuchâtel,4,"1,3","1,3,4","1,2","1,2","1,2,3,4,5,6",8,"46.9914936,6.9302206",
-1195,Louise Blackborne-Stiftung,CHE-111.651.509,Bern,Bern,5,"2,3",1,"1,2","1,2","1,2",5,"46.9473759,7.4536854",
-1196,Stiftung Robert und Yvonne Peter-Aeby,CHE-111.654.703,Zürich,Zürich,4,"1,2,3","2,4",2,"1,2",,"4,5,6,7","47.3561744,8.5573416",
-1197,Stiftung re-connected,CHE-111.691.638,Oberägeri,Zug,2,"1,2","2,4",2,"1,2",,"4,5,6,7","47.1376038,8.6172422",
-1200,Stiftung Green Ethiopia,CHE-111.702.265,Winterthur,Zürich,5,2,3,2,2,,"2,3,4,5,6,7,8","47.4832253,8.7761976",http://www.greenethiopia.org/cms/de/
-1202,Sozialfonds suissetec,CHE-111.704.583,Zürich,Zürich,4,"2,3","1,2",2,"1,2",,"4,5,6,7","47.3750459,8.5608375",
-1206,Stiftung Bredroli,CHE-111.723.675,Zürich,Zürich,5,"1,2,3","2,4",2,"1,2",,"1,2,3,4,5,6,7","47.3561744,8.5573416",
-1208,Rainbows4children Stiftung,CHE-111.732.734,Lachen,Schwyz,5,"1,2","3,4",2,1,,"1,2,3,4,5","47.1867723,8.8544917",http://www.rainbows4children.org/
-1211,Stiftung Naturreservat Rappentobel Meilen,CHE-111.738.926,Meilen,Zürich,2,2,2,"1,2",2,"1,2",8,"47.2693150,8.6436923",
-1213,Gebauer Stiftung,CHE-111.741.319,Zürich,Zürich,5,"1,3","1,4","1,2","1,2",2,"4,5,6,7","47.3639594,8.5473251",http://www.gebauerstiftung.ch/
-1219,Pius Eisenring Stiftung,CHE-111.775.873,Dornach,Solothurn,5,1,5,2,2,,"4,7","47.4774258,7.6134715",
-1221,CEB Trust Fund,CHE-111.779.434,Genève,Genève,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"46.2020119,6.1602564",
-1224,Swiss Philanthropy Foundation,CHE-111.798.093,Genève,Genève,5,3,"1,2",2,2,,8,"46.2062270,6.1417438",http://www.swissphilanthropy.ch/
-1225,Acél-Stiftung zur Förderung der Forschung in Betriebswissenschaften und Engineering,CHE-111.959.930,Zürich,Zürich,2,"2,3,4","1,2","1,2","1,2","2,3,4,5,6",5,"47.3918307,8.5004756",
-1226,Temperatio-Stiftung,CHE-111.969.437,Kilchberg,Zürich,2,"1,2,3,4",2,2,2,,8,"47.3301039,8.5433138",http://www.temperatio.ch/
-1227,Luma Stiftung,CHE-111.972.741,Feldmeilen,Zürich,5,"1,2,3","2,4",2,2,,"1,2,3,4,5,6,7","47.2833810,8.6126211",
-1228,Kindernothilfe Schweiz,CHE-111.981.214,Aarau,Aargau,5,3,2,2,2,,"2,3,8","47.3943065,8.0508973",http://www.kindernothilfe.ch/
-1230,"""baiji.org"" foundation",CHE-111.985.703,Zürich,Zürich,5,"2,3","1,2","1,2",2,"1,2",8,"47.3598874,8.5518097",
-1231,Fundaziun VnÃ,CHE-111.993.921,Vnà,Graubünden,1,"1,2,3,4","1,2",2,2,,8,"46.8422838,10.3642523",http://www.fundaziunvna.ch/index.php?id=37
-1233,TISCA/TIARA-Stiftung,CHE-112.004.695,Bühler,Appenzell Ausserrhoden,3,"1,2,3","2,4","1,2","1,2","1,2","4,5,6","47.3738940,9.4208694",
-1236,PRO-NATURA INTERNATIONAL FOUNDATION FOR SUSTAINABLE DEVELOPMENT,CHE-112.015.339,Genève,Genève,5,"1,2,3,4",2,2,"1,2",,8,"46.2072472,6.1467603",https://www.pronatura.org/
-1240,CALEO Stiftung,CHE-112.039.920,Bellikon,Aargau,5,"1,3","1,2,5",1,"1,2","1,2",,"47.3902165,8.3428039",
-1243,Michael Kohn - Stiftung,CHE-112.047.434,Zürich,Zürich,1,2,1,1,1,"2,3,4,5,6",,"47.4017241,8.4951432",https://www.ethz-foundation.ch/dr-michael-kohn-fordert-quantentechnologie/
-1246,Stiftung Vision Zukunft,CHE-112.106.930,Aarau,Aargau,4,3,"1,2",2,2,,8,"47.3968358,8.0405333",http://www.vision-zukunft.ch
-1250,Stiftung für Werteorientierte Erziehung (SFWE),CHE-112.121.131,Aarau,Aargau,4,"1,2,3","1,2,4",2,"1,2",,"1,2,3,7","47.3943324,8.0479625",
-1252,Fondation Lombard Odier,CHE-112.125.175,Genève,Genève,5,"2,3","1,2","1,2","1,2","1,2,3,4,5,6","4,5,6,7,8","46.2029913,6.1435832",http://www.fondationlombardodier.org/
-1256,Hans Vontobel Stiftung zur Förderung des Gemeinwohls,CHE-112.148.182,Zürich,Zürich,4,3,1,1,2,2,,"47.3649922,8.5347557",https://www.vontobel-stiftung.ch/DE/Home
-1258,Stiftung Innovation Emmental-Napf,CHE-112.153.125,Eggiwil,Bern,2,"3,4",2,"1,2",2,1,8,"46.8981958,7.7712548",http://www.stiftung-innovation.ch
-1263,FREY CHARITABLE FOUNDATION,CHE-112.160.088,Freienbach,Schwyz,5,"1,2,3","1,4","1,2","1,2","1,2","2,3,4,5,6,7","47.2072910,8.7521722",
-1264,HHS Hildegard und Hans Schaefer Stiftung,CHE-112.163.543,Altdorf UR,Uri,6,"1,2,3","2,4",1,"1,2","1,2",,"46.8799741,8.6448585",
-1268,Stiftung SoliWerk,CHE-112.179.969,Almens,Graubünden,4,"2,3,4","2,3","1,2","1,2","1,2,3,4,5,6","1,2,3,4,5,6,7","46.7394742,9.4659578",http://stiftung.soliwerk.ch/
-1269,Stiftung Spitzenflühli,CHE-112.182.492,Basel,Basel-Stadt,4,"1,2,3,4",2,"1,2",2,1,8,"47.5594817,7.5880840",http://spitzenfluehli.ch/
-1274,Stiftung Zoodo,CHE-112.200.730,Wolfenschiessen,Nidwalden,5,"1,3",2,2,"1,2",,"2,3,4,5,6,7","46.9105324,8.4001230",http://www.zoodo.ch/
-1289,Stiftung Longo Mai,CHE-112.320.570,Basel,Basel-Stadt,3,"1,2,3,4",2,2,2,,8,"47.5627741,7.5847850",https://www.prolongomai.ch/
-1291,3hf Stiftung Schweiz,CHE-112.332.113,Ennenda,Glarus,5,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"47.0431633,9.0738084",http://www.3hf.org/
-1292,Stiftung Licht Recycling Schweiz SLRS,CHE-112.333.325,Bern,Bern,5,"1,2,3,4",2,2,"1,2",,8,"46.9504635,7.4530769",http://www.slrs.ch/index-de.php?frameset=1
-1295,Stiftung für technologische Innovation - STI,CHE-112.348.539,Biel/Bienne,Bern,4,"1,4","1,2",1,1,"2,3,4,5,6",,"47.1405200,7.2427876",http://sti-stiftung.ch/acms/de/home/home/
-1298,Alpine Foundation for Life Sciences,CHE-112.363.237,Olivone,Ticino,5,"1,2,3,4",2,"1,2",2,"1,2","3,4,5,6,7","46.5300000,8.9400000",http://fasv.ch/
-1300,Schweizer Berghilfe,CHE-112.368.051,Adliswil,Zürich,4,"1,4","2,5","1,2","1,2",,"1,2,3,4","47.3182465,8.5226180",https://www.berghilfe.ch/de
-1304,Arco Foundation,CHE-112.405.433,Zürich,Zürich,5,,,"1,2",2,1,"1,2,3,7","47.3711126,8.5278729",http://www.arco-foundation.ch/
-1310,Stiftung Wunderland,CHE-112.432.654,Biel/Bienne,Bern,4,3,"1,2",2,2,,8,"47.1333259,7.2449525",http://stiftung-wunderland.ch
-1313,Arcanum Stiftung (Fondation Arcanum) (Fondazione Arcanum) (Foundation Arcanum),CHE-112.456.910,Fribourg,Fribourg,5,3,"1,2",2,"1,2",,8,"46.7962176,7.1523274",http://arcanum-stiftung.ch/fr/
-1317,Stiftung Pro Bono,CHE-112.475.706,Luzern,Luzern,4,"1,2,3,4",2,"1,2","1,2","1,2",8,"47.0572897,8.3225935",
-1321,Swiss Finance Institute Stiftung,CHE-112.486.472,Zürich,Zürich,4,2,"1,2","1,2","1,2","1,2","5,6","47.3798842,8.5422797",
-1326,HAND IN HAND: STIFTUNG FÜR EINE NACHHALTIGE ENTWICKLUNG,CHE-112.497.576,Winterthur,Zürich,5,"2,3,4","2,3","1,2",2,"3,4,5,6","2,3,4,5,6","47.5017038,8.7193985",
-1333,"Cooperaxion, Stiftung für nachhaltige Entwicklung und interkulturellen Austausch",CHE-112.566.591,Bern,Bern,5,3,1,2,2,,"2,3,4,8","46.9543566,7.4497593",http://www.cooperaxion.org
-1336,TRESTLE Group Stiftung,CHE-112.641.407,Diessenhofen,Thurgau,5,3,2,2,"1,2",,"4,5,6","47.6838377,8.7534642",
-1337,Fondazione Istituto Leonardo da Vinci,CHE-112.641.459,Lugano,Ticino,5,2,1,2,"1,2",,"2,3,4","46.0006980,8.9491683",http://ldavinci.org/chi-siamo.html
-1340,Fondazione Silvio Leoni,CHE-112.660.882,Riazzino,Ticino,5,1,"2,4","1,2",2,"1,2","5,6,7","46.1744390,8.8951150",
-1342,Fondation Prix Louis Lachat,CHE-112.668.429,Porrentruy,Jura,3,1,2,"1,2","1,2","1,2,3,4,5,6","5,6","47.4224337,7.0837791",http://www.jciporrentruy.ch/page/pll
-1348,Mary Haid-Ohlson Stiftung,CHE-112.700.493,Pfäffikon SZ,Schwyz,5,"1,2","1,2,3,4","1,2",2,"1,2","2,3,4,5,6,7","47.2017861,8.7782898",
-1352,Happel Foundation,CHE-112.737.007,Luzern,Luzern,5,"1,3","2,4",2,2,,8,"47.0503196,8.3118311",
-1354,Gamil-Stiftung,CHE-112.742.184,Küsnacht ZH,Zürich,5,"1,2,3","2,4","1,2","1,2","1,2","1,2,3,4,5,6,7","47.3299116,8.5824466",
-1356,Stiftung Ulmus,CHE-112.753.124,Zürich,Zürich,6,3,"1,2",2,"1,2",,"4,5,6","47.3588427,8.5897557",
-1358,Stiftung sahee,CHE-112.759.167,Zürich,Zürich,5,3,2,2,2,,"2,3","47.3588427,8.5897557",http://sahee.org/pages/portrait.php?lg=de
-1359,Leadership Foundation for Professional Education and Global Learning,CHE-112.761.738,Altendorf,Schwyz,5,"1,2,3,4","1,2,3,4,5","1,2","1,2","1,2,3,4,5,6","5,6,7","47.1926476,8.8241399",
-1366,Stiftung Freiheit und Verantwortung,CHE-112.887.807,Kriens,Luzern,4,"1,2,3","2,5",2,1,,8,"47.0354069,8.2882523",http://www.fuv.ch/
-1371,Stiftung für Naturschutz und Wild,CHE-112.931.851,Basel,Basel-Stadt,5,"2,3","1,2",1,2,"1,2",,"47.5594033,7.5887743",
-1377,Max und Marlis Galliker Stiftung,CHE-112.955.320,Horw,Luzern,1,"1,3","1,2,4",2,2,,"1,2,3,4,5,6,7,8","47.0126229,8.3125069",
-1380,Pende Foundation,CHE-112.963.822,Ascona,Ticino,5,"1,2,3",1,"1,2","1,2",1,"2,3,7","46.1563079,8.7703922",http://www.pendefoundation.com/
-1384,Stiftung IH&RA für die Zukunft,CHE-112.973.045,Zürich,Zürich,5,2,"1,2,3,4","1,2",2,2,"4,5,6","47.3818149,8.5353261",
-1387,Veryta Foundation,CHE-112.980.476,Lugano,Ticino,5,"1,2,3","1,2,3,4","1,2","1,2","1,2,3,4,5,6","2,3,4,5,6","46.0083876,8.9610255",
-1389,Comanis Foundation,CHE-112.989.431,Bern,Bern,5,3,2,"1,2",2,2,"1,2,3,4,5","46.9505311,7.4579323",http://www.comanis.ch/en/purpose/purpose.htm
-1394,bilding - Schweizerische Stiftung zur Förderung des Ingenieurnachwuchses im Bauwesen,CHE-113.012.964,Bern,Bern,4,"1,2","1,5",2,1,,"3,4,5,6,8","46.9456137,7.4367936",http://www.bilding.ch
-1405,Hekla Stiftung,CHE-113.070.654,Zürich,Zürich,5,"1,2,3","1,2,4","1,2","1,2","1,2","1,2,3,4,5,6,7","47.3741677,8.5352094",
-1406,"Stiftung zur Pflege von Mensch, Mitwelt und Erde",CHE-113.079.632,Münsingen,Bern,4,"1,2,3,4","1,2","1,2",2,"1,2","2,3,4,5,6,7,8","46.8737603,7.5690470",
-1410,Innovationsstiftung der Schwyzer Kantonalbank,CHE-113.181.704,Schwyz,Schwyz,3,4,"1,2",1,"1,2","3,4,5,6",,"47.0208159,8.6511419",https://www.szkb.ch/pub/firmenkunden/firmengruendung/finanzieren/innovationsstiftung
-1412,Walter Züttel Stiftung,CHE-113.191.157,Zug,Zug,5,"2,3","1,2","1,2",2,"1,2","1,2,3,4,5,6,7,8","47.1825985,8.5214234",
-1423,Starr International Foundation,CHE-113.227.200,Zug,Zug,5,"2,3",2,"1,2",2,2,"2,3,4,5,6","47.1787854,8.5180926",
-1425,Alex Kaufmann Stiftung,CHE-113.236.854,St. Gallen,St. Gallen,2,3,2,2,"1,2",,8,"47.4250716,9.3763122",
-1436,Little Troll Foundation,CHE-113.287.018,Genève,Genève,5,"1,3","2,4",2,2,,8,"46.1968714,6.1457630",http://www.troll-foundation.ch/
-1439,Stiftung Wissenschaftliche Politikstipendien,CHE-113.298.358,Bern,Bern,4,1,4,2,"1,2",,5,"46.9470570,7.4366015",http://www.politikstipendien.ch
-1443,INSEL Foundation,CHE-113.309.832,Bern,Bern,4,"1,2,3,4","2,4",1,"1,2","2,3,4,5,6",,"46.9477087,7.4255497",
-1444,Werner Dessauer Stiftung,CHE-113.310.025,Zollikon,Zürich,4,"2,3","1,2",2,2,,"2,3,4,5,6,8","47.3333217,8.5787222",
-1447,Stiftung für unternehmerische Entwicklung,CHE-113.330.884,Glattbrugg,Zürich,4,"1,3,4","1,4",1,1,"2,3,4,5,6",,"47.4327031,8.5587467",http://www.kmufuture.ch/
-1451,Elsy Amsler - Stiftung,CHE-113.335.901,Kaisten,Aargau,5,"1,2,3,4",2,2,2,,"2,3,8","47.5382479,8.0431434",
-1455,Stiftung Drs. Werner und Louise Greuter-Briner,CHE-113.359.416,Winterthur,Zürich,5,"2,3",2,2,2,,"1,2,3,4,5,6,7,8","47.5052494,8.7243270",
-1456,Stiftung Schwendi-Obertoggenburg,CHE-113.359.422,Zürich,Zürich,2,"1,2,3,4",2,2,2,,"4,5,6","47.3534315,8.5980542",
-1458,"Fondation ""TELLUS VIVA""",CHE-113.381.019,Zürich,Zürich,5,"1,2,3,4","1,2,3,4",2,2,,8,"47.3620161,8.5504983",
-1467,McCall MacBain Foundation,CHE-113.481.678,Genève,Genève,5,"2,3,4",1,"1,2",2,1,8,"46.1982701,6.1437733",http://www.mccallmacbain.org/
-1472,PARACELSUS FOUNDATION,CHE-113.503.630,Lugano,Ticino,5,"2,3,4",2,"1,2",2,"1,2",5,"46.0096885,8.9540432",
-1475,Stiftung Wasserzyt,CHE-113.515.828,Spiez,Bern,5,"1,2,3,4",2,2,2,,8,"46.6916422,7.6819249",http://www.wasserzyt.ch
-1478,Fondazione Montelaura,CHE-113.543.173,Roveredo,Graubünden,2,"1,2,3,4",1,2,2,,8,"46.2400000,9.1300000",http://www.coloniamontelaura.ch/upload_files/corso%20funghi.pdf
-1481,Stiftung 3F Organisation,CHE-113.571.235,Olten,Solothurn,4,"1,3","1,2,4",2,"1,2",,8,"47.3534138,7.9042615",http://www.3fo.ch/de/index.php
-1486,Fondation des Fondateurs,CHE-113.611.053,Zürich,Zürich,5,"1,2,3,4",1,"1,2","1,2","1,2,3,4,5,6","1,2,3,4,5,6,7","47.3702563,8.5460822",https://www.fondateurs.ch/en/home/?lang=set
-1495,Fondation d'impulsion technologique et économique (FITEC),CHE-113.677.804,Delémont,Jura,3,4,1,"1,2","1,2","2,3,4,5,6",8,"47.3673026,7.3435574",http://www.fitec.ch/
-1496,Fondation Jardin botanique scientifique et universitaire de Neuchâtel,CHE-113.678.092,Neuchâtel,Neuchâtel,3,4,1,"1,2",2,1,8,"47.0001364,6.9346864",http://www.jbneuchatel.ch/historique
-1498,One Nature Foundation,CHE-113.683.621,Vevey,Vaud,4,"1,2,3,4",2,2,2,,8,"46.4573709,6.8511913",http://www.onenaturefoundation.org/
-1499,The New Economic School Foundation,CHE-113.684.342,Sarnen,Obwalden,5,"1,2","1,4","1,2","1,2","1,2",5,"46.8965774,8.2506389",
-1502,Wishdom International Foundation,CHE-113.691.922,Cham,Zug,5,"1,2,3,4",2,"1,2","1,2","1,2","1,2,3,4,5,6,7","47.1861207,8.4736495",
-1518,Stiftung Josef Binkert AG,CHE-113.775.192,Wallisellen,Zürich,4,1,5,2,"1,2",,"4,5,6,7","47.4156838,8.5821551",https://www.binkertag.ch/site/de-ch/Unternehmen/Sozial-Partnerschaft
-1519,Stiftung Monte Mediterráneo,CHE-113.778.144,Chur,Graubünden,5,1,4,2,2,,8,"46.8479578,9.5324903",http://www.fundacionmontemediterraneo.com/
-1525,Ursula Wirz-Stiftung,CHE-113.802.340,Bern,Bern,4,"1,2,3,4","1,2,4,5","1,2","1,2","1,2,3,4,5,6","4,5,6,7","46.9402343,7.4312253",http://www.ursulawirz-stiftung.ch/
-1527,FONDAZIONE Pierina Maria Storni,CHE-113.809.595,Sala Capriasca,Ticino,3,"2,3,4",1,2,"1,2",,"2,3,4,5,6,7","46.0655560,8.9563890",
-1529,ABB Jürgen Dormann Foundation for Engineering Education,CHE-113.816.342,Baden,Aargau,5,1,4,2,1,,"5,6","47.4781989,8.3032502",http://new.abb.com/sustainability/foundation
-1535,Zupo Stiftung,CHE-113.871.708,Herrliberg,Zürich,5,"2,3","1,2","1,2",2,"1,2","1,2,3,4,5,6,7","47.2918942,8.6193265",
-1536,"ESPERIA - Stiftung für Kultur, Bildung und Wissenschaft",CHE-113.887.023,Zürich,Zürich,5,1,4,"1,2",1,"2,3,4,5,6","5,6,7","47.3759690,8.5368620",http://www.esperia-foundation.org/
-1538,Stiftung Naturzentrum Glarnerland,CHE-113.900.698,Niederurnen,Glarus,3,"1,2,3,4",2,2,2,,8,"47.1245944,9.0565862",https://www.naturzentrumglarnerland.ch/%C3%BCber-uns/stiftung/
-1539,"Fondation les pierres, le regard et la nature",CHE-113.907.370,Ménières,Fribourg,4,1,"2,4","1,2",2,1,"1,2,3,4,5,6,7,8","46.7855588,6.8860951",
-1540,Good Energies Foundation ,CHE?113.910.604,Zug,Zug,5,"1,2,3,4",2,1,"1,2","2,3,4,5,6",,"47.1745298,8.5123869",https://www.goodenergies.org/
-1541,Stiftung Netzwerk Bielersee,CHE-113.920.815,Biel/Bienne,Bern,4,"1,2,3,4",2,2,2,,8,"47.1386356,7.2454705",http://www.netzwerkbielersee.ch/de/
-1546,Fondation pour le Globe de la science et de l'innovation (Foundation for the Globe of Science and Innovation),CHE-113.940.172,Meyrin,Genève,5,4,"1,2","1,2","1,2","1,2,3,4,5,6",8,"46.2296528,6.0533135",http://www.fondationglobe.ch/
-1547,de Clivo - Stiftung,CHE-113.940.858,Zürich,Zürich,5,"1,3","2,4",2,2,,"2,3,4,5,6","47.3560334,8.5541880",http://www.declivo.ch/
-1554,KPMG Foundation,CHE-113.961.613,Zürich,Zürich,5,3,"1,2",2,2,,"2,3,4,5,6,7","47.3753007,8.5201082",https://home.kpmg.com/ch/en/home/about/kpmg-foundation.html
-1555,Foundation for Global Sustainability (FFGS),CHE-113.966.792,Zürich,Zürich,5,"1,2,3,4",2,1,"1,2","2,3,4,5,6",,"47.3771031,8.5334746",http://cleantech21.org/index.php?id=289
-1557,Armin und Heidi Späni Stiftung,CHE-113.972.433,Kehrsiten,Nidwalden,5,"1,3","1,2,3,4",2,"1,2",,8,"46.9954193,8.3617419",
-1561,Stiftung Dreiklang für ökologische Forschung und Bildung,CHE-113.977.726,Basel,Basel-Stadt,6,"1,2,3,4","1,2,4","1,2",2,"1,2,3,4,5,6","4,6,7","47.5343410,7.5997798",
-1564,Fondation Addax et Oryx (Addax and Oryx Foundation),CHE-113.990.537,Genève,Genève,5,3,2,2,2,,8,"46.1929970,6.1523326",http://www.addax-oryx-foundation.org
-1567,Stiftung e-vision,CHE-113.999.834,Zürich,Zürich,5,"2,3","1,2",2,"1,2",,"2,3,4,5,6,7","47.3698308,8.5438325",
-1570,The TreadRight Foundation,CHE-114.006.831,Cointrin,Genève,5,3,"1,2","1,2",2,"1,2,3,4,5,6",8,"46.2237547,6.1094253",https://www.treadright.org/
-1572,"Stiftung für Innovation, Entwicklung und Forschung Graubünden",CHE-114.012.398,Chur,Graubünden,3,"1,3,4","1,2",1,"1,2","1,2,3,4,5,6",,"46.8512493,9.5338018",http://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/innovation/ueberuns/Seiten/default.aspx
-1574,Adolphe Merkle-Stiftung,CHE-114.013.268,Fribourg,Fribourg,3,"1,3,4","1,2,4","1,2","1,2","1,2,3,4,5,6",5,"46.8020814,7.1534678",http://www.fondation-vm.ch/fr/fondation-adolphe-merkle.html
-1575,Stiftung UNESCO Welterbe Schweizer Alpen Jungfrau-Aletsch,CHE-114.017.639,Naters,Valais,2,3,"1,2","1,2",2,"1,2","2,3,4,5,6,7,8","46.3227190,7.9856722",https://www.jungfraualetsch.ch/de/traegerschaft/
-1577,Maya Behn-Eschenburg Stiftung,CHE-114.019.609,Zürich,Zürich,5,"2,3",2,2,"1,2",,"1,2,3,4","47.3698308,8.5438325",
-1578,Peter und Annemarie Geistlich Stiftung,CHE-114.025.432,Stansstad,Nidwalden,5,"1,2,3,4","1,2","1,2",2,1,"1,2,3,4,5,6,7,8","46.9811891,8.3407684",
-1579,Stiftung Zwirneli,CHE-114.036.453,Walzenhausen,Appenzell Ausserrhoden,3,"1,2,3,4","1,2","1,2",2,1,8,"47.4411617,9.5848793",http://www.zwirneli.ch/zen
-1585,Forschungsstiftung Genaxen,CHE-114.081.011,Bern,Bern,6,"2,3,4",2,1,"1,2",1,,"46.9477087,7.4255497",
-1588,Hilfskasse für schweizerische Waldfachleute und deren Familienangehörige,CHE-114.098.193,Zürich,Zürich,4,"1,3","1,4",2,2,,7,"47.3834362,8.5423930",http://www.forstverein.ch/fileadmin/Datenordner/hilfskasse/Flyer_Hilfskasse_Forstverein_GzD_10.3.2016.pdf
-1594,Stiftung Topas,CHE-114.143.020,Thalheim AG,Aargau,5,"1,2,3,4","1,2,4","1,2","1,2","1,2","1,2,3","47.4388529,8.1069616",
-1595,Fondation de l'Orangerie,CHE-114.156.755,Genève,Genève,6,"1,2,3,4",2,2,2,,8,"46.1958748,6.1479578",
-1596,"Max Hauri, Stötzler - Stiftung",CHE-114.164.045,Habsburg,Aargau,1,1,4,2,"1,2",,"4,5,6","47.4639817,8.1893773",http://www.sch.ch/?rub=1476
-1598,Fondation Philanthropia (Philanthropia foundation),CHE-114.255.877,Genève,Genève,5,"1,2,3,4",1,"1,2",2,1,8,"46.2029913,6.1435832",http://www.fondationphilanthropia.org/?lang=fr
-1599,Stiftung Gandhi Hilfswerk Schweiz,CHE-114.260.370,Zürich,Zürich,5,"1,2","1,2,4",2,"1,2",,"4,5,6","47.3785825,8.4779987",
-1601,STIFTUNG EFG INTERNATIONAL,CHE-114.270.960,Zürich,Zürich,5,"1,2,3,4","1,2,3,5","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.3688600,8.5375149",
-1602,Helmut Fischer Stiftung,CHE-114.282.578,Baar,Zug,5,"1,2","1,4","1,2","1,2","2,3,4,5,6",5,"47.1953556,8.5243632",http://helmut-fischer-stiftung.ch/
-1606,Fondation NORDESTA - Reforestation & Education,CHE-114.314.215,Genève,Genève,5,"1,2,3,4","2,4","1,2",2,1,8,"46.2080547,6.1434238",http://www.nordesta.org/fr
-1613,Stiftung Oekomedia,CHE-114.342.080,Basel,Basel-Stadt,6,"1,2,3,4",2,2,2,,8,"47.5516742,7.5908396",
-1615,Coralma Stiftung,CHE-114.366.985,Meggen,Luzern,2,"1,2,3",2,"1,2",2,"1,2",8,"47.0537501,8.3928212",
-1617,Argaman Foundation,CHE-114.371.035,Aubonne,Vaud,5,"1,2,3,4",2,2,2,,8,"46.4953291,6.3918325",
-1619,FONDATION PRINCE ALBERT II DE MONACO - SUISSE,CHE-114.392.385,Genève,Genève,5,"1,2,3,4",5,"1,2","1,2","1,2,3,4",8,"46.2056433,6.1363672",http://www.fpa2.org/
-1622,"JANE GOODALL INSTITUT SCHWEIZ - STIFTUNG FÜR FORSCHUNG, BILDUNG UND UMWELTSCHUTZ",CHE-114.404.456,Zürich,Zürich,5,"2,3","2,3","1,2",2,"1,2","1,2,3,4,5,6,7,8","47.3978168,8.5505743",
-1624,Jura-Stiftung für Sediment- und Strukturgeologie,CHE-114.412.214,Zürich,Zürich,5,"1,2,3,4","2,4","1,2",2,1,5,"47.3681441,8.5393976",
-1625,"Fundaziun Chapella, Center per furmaziun e perscrutaziun, S-chanf",CHE-114.412.473,Cinuos-chel,Graubünden,2,"2,3,4",2,"1,2",2,"1,2","1,2,3,4,5,6,7,8","46.6324942,10.0141668",
-1629,Veronika und Hugo Bohny Stiftung,CHE-114.428.008,Meilen,Zürich,5,"1,3,4","2,5","1,2","1,2","3,4",8,"47.2729248,8.6261235",http://www.vhbstiftung.ch/
-1630,Fondation ImpactHope (Foundation ImpactHope),CHE-114.429.321,Bourguillon,Fribourg,5,3,2,2,"1,2",,8,"46.8006500,7.1771571",http://www.impacthope.net/index.php/fr/
-1632,BDN Engiadina Stiftung,CHE-114.439.644,Samedan,Graubünden,2,"1,3","2,4",2,2,,"4,5,6,7,8","46.5325850,9.8712053",
-1635,Klimastiftung Schweiz,CHE-114.448.672,Zürich,Zürich,4,4,"1,2",1,"1,2","2,3,4,5,6",,"47.3592631,8.5351676",http://www.klimastiftung.ch/
-1640,Fondazione Futuro Calanca,CHE-114.474.675,Landarenca,Graubünden,2,"1,2,3,4","2,4","1,2",2,"1,2,3,4,5,6",8,"46.3181564,9.1261451",
-1641,Messerli-Stiftung,CHE-114.482.976,Sörenberg,Luzern,5,"1,3","2,4",1,2,"1,2",,"46.8136550,7.9959100",http://www.berggasthaus-salwideli.ch/messerli-stiftung/
-1654,St. Galler Stiftung zur Förderung studentischer Aktivitäten,CHE-114.536.939,Rorschach,St. Gallen,3,3,1,2,"1,2",,"5,6","47.4730557,9.5035820",
-1655,Fondazione Pellicano,CHE-114.538.878,Lugano,Ticino,5,"2,3,4","1,2,3",2,"1,2",,"1,2,3,4,5,6,7","46.0067271,8.9584157",
-1656,Stiftung Inspire,CHE-114.540.579,Zürich,Zürich,4,4,1,"1,2","1,2","2,3,4,5,6","5,6,7,8","47.3901869,8.5158465",
-1657,Fondazione paesaggio Mont Grand a Soazza,CHE-114.544.471,Soazza,Graubünden,2,"1,3",3,"1,2",2,"1,2",8,"46.3447952,9.2452698",http://www.fondazionemontgrand.ch/index.php?__id=96&rt=Page&act=readpage&pid=5
-1658,Fondation E. et G. GELBERT,CHE-114.548.687,Genève,Genève,2,"1,2,3",2,"1,2","1,2",2,8,"46.2024709,6.1547259",http://www.fondation-gelbert.ch/v2/
-1659,FONDATION PETERSBERG PRO PLANTA ET NATURA,CHE-114.548.836,Kilchberg,Zürich,4,"1,2,3","1,2,4","1,2",2,"1,2","1,2,3,4,5,6,7,8","47.3242297,8.5470948",
-1661,Fondazione Tralcio,CHE-114.558.243,Lugano,Ticino,5,"3,4",2,1,"1,2",1,,"46.0075564,8.9542299",
-1664,NOMIS STIFTUNG,CHE-114.571.580,Zürich,Zürich,5,"2,3",2,"1,2","1,2",1,8,"47.3673193,8.5376496",
-1665,"Stiftung ""Hoffnung für notleidende Mitmenschen in Afrika"" (Hope)",CHE-114.580.834,Allenwinden,Zug,5,"2,3",1,2,2,,"2,3","47.1700534,8.5440131",
-1675,Foundation - Global Risk Forum GRF Davos,CHE-114.620.712,Davos Platz,Graubünden,5,"1,2,3,4",2,"1,2",2,2,8,"46.7926247,9.8191515",http://grforum.org/
-1679,Stiftung Horyzon,CHE-114.638.770,Olten,Solothurn,5,3,2,2,2,,"2,3,4,5,6,7,8","47.3497027,7.9112811",http://www.horyzon.ch/
-1684,Fondation Pictet pour le développement,CHE-114.667.369,Anières,Genève,5,"1,3","2,4",2,"1,2",,5,"46.2747297,6.2201992",https://www.group.pictet/corporate/fr/home/about_pictet/corporate_citizenship/charitable_foundation.html
-1685,Yvonne und Alberto Galbiati-Stiftung,CHE-114.668.386,Zürich,Zürich,4,"1,3,4",2,1,"1,2","3,4,5,6",,"47.3631887,8.5572914",http://www.galbiati-stiftung.ch/
-1690,Fondation ARPE,CHE-114.692.752,Zürich,Zürich,5,"1,3","1,4,5","1,2",2,2,"4,5,6","47.3659875,8.5355839",http://www.fondationarpe.com/en/home/
-1691,Charlotte und Nelly Dornacher Stiftung,CHE-114.697.927,Chur,Graubünden,2,"1,3","1,2,4","1,2",2,"1,2",8,"46.8525666,9.5324073",
-1697,The World Jewellery Confederation Educational Foundation - WJCEF,CHE-114.736.444,Bern,Bern,5,4,2,2,2,,8,"46.9485796,7.4467135",http://www.sustainablejewellery.org/index.php?option=com_content&view=article&id=3&Itemid=3
-1700,JAF Foundation (Switzerland),CHE-114.742.924,Basel,Basel-Stadt,5,"1,2,3","2,4",2,2,,"1,2,3,4,5,6,8","47.5526712,7.5854740",
-1701,International Golf and Life Foundation,CHE-114.751.774,St-Sulpice VD,Vaud,5,4,"1,2",2,2,,8,"46.5102829,6.5570161",
-1703,Bernische Radium-Stiftung,CHE-114.757.357,Bern,Bern,4,"1,2,3,4","2,5",1,2,"1,2",,"46.9477341,7.4247622",
-1705,Venusstiftung,CHE-114.759.617,Riken AG,Aargau,5,1,3,2,2,,8,"47.2718033,7.8494454",
-1711,Fondation Ashoka Suisse (Ashoka Switzerland Foundation),CHE-114.842.017,Genève,Genève,5,1,4,"1,2",2,"2,3,4,5,6",8,"46.1997408,6.1681874",https://www.ashoka.org
-1716,Martinshorn Foundation,CHE-114.874.951,Frauenfeld,Thurgau,5,4,"2,3,4",2,2,,"2,3,4,5,6,7,8","47.5513446,8.9148069",
-1717,PORISTES STIFTUNG,CHE-114.886.753,Bern,Bern,5,"1,2,3","1,2,4","1,2","1,2","1,2","1,2,3","46.9485099,7.4469210",
-1721,Foundation Ithaka Institute,CHE-114.920.048,Arbaz,Valais,6,"1,2,3,4",2,1,"1,2","2,3,4,5,6",,"46.2736178,7.3851224",http://www.ithaka-institut.org/en/home
-1725,Stiftung Jeruel,CHE-114.971.844,Langnau im Emmental,Bern,5,"2,3","1,2",2,2,,"1,2,3,4,5,6,7","46.9429820,7.7808962",http://www.jeruel.net/cms/
-1726,FONDATION PAUL DUBRULE,CHE-114.982.658,Genève,Genève,4,"1,2,3,4",2,"1,2","1,2",1,8,"46.1992477,6.1418140",
-1735,Hurt-Stiftung,CHE-115.066.787,Ennetbürgen,Nidwalden,4,1,4,"1,2",2,"2,3,4,5,6",8,"46.9853085,8.4081028",http://hurt-stiftung.org/
-1739,Stiftung M.A. Center Switzerland,CHE-115.082.645,Flaach,Zürich,5,"1,2,3","2,4",2,2,,"2,3,4,8","47.5749750,8.5813080",http://www.ziegelhuette.ch/
-1742,Stiftung zukunft-fertig-los,CHE-115.106.168,Meggen,Luzern,6,4,1,1,"1,2","1,2,3,4,5,6",,"47.0443609,8.3650842",
-1748,Fonds für Kulturpflanzenentwicklung,CHE-115.144.140,Feldbach,Zürich,5,"1,2,3,4",2,"1,2",2,"1,2","7,8","47.2393125,8.7883064",http://www.fondskulturpflanze.ch
-1752,Afrikanische Innovations Stiftung,CHE-115.171.467,Zürich,Zürich,5,1,5,1,"1,2","3,4,5,6",,"47.3880637,8.5182402",http://africaninnovation.org/
-1753,Stiftung Pro-Vida,CHE-115.174.997,Luzern,Luzern,5,3,"2,3",2,2,,"2,3,4,5,6,7","47.0474185,8.3081358",
-1754,Pertsiounis Sotiris Stiftung,CHE-115.181.589,Bern,Bern,5,"2,3",2,2,"1,2",,"1,2,3,4,5,6,7,8","46.9487250,7.4553146",
-1757,Mekkihelp Stiftung,CHE-115.188.858,Wetzikon ZH,Zürich,5,3,1,2,2,,"2,3,4","47.3217901,8.7964125",
-1760,Fondation Plenum,CHE-115.221.898,Genève,Genève,6,3,"2,3","1,2",2,1,8,"46.2024778,6.1613424",
-1765,Maria und Heinrich Th. Uster-Stiftung,CHE-115.247.745,Wädenswil,Zürich,4,3,1,"1,2","1,2",1,"5,6,7","47.2295471,8.6709271",http://www.usterstiftung.ch/
-1770,International Academy for Multilingual Education and Talent Development in Liquidation,CHE-115.274.966,Zürich,Zürich,5,"2,3","1,2","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.3700589,8.5450156",
-1771,Robert Bider-Stiftung,CHE-115.282.575,Zürich,Zürich,5,"1,2,3","2,4","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.3646007,8.5490789",
-1772,Bühlmann-Kühni Stiftung,CHE-115.286.449,Biel-Benken,Basel-Landschaft,5,"2,3","1,2",1,"1,2","1,2",,"47.5103259,7.5248396",
-1774,Stiftung ProCare,CHE-115.296.301,Zürich,Zürich,6,"2,3","2,3","1,2",2,"2,3","4,5,6,7","47.3753007,8.5201082",
-1775,The Aurora Light Foundation,CHE-115.298.458,Klosters,Graubünden,5,"1,3","2,4","1,2","1,2","2,3,4,5,6",8,"46.8705522,9.8867170",http://auroralightfoundation.com/
-1776,Whale Foundation,CHE-115.303.929,Zürich,Zürich,6,"1,2,3,4","1,2,4","1,2","1,2","1,2","4,5,6","47.3662833,8.5471952",
-1778,Fondation pour un Monde Biologique (The Organic World Foundation),CHE-115.305.093,Cointrin,Genève,5,"1,2,3,4",2,2,2,,8,"46.2281464,6.1041844",https://www.organicworldfoundation.ch/
-1780,Theo Nydegger Stiftung,CHE-115.308.602,Thun,Bern,5,"1,3","2,5",2,2,,"1,2,3,4,5,6,7,8","46.7642913,7.6117849",
-1785,"STIFTUNG EUROPÄISCHES INSTITUT FÜR ÖKOLOGIE UND GESUNDHEIT, ZÜRICH",CHE-115.374.303,Zürich,Zürich,5,"1,2,3,4","1,2,3","1,2",2,2,8,"47.3818149,8.5353261",
-1795,Tree Of Life International Foundation,CHE-115.526.582,Lugano,Ticino,5,3,2,2,2,,"1,2,3","46.0076473,8.9575956",http://www.treeoflifeinternational.ch/?lang=de
-1810,Fondation iDrate,CHE-115.681.544,Conches,Genève,5,1,"2,4","1,2",2,"1,2,3,4,5,6",8,"46.1876631,6.1763323",
-1812,Fondation Race for Water (Race for Water Stiftung) (Race for Water Foundation),CHE-115.708.551,Lausanne,Vaud,5,"1,2,3,4","1,2","1,2",2,"2,3,4,5,6","2,3","46.5228404,6.6113423",http://www.raceforwater.com/
-1815,stiftung fhnw,CHE-115.755.622,Windisch,Aargau,2,2,2,"1,2",2,"2,3,4,5,6","6,7","47.4817211,8.2113634",http://www.stiftungfhnw.ch/stiftung-fhnw/index.php
-1817,Walters Kundert Stiftung,CHE-115.762.527,Zürich,Zürich,5,"1,2,3,4",2,"1,2","1,2","1,2","4,5,6","47.3683771,8.5364436",
-1828,Zuger Stiftung für Wirtschaft und Wissenschaft,CHE-115.873.262,Baar,Zug,4,1,5,1,1,"1,2",,"47.1953556,8.5243632",https://www.werz.hsr.ch/index.php?id=10016
-1834,Sports for Water Foundation,CHE-115.921.961,Egg bei Zürich,Zürich,5,"1,2,3,4",2,2,2,,"2,3,4,5,6","47.2970890,8.6955261",
-1841,FONDAZIONE EVEREST LUGANO,CHE-115.991.252,Lugano,Ticino,5,"1,2,3,4","1,2,3","1,2","1,2","1,2,3,4",4,"46.0062624,8.9593058",http://www.everest-fondazione.ch/
-1843,Stiftung Kausari,CHE-116.000.905,Solothurn,Solothurn,5,"1,2,3,4",2,"1,2",2,1,8,"47.2051690,7.5410335",http://samay-runa.com/kausari-stiftung/
-1847,Stiftung ENTER,CHE-116.057.880,Solothurn,Solothurn,4,"2,3","1,2","1,2","1,2","1,2,3,4,5,6",8,"47.2149779,7.5325621",http://www.enter-online.ch/index.php?id=zweck-enter
-1850,Fondazione Realizza-ti,CHE-116.067.223,Gordola,Ticino,3,"1,4","1,2",1,"1,2","2,3,4,5,6",,"46.1810325,8.8604729",
-1851,Fondation d'aide sociale et culturelle du Canton de Vaud,CHE-116.081.772,Lausanne,Vaud,3,3,"2,3","1,2",2,"1,2",8,"46.5220970,6.6369415",https://www.entraide.ch/fr/vaud/obtenir-une-contribution
-1854,CHARISMA Stiftung für nachhaltige Entwicklung,CHE-116.166.753,Dornach,Solothurn,5,"1,3","1,2,4",2,2,,8,"47.4854002,7.6146285",
-1858,Stiftung Global Infrastructure Basel,CHE-116.200.025,Basel,Basel-Stadt,5,"1,3,4","1,2,3,5",1,"1,2",2,,"47.5516742,7.5908396",http://www.gib-foundation.org/
-1866,Fondazione Rivapiana per la formazione e la ricerca universitarie nel Locarnese,CHE-116.242.779,Minusio,Ticino,3,"1,2,3","2,4","1,2","1,2","1,2,3,4,5,6",5,"46.1760355,8.8125090",
-1869,Kairos-Stiftung zur Förderung der Forschung der Beziehungen der Schweiz zum Ausland,CHE-116.308.680,Zürich,Zürich,5,"1,2,3","2,4,5",1,"1,2","1,2",,"47.3721244,8.5392266",
-1873,Stiftung dropforlife,CHE-116.337.368,Zürich,Zürich,5,3,2,1,2,,,"47.3582018,8.5548084",https://dropforlife.org/stiftung/
-1875,GLAUKES-Stiftung,CHE-116.357.721,Basel,Basel-Stadt,5,"1,2","2,4,5","1,2",2,"1,2","4,5,6,7,8","47.5523996,7.5938029",
-1880,Regulus - Gemeinnützige Dachstiftung Königstern,CHE-130.738.654,Chur,Graubünden,5,"1,2,3","1,2,4,5","1,2",2,"1,2","4,5,6,8","46.8522885,9.5333409",
-1882,Stiftung Salud y Vida,CHE-133.453.679,Basel,Basel-Stadt,5,"1,2,3,4",2,"1,2",2,"1,2",8,"47.5517499,7.6014182",
-1892,Doris Dietschy und Denise Dietschy-Frick-Stiftung,CHE-141.803.008,Basel,Basel-Stadt,3,"2,3",1,"1,2","1,2","1,2",5,"47.5529591,7.5918856",
-1895,Fondazione Aldo e Cele Daccò,CHE-143.298.699,Lugano,Ticino,5,"1,2","1,2,4","1,2","1,2","1,2",5,"46.0076034,8.9521739",
-1899,Fondazione JAMINOR-INT.,CHE-149.050.666,Giubiasco,Ticino,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"46.1821665,9.0262842",
-1900,MDPI SUSTAINABILITY FOUNDATION,CHE-149.291.773,Basel,Basel-Stadt,5,1,5,1,2,1,,"47.5658293,7.5913505",http://wsforum.org/
-1901,DGFI Stiftung,CHE-151.889.419,Zürich,Zürich,5,"1,2,3,4","1,4","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.3861258,8.5172354",
-1903,The Tamari Foundation,CHE-152.261.519,Genève,Genève,5,"2,3",2,2,2,,8,"46.2058393,6.1422816",http://tamarifoundation.ch/
-1912,Fondation Bru,CHE-157.014.856,Genève,Genève,5,"1,3",2,"1,2",2,"1,2,3,4,5,6","2,3,4,5","46.1983673,6.1439374",http://www.fondation-bru.org/
-1914,Fondation Youkali (Youkali Foundation),CHE-158.031.254,Genève,Genève,5,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.1997408,6.1681874",
-1926,Dr. h. c. Karl Nicklaus Stiftung,CHE-162.992.346,Zug,Zug,4,"1,2,3,4",2,"1,2","1,2","2,3,4,5,6","4,5,6","47.1740656,8.5055023",
-1928,Empathie-Stiftung für Tiere und Umwelt,CHE-166.768.061,Bad Zurzach,Aargau,5,"1,2,3,4","1,2,4","1,2",2,"1,2,3,4,5,6","1,2,3,4,5,6,7,8","47.5863575,8.2885381",
-1932,Fondazione Adiuvare,CHE-169.377.449,Lugano,Ticino,6,"1,2,3,4","1,4",1,"1,2","1,2",,"45.9977800,8.9473708",
-1934,Brodtbeck Philanthropy Foundation,CHE-169.875.575,Pratteln,Basel-Landschaft,5,"1,3","1,2",2,2,,"4,5,6","47.5256049,7.6838713",
-1936,Fondation Philanthropique Next,CHE-170.186.206,Villars-sur-Glâne,Fribourg,5,"1,3,4",2,"1,2","1,2","2,3,4,5,6",8,"46.7987363,7.1266389",
-1938,Stiftung Valladas Grischunas,CHE-171.558.003,Strada,Graubünden,2,"1,2,3,4",2,"1,2","1,2","2,3,4,5,6",8,"46.8626604,10.4352586",http://valladas-grischunas.ch/
-1947,Hildegard Scherrer-Stiftung,CHE-178.628.171,Winterthur,Zürich,6,1,4,"1,2","1,2","1,2","4,5,6","47.4997411,8.7282099",
-1949,Fondazione Synergia,CHE-179.132.062,Lugano,Ticino,5,"2,3,4",2,1,"1,2","2,3,4,5,6",,"46.0071229,8.9571187",
-1952,"Fondazione Impiegati del Commercio, Locarno",CHE-179.961.532,Locarno,Ticino,1,1,"2,4",2,"1,2",,5,"46.1667617,8.7952214",
-1953,lastminute foundation,CHE-180.409.046,Chiasso,Ticino,5,"3,4","1,2","1,2","1,2","1,2,3,4,5,6",8,"45.8343767,9.0300237",http://lastminutefoundation.org/
-1954,Stiftung Ambros Lüthi,CHE-183.003.611,Fribourg,Fribourg,4,1,2,"1,2",2,"1,2",5,"46.8177766,7.1729722",http://diuf.unifr.ch/al/de/node/32
-1960,Greenstyle-Foundation,CHE-184.477.590,Laax GR 2,Graubünden,2,"1,2,3,4",2,2,"1,2",,8,"46.8197971,9.2634725",
-1964,J&K Wonderland Stiftung,CHE-186.621.484,Zug,Zug,5,"1,2,3","1,2,3,4","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.1659859,8.5210976",
-1969,Excellence Foundation Zurich for Economic and Social Research,CHE-192.122.522,Zürich,Zürich,1,"1,2","1,4","1,2",2,"1,2",5,"47.3729108,8.5500140",http://www.efzh.org/index.php?path=home
-1973,Impact Corner - Stiftung,CHE-193.893.094,Zürich,Zürich,5,"1,2,3","1,2,4",2,2,,"1,2,3,4,5,6,7,8","47.3573515,8.5525622",
-1975,AWUNI Stiftung für Tierschutz,CHE-194.458.542,Zumikon,Zürich,5,3,"1,2","1,2",2,1,8,"47.3297614,8.6319269",http://www.awuni.ch/page/
-1978,Schweizer Stiftung Bildungsanker,CHE-196.116.590,Disentis/Mustér,Graubünden,5,1,2,2,"1,2",,4,"46.7071107,8.8550511",http://www.bildungsanker.ch/
-1979,Rudolf und Romilda Kägi - Stiftung,CHE-196.407.018,Männedorf,Zürich,2,"1,2,3","2,4","1,2",2,"1,2","5,6,8","47.2481107,8.7009925",
-1984,FONDAZIONE LA MARTINA,CHE-199.370.073,Chiasso,Ticino,4,4,1,"1,2",2,"1,2","4,5,6","45.8334144,9.0299958",https://www.lamartina.com/lm/it/it/aboutus
-1990,Fondation Sinopec-Addax Petroleum (Sinopec-Addax Petroleum Foundation),CHE-202.856.935,Chêne-Bougeries,Genève,4,3,2,2,2,,8,"46.1945419,6.1716512",https://www.sinopecaddaxpetroleumfoundation.org/
-1993,Fondation CINTCOM,CHE-203.992.601,Vernier,Genève,4,"2,3,4",2,1,"1,2","1,2,3,4,5,6",,"46.2189251,6.0875999",
-1996,LARIX FOUNDATION. Innovation matters. Switzerland,CHE-204.954.336,Bern,Bern,4,3,2,1,"1,2","1,2",,"46.9491313,7.4453505",
-2000,Templeton Charity Foundation Switzerland,CHE-207.400.962,Zürich,Zürich,5,3,"2,3",1,"1,2",2,,"47.3657437,8.5260534",http://www.templetonworldcharity.org/
-2002,DIE HUSSON HALABI STIFTUNG,CHE-207.858.752,Bern,Bern,5,1,4,2,"1,2",,5,"46.9472445,7.4423956",
-2003,Water for Life Foundation,CHE-208.011.899,Basel,Basel-Stadt,5,3,"2,5",2,2,,8,"47.5479113,7.5941087",http://www.waterforlife.ch/
-2009,Stiftung der Ortsbürgergemeinde St.Gallen,CHE-217.827.701,St. Gallen,St. Gallen,1,"1,3","1,2,4","1,2",2,1,8,"47.4238383,9.3762108",http://www.ortsbuerger.ch/
-2012,Fondation du 175ème de la Caisse d'Epargne d'Aubonne,CHE-220.453.653,Aubonne,Vaud,5,"1,2,3,4",5,2,"1,2",,8,"46.4950276,6.3910082",
-2013,Fondation Praneo,CHE-221.388.194,La Conversion,Vaud,4,"1,2,3,4",1,2,2,,8,"46.5153260,6.6818248",http://www.praneo.org/?language=fr
-2015,Porter Foundation Switzerland,CHE-222.347.631,Verbier,Valais,5,"1,3","1,2,4",2,2,,8,"46.1002473,7.2217405",http://www.dameshirleyporter.net/philanthropy.html
-2023,HUMANITY INTERNATIONAL FOUNDATION SWITZERLAND,CHE-225.255.623,Luzern,Luzern,5,"1,2,3","1,4",2,"1,2",,8,"47.0618631,8.2740408",http://hifs.ch/
-2024,Fondation EROL (EROL Foundation),CHE-225.257.823,Genève,Genève,5,3,2,2,2,,8,"46.2022146,6.1519720",https://www.erolfoundation.org/
-2034,FONDAZIONE SORRISO,CHE-232.971.943,Chiasso,Ticino,3,1,"2,4","1,2","1,2","1,2,3,4,5,6","4,5,6","45.8358686,9.0288700",
-2035,Leo und Dora Krummenacher Stiftung,CHE-233.704.468,Hergiswil NW,Nidwalden,5,"1,2,3,4","1,2,3,4","1,2",2,"1,2","4,5,6,7,8","46.9930603,8.3050102",
-2036,Fondation Inartis,CHE-234.358.825,Savièse,Valais,4,"1,2,3,4",3,"1,2","1,2","1,2,3,4,5,6",8,"46.2673436,7.3562613",http://inartis.ch/
-2042,Stiftung Dorfleben Bichwil,CHE-237.349.194,Bichwil,St. Gallen,1,"1,2,3,4",2,2,1,,8,"47.4198903,9.1395114",
-2045,Stiftung Henriette und Hans-Rudolf Dubach-Bucher,CHE-238.509.595,Luzern,Luzern,5,"1,2,3","2,3,4","1,2",2,2,"2,3,4,5,6,8","47.0653700,8.3106957",
-2046,Pestalozzi Heritage Foundation,CHE-240.535.159,Zürich,Zürich,5,"1,2,3,4",5,2,2,,"1,2,3,4,5,6,7,8","47.3666326,8.5465130",
-2047,Global Citizen Foundation,CHE-240.902.128,Zürich,Zürich,5,3,2,2,"1,2",,"2,3,4,5","47.3745766,8.5239226",http://global-citizen.org/
-2053,Annette Ringier-Stiftung,CHE-243.593.911,Glarus,Glarus,5,"2,3,4","1,2",2,2,,5,"47.0425197,9.0659182",
-2054,Fondation Claude Guignard,CHE-244.056.254,Vandoeuvres,Genève,4,3,1,"1,2","1,2",1,8,"46.2129808,6.2089990",
-2058,Fondation Ecojardinage,CHE-245.835.344,Essert-s-Champvent,Vaud,4,"1,2,3,4","4,5",2,2,,7,"46.7911571,6.5859181",https://www.ecojardinage.ch/la-fondation/qui-sommes-nous/
-2062,Fondation H&B Agerup (H&B Agerup Foundation),CHE-248.803.926,Genève,Genève,5,3,2,2,2,,8,"46.2095320,6.1475095",http://www.fondationhbagerup.org/
-2065,Multinational Intelligence Studies Campus - Fondazione,CHE-250.225.068,Roveredo GR,Graubünden,5,"1,2,3,4","2,4","1,2","1,2","1,2","5,7","46.2400000,9.1300000",
-2067,Fondazione Henry Krenter,CHE-250.988.083,Lugano,Ticino,5,"1,2,3","1,4","1,2","1,2","1,2",5,"46.0081498,8.9524234",
-2068,JP Charitable Foundation,CHE-251.758.982,Verbier,Valais,4,3,"2,4",2,2,,8,"46.1002473,7.2217405",
-2069,Karelsie Foundation,CHE-252.650.577,Zürich,Zürich,5,3,"1,2","1,2","1,2","1,2","1,2,3","47.3620161,8.5504983",https://karelsie.org/
-2071,Stiftung Dr. Hans und Hilde von Lorentz,CHE-253.247.741,Zürich,Zürich,4,1,4,2,"1,2",,"4,5","47.3732472,8.5379960",
-2075,Immobilienstiftung Rudolf Steiner Schulen Zürich (ImmoRSS),CHE-256.012.571,Zürich,Zürich,1,2,1,2,"1,2",,"1,2,3,4","47.3727873,8.5544208",https://www.immorss.ch/
-2076,Europäische Umwelt-Stiftung,CHE-256.457.660,Basel,Basel-Stadt,5,"1,2,3,4","1,2,3,4,5","1,2","1,2",1,8,"47.5532109,7.5923838",https://www.european-environment-foundation.eu/
-2077,Fondation Felicia,CHE-257.023.206,Genève,Genève,6,3,"1,2","1,2",2,1,8,"46.2038339,6.1559117",
-2078,Fondation Givaudan,CHE-258.427.291,Vernier,Genève,5,3,2,2,2,,8,"46.2065629,6.0785769",http://www.givaudan-foundation.org/?language=fr
-2082,Dr. Robert + Marlies Holzach - Stiftung,CHE-261.122.521,Küsnacht ZH,Zürich,4,1,4,2,"1,2",,"4,5,6,7,8","47.3254842,8.5844288",
-2085,JPlus - Stiftung für Energieeffizienz,CHE-262.268.908,Bettingen,Basel-Stadt,4,"1,2","2,4","1,2",1,"1,2","5,6","47.5694326,7.6610162",
-2088,Béatrice Ederer-Weber Stiftung,CHE-263.055.172,Zürich,Zürich,5,"1,3",2,"1,2",2,1,8,"47.3617566,8.5490930",http://www.ederer-stiftung.ch/startseite
-2091,Detas Foundation,CHE-265.701.729,Verbier,Valais,5,"1,2,3,4","2,4",2,2,,8,"46.1006852,7.2259308",
-2094,Fondazione Internazionale Carli'n,CHE-267.282.181,Ascona,Ticino,5,1,2,1,"1,2","1,2,3,4,5,6",,"46.1561037,8.7700085",http://www.fondazionecarlin.com/
-2103,Stiftung Startfeld,CHE-273.397.036,St. Gallen,St. Gallen,2,4,1,1,"1,2","1,2,3,4,5,6",,"47.4121877,9.3408256",http://www.startfeld.ch/
-2112,Fondation Sens de la Vie,CHE-280.372.573,Lausanne,Vaud,4,1,2,"1,2","1,2",1,5,"46.5142419,6.6258056",
-2113,SWISSCROSS Foundation - eine Stiftung zum Schutz der Opfer von Krieg und Naturkatastrophen,CHE-280.444.853,Zürich,Zürich,5,"1,2,3,4",2,"1,2","1,2","1,2","2,3,4,5,6,7","47.3633331,8.5469811",
-2117,Nyrstar Foundation,CHE-282.557.801,Zürich,Zürich,5,"1,2,3,4",2,"1,2","1,2","3,4,5,6","2,3,4,5,6","47.3640648,8.5321669",
-2118,Credis Stiftung,CHE-282.955.082,Pfäffikon SZ,Schwyz,4,1,"4,5",2,"1,2",,"2,3,4,5,6","47.2014543,8.7766172",http://credis-stiftung.ch/
-2120,appsocial.org Stiftung,CHE-286.024.975,Zürich,Zürich,5,"2,3",2,"1,2","1,2","3,4","1,2,3,7","47.3722115,8.5560705",http://appsocial.org/
-2121,U21Education Foundation,CHE-286.179.477,Zürich,Zürich,5,1,4,2,"1,2",,"2,3,4,5,6","47.3693159,8.5397229",
-2122,Fondation Horyou (Horyou Foundation),CHE-286.978.768,Genève,Genève,5,"1,3","1,4","1,2",2,"1,2",8,"46.1963848,6.1464742",https://www.horyou.com/
-2125,RAM Active Philanthropy Foundation,CHE-288.441.918,Genève,Genève,5,3,2,"1,2",2,1,8,"46.2037203,6.1486994",http://ram-ai.com/fr/philanthropy/
-2131,Purpose Stiftung,CHE-291.307.433,Basel,Basel-Stadt,5,4,1,"1,2","1,2","2,3,4,5,6",8,"47.5565738,7.5883694",http://purpose.ag/
-2132,Lorange Institute of Business Zurich Foundation,CHE-291.746.560,Horgen,Zürich,5,"1,2,4","2,4","1,2","1,2","1,2,3,4,5,6","5,6,7,8","47.2573491,8.6089703",
-2134,PG Impact Investments Foundation,CHE-292.626.332,Baar,Zug,5,"1,2,3,4",2,"1,2","1,2","3,4,5,6","2,3,4","47.1953729,8.5260870",
-2135,Fondazione Federico Zichy Thyssen,CHE-292.959.851,Lugano,Ticino,5,"1,2,3,4","2,4",2,2,,5,"46.0073167,8.9501807",
-2136,René Lanz Stiftung,CHE-293.547.824,Muri b. Bern,Bern,5,"1,2,3,4","1,2,3,4",2,"1,2",,"2,3,4,5,6","46.9263948,7.4964840",
-2140,A Little House in Africa Foundation,CHE-296.904.234,Zürich,Zürich,5,"1,2,3,4",2,2,2,,"1,2,3,4,5,6","47.3670164,8.5352212",
-2146,Barramundi-Stiftung,CHE-299.888.241,Lengwil,Thurgau,5,"1,2,3,4","1,2,4",2,"1,2",,"2,3,4,5,6,7,8","47.6247891,9.1903801",
-2147,Fondation Bernard,CHE-300.099.595,Lausanne,Vaud,5,3,2,"1,2",2,1,8,"46.5181993,6.6379201",
-2148,Schörling Stiftung,CHE-300.436.712,Luzern,Luzern,5,"1,2","2,4",2,2,,8,"47.0465566,8.3044927",
-2153,EHW-Stiftung,CHE-301.477.814,Köniz,Bern,5,"1,2,3","1,2,4","1,2","1,2","1,2","1,2,3,4,8","46.9248060,7.4119597",
-2165,Stiftung Jubiläum 2014,CHE-310.027.858,Liestal,Basel-Landschaft,3,4,"2,5",1,2,"3,4,5,6",,"47.4858080,7.7318994",
-2168,KRÜGER FOUNDATION,CHE-311.863.610,Staad,St. Gallen,5,"1,2,3,4",2,"1,2",2,1,8,"47.4726540,9.5544326",http://www.krugerfoundation.org/
-2171,Cartago Foundation,CHE-315.094.023,Luzern,Luzern,6,"1,2,3","1,4","1,2",2,"1,2",8,"47.0529545,8.3057740",
-2177,DodoBahati Stiftung für den Schutz der letzten Wildtiere,CHE-318.154.495,Au ZH,Zürich,5,1,4,2,2,,"2,3,7","47.2405898,8.6465673",http://www.dodobahati.ch/de/impressum
-2181,Löwenspur Stiftung,CHE-320.997.184,Arbon,Thurgau,5,"1,2,3,4","1,2,4",2,"1,2",,"1,2,3,4,5,6,7,8","47.5178811,9.4366078",
-2183,Wise Open Foundation,CHE-323.783.975,Bulle,Fribourg,4,"1,4",2,1,"1,2","2,3,4,5,6",,"46.6136450,7.0417536",
-2185,Dr. Franz Käppeli Stiftung,CHE-326.663.422,Geltwil,Aargau,2,"1,2,3,4","1,2,3,4","1,2","1,2","1,2,3,4,5,6","4,5,6,7","47.2492718,8.3222253",
-2187,LUMA & cetera Stiftung,CHE-327.208.351,Gstaad,Bern,5,"1,2,3,4","2,4",2,2,,"1,2,3,4,5,6,7,8","46.5119370,7.3025210",
-2190,Dr. med. Henrich ProVegan Stiftung,CHE-329.948.708,Kreuzlingen,Thurgau,5,"1,3","2,3,4","1,2",2,"2,3",8,"47.6472386,9.1752580",https://www.provegan.info/de/
-2192,Stiftung éducation21,CHE-334.292.233,Bern,Bern,4,2,2,2,2,,"2,3,4,7","46.9436347,7.4362290",http://www.education21.ch/en/home
-2195,Lyoness Greenfinity Foundation (Lyoness Greenfinity Stiftung),CHE-335.813.608,Buchs,St. Gallen,5,"1,3",2,"1,2","1,2","2,3,4,5,6",8,"47.1666660,9.4755220",http://www.lyoness-gff.org/en/homepage/
-2196,Fondation Didier et Martine PRIMAT (Didier and Martine PRIMAT Foundation),CHE-336.289.590,Presinge,Genève,5,3,2,"1,2",2,1,8,"46.2230194,6.2457135",
-2197,Stiftung zur Förderung der Freiheit von Mensch und Natur,CHE-336.638.294,Zug,Zug,5,"1,2,3","1,2,4","1,2",2,"1,2","2,3,4,5,6,7","47.1725320,8.5183458",
-2199,Organic World Foundation,CHE-337.064.036,Zug,Zug,5,"3,4","1,2","1,2","1,2","1,2,3,4,5,6","7,8","47.1772912,8.5176576",https://www.organicworldfoundation.ch/
-2200,UBS Foundation of Economics in Society,CHE-338.461.836,Zürich,Zürich,1,"1,2,3,4","1,3","1,2",2,"1,2","5,6,7","47.3729108,8.5500140",http://www.ubscenter.uzh.ch/index.php/en/about
-2201,Stiftung The Spirit of Bern,CHE-338.706.788,Muri b. Bern,Bern,4,"2,3,4","1,2",2,2,,8,"46.9315901,7.4851965",https://www.spiritofbern.ch/de/about-us/stiftung
-2208,Stiftung für Wirtschaft und Gesellschaft,CHE-344.116.046,Heimberg,Bern,4,"1,4","1,4","1,2",2,"3,4,5,6","4,5,6,7,8","46.7982254,7.6033792",
-2214,FONDATION VINCENT MERKLE,CHE-349.560.419,Fribourg,Fribourg,4,"1,2,3,4","1,2,3,4","1,2","1,2","1,2,3,4,5,6",8,"46.8020814,7.1534678",http://www.fondation-vm.ch/fr
-2215,FAMILY BUSINESS INTERNATIONAL FOUNDATION (FAMILY BUSINESS INTERNATIONAL FONDATION),CHE-349.824.535,Lausanne,Vaud,5,"1,2,3,4",2,"1,2",2,1,8,"46.5102186,6.6207417",http://www.fbn-i.org/
-2216,The Dunemere Foundation,CHE-350.649.256,Frauenfeld,Thurgau,5,"2,3","1,2","1,2",2,"1,2","1,2,3,4,5,6,7","47.5473268,8.9068842",
-2218,ToBessere Foundation,CHE-351.590.631,Lugano,Ticino,5,"1,2,3,4",2,"1,2","1,2","1,2,6","1,2,3,4,5,6,7,8","46.0070498,8.9501047",
-2227,Lindt Chocolate Competence Foundation,CHE-356.778.969,Kilchberg ZH,Zürich,4,"1,2,3,4","2,4","1,2",2,"1,2","4,5,6,8","47.3180696,8.5526154",
-2236,Paul Esser Stiftung,CHE-362.495.936,Luzern,Luzern,5,"1,2,3,4","1,3,4,5","1,2",2,"1,2",8,"47.0627817,8.3102174",
-2237,Fondation LAC,CHE-362.889.838,Veytaux,Vaud,4,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.4208130,6.9254603",
-2238,Keller-Rain-Stiftung,CHE-363.587.512,Aarau,Aargau,5,1,4,2,"1,2",,"4,5,6","47.3851318,8.0444008",
-2241,Susanne und Martin Knechtli-Kradolfer-Stiftung,CHE-365.053.960,St. Gallen,St. Gallen,5,"1,3","1,2,3,4",2,2,,8,"47.4272683,9.3680098",
-2242,Timor Foundation,CHE-365.572.823,Rorschach,St. Gallen,5,"1,2,3,4",2,"1,2",2,"3,4,5,6","2,3,4,6","47.4785414,9.4928801",http://www.timor-foundation.com/
-2245,Dora und Walter Rykart Stiftung,CHE-367.503.224,Bern,Bern,5,"1,2,3,4","1,2,4",1,1,"1,2",,"46.9390650,7.4468540",
-2248,Stiftung Maria Margaretha Huldi,CHE-369.495.328,Romanshorn,Thurgau,2,1,4,2,"1,2",,"5,6","47.5534624,9.3354124",http://www.mmhuldi.ch/
-2255,Gewerbe-Stiftung,CHE-377.291.928,Basel,Basel-Stadt,2,"1,4",2,"1,2","1,2","3,4,5,6","4,6,7,8","47.5523919,7.5915596",http://gewerbestiftung.ch/
-2257,Geneva Agape Foundation (Fondation Agape Genève),CHE-379.581.142,Le Grand-Saconnex,Genève,5,"1,2,3,4",2,2,2,,8,"46.2298655,6.1285697",
-2258,Walder-Graf-Stiftung,CHE-379.754.483,Feldbach,Zürich,4,1,4,2,"1,2",,"4,5,6","47.2401393,8.7840313",
-2260,MON SOLEIL FONDAZIONE,CHE-380.335.130,Lugano,Ticino,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"46.0090241,8.9502248",
-2268,Stiftung Alpines Energieforschungscenter AlpEnForCe,CHE-386.554.268,Disentis/Mustér,Graubünden,2,"1,2,3,4",2,1,1,"1,2",,"46.7064633,8.8550210",
-2269,ProTier - Stiftung für Tierschutz und Ethik,CHE-387.401.822,Zürich,Zürich,5,3,1,"1,2",2,1,8,"47.3599213,8.5340559",http://www.protier.ch/site/index.cfm?fuseaction=home.main&vsprache=de
-2272,Thomas Abegg Stiftung für Geist und Kultur,CHE-390.045.633,Wilen SZ,Schwyz,5,"1,2,3,4","2,4","1,2","1,2","1,2","4,5,6","47.1968261,8.7317480",
-2277,Asmallworld Foundation,CHE-392.883.160,Zürich,Zürich,5,3,1,2,2,,"2,3","47.3510517,8.5605738",http://www.asmallworldfoundation.org/
-2279,medicalHELP.ch Stiftung,CHE-393.577.990,Zofingen,Aargau,6,"1,2,3,4",2,"1,2","1,2",2,"4,5,6,7","47.2978160,7.9515446",
-2288,Fondation Segré,CHE-399.917.759,Zug,Zug,5,3,2,2,2,,7,"47.1653506,8.5140076",http://www.fondationsegre.org/
-2290,UZH Foundation,CHE-400.779.791,Zürich,Zürich,1,2,1,"1,2","1,2","2,3,4,5,6",5,"47.3796180,8.5469569",http://www.uzhfoundation.ch/de/
-2291,Fondation Esse Quam Videri,CHE-401.255.728,Cologny,Genève,6,"1,2,3,4",2,2,2,,8,"46.2165584,6.1809624",
-2295,Pfyl Stiftung,CHE-402.275.722,Zürich,Zürich,4,"2,3,4",2,"1,2","1,2","1,2","4,5,6,7","47.3872678,8.5348697",
-2296,Foundation Zürich Park Side,CHE-403.517.069,Horgen,Zürich,2,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6","1,2,3,4,5,6,7","47.2609075,8.5977944",http://www.zurichparkside.org/
-2301,Familienstiftung Fourie,CHE-405.035.657,Zürich,Zürich,2,"1,3","2,4",2,"1,2",,"4,5,6","47.3732452,8.5517158",
-2302,Ignaz Staub-Stiftung,CHE-406.046.362,Ennetbürgen,Nidwalden,5,"1,3","1,4",2,"1,2",,8,"46.9877343,8.3984511",
-2303,Fondation PVsyst,CHE-406.556.924,Satigny,Genève,5,3,2,2,"1,2",,8,"46.1971443,6.0488626",http://www.pvsyst.com/fr/
-2305,earthbeat solutions foundation,CHE-407.899.120,Zürich,Zürich,5,"3,4","1,2,3",2,2,,8,"47.3730646,8.5350538",
-2312,Blue Diamond Foundation,CHE-416.209.476,Horgen,Zürich,5,3,2,2,2,,8,"47.2569689,8.5913493",https://bluediamondfoundation.org/en/
-2313,"Anke, Remo und Avy Schällibaum-Stiftung (ARAS)",CHE-416.304.382,Zürich,Zürich,5,"1,2,3,4","1,2,4",1,2,"1,2",,"47.3805078,8.5075289",
-2316,Kathrin Schweizer-Stiftung,CHE-417.570.779,Hedingen,Zürich,4,"1,2","2,4",2,2,,"4,5,6,7","47.3003168,8.4454266",
-2322,ELIBERT STIFTUNG,CHE-423.964.069,Heiden,Appenzell Ausserrhoden,3,"1,4","1,4",2,"1,2",,"4,5,6,7","47.4463277,9.5297241",
-2324,Swiss Support for Children,CHE-425.067.933,Kreuzlingen,Thurgau,5,"1,2,3","1,2,3,4",2,"1,2",,"2,3,4","47.6547305,9.1731315",http://ssfc.ch/
-2333,Fondation UNEDU.H,CHE-429.120.348,Lausanne,Vaud,5,"1,2,3,4",2,"1,2","1,2",1,8,"46.5161709,6.6283198",http://www.fondation-unedu-h.org/
-2338,Fondation OSEM Observatoire Stratégique de l'Eau et des Matières Premières,CHE-431.409.166,Fribourg,Fribourg,4,2,3,"1,2",2,1,8,"46.8159298,7.1718283",http://osem.ch/
-2339,YouthAid Foundation,CHE-431.910.176,Zürich,Zürich,5,"1,2,3,4","1,2,4","1,2","1,2","1,2","2,3","47.3693159,8.5397229",
-2344,Santiago Aebi Stiftung,CHE-436.309.649,Bern,Bern,5,"1,2,3,4",,"1,2","1,2","3,4,5,6","4,5,6,7","46.9471608,7.4434662",
-2345,Fondation Lunt (Lunt Foundation),CHE-436.652.053,Fribourg,Fribourg,5,"2,3,4","1,2,3","1,2",2,"1,2,3,4,5,6",8,"46.8039881,7.1549882",http://luntfoundation.org/
-2347,Fondation Petunia,CHE-436.741.082,Genève,Genève,5,3,1,"1,2",2,1,8,"46.2038339,6.1559117",http://www.thepetuniafoundation.net/
-2349,SHIVA Stiftung,CHE-437.640.213,St. Gallen,St. Gallen,2,"2,3,4",1,"1,2",2,"1,2",8,"47.4237239,9.3728682",
-2352,Fondazione Aldo e Cele Daccò per il progresso,CHE-439.293.157,Lugano,Ticino,2,"1,2,3,4",2,2,2,,"2,3,4,5,6,7","46.0056660,8.9514437",
-2353,Fondation Raymond JACOT,CHE-439.948.573,Vernier,Genève,4,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.2189251,6.0875999",http://fondation-jacot.ch/
-2360,Kantensprung Stiftung,CHE-442.957.420,Basel,Basel-Stadt,5,3,2,1,"1,2","3,4",,"47.5409640,7.5931079",https://www.kantensprung-stiftung.ch/
-2368,Fondation Dutmala,CHE-447.866.664,Sion,Valais,5,3,1,2,2,,8,"46.2358403,7.3598791",
-2371,Raymund und Esther Breu-Stiftung,CHE-453.525.177,Pratteln,Basel-Landschaft,5,"2,3,4","1,2",2,2,,"1,2,3,4,5,6,7,8","47.5233456,7.7051451",
-2375,Fondazione per la scienza,CHE-455.500.633,Mendrisio,Ticino,4,"1,2,3","3,4","1,2",2,"1,2,3,4,5,6",8,"45.8708348,8.9884734",http://www.fondazioneperlascienza.ch/
-2377,Peter Bockhoff Stiftung,CHE-456.934.566,Zürich,Zürich,4,"1,2,3,4","1,2",2,1,,8,"47.3805078,8.5075289",
-2382,Munay Foundation,CHE-460.497.385,Arosa,Graubünden,5,"1,3","2,5",2,2,,8,"46.7822360,9.6799330",http://munayfoundation.org/stiftungsrat/
-2385,Stiftung Maximilian Bircher,CHE-462.493.145,Braunwald,Glarus,4,1,4,"1,2",2,"1,2",8,"46.9405508,8.9931156",http://www.bircher-benner.com/index.php?id=17&l=fr
-2387,NOVAGENESIS FOUNDATION,CHE-462.978.098,Weggis,Luzern,4,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"47.0273824,8.4578554",http://novagenesisfoundation.org/
-2389,Royal Döner Stiftung,CHE-463.980.471,Winterthur,Zürich,5,"1,2","1,4,5","1,2","1,2",1,"1,2,3,4,5,6,7,8","47.4994357,8.7611271",http://royal-stiftung.ch/
-2390,Solidus Foundation,CHE-465.021.707,Basel,Basel-Stadt,5,"1,2,3,4","1,2","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.5507938,7.5960143",
-2391,Kristian Gerhard Jebsen Stiftung,CHE-465.901.873,Pfäffikon SZ,Schwyz,5,"2,3,4","1,2","1,2",2,"1,2","1,2,3,4,5,6,7","47.2021203,8.7773252",
-2397,Fondazione Stella Chiara,CHE-471.031.246,Comano,Ticino,4,3,2,"1,2","1,2","1,2,3,4,5,6",8,"46.0376064,8.9577077",
-2399,TARBACA INDIGO FOUNDATION,CHE-471.310.574,Zürich,Zürich,5,"1,2,3","2,4","1,2","1,2","1,2","4,5,6,7,8","47.3741677,8.5352094",
-2404,Lindt Cocoa Foundation,CHE-472.907.355,Kilchberg ZH,Zürich,5,3,2,"1,2",2,"2,3,4,5,6",8,"47.3180696,8.5526154",http://lindtcocoafoundation.org
-2406,Wilsdorf Mettler Future Foundation,CHE-473.801.707,Pfäffikon SZ,Schwyz,6,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6","1,2,3,4,5,6,7,8","47.1972903,8.7649705",
-2407,Fondation suisse pour la promotion des échanges et de la mobilité (FPEM),CHE-475.676.330,Bern,Bern,5,"1,2,3",2,2,1,,"2,3,4,5,6,7","46.9375268,7.4465649",http://www.fpem-ch.ch
-2408,Dr. Bernhard Stüdeli Stiftung,CHE-475.798.677,Pfäffikon SZ,Schwyz,2,3,1,1,"1,2","1,2,3,4,5,6",,"47.1972903,8.7649705",
-2415,Swiss Re Foundation,CHE-481.251.275,Zürich,Zürich,5,"2,3","2,5",1,2,"2,3,4,5,6",,"47.3598056,8.5348743",http://www.swissrefoundation.org/
-2417,Arc Jurassien Déchets (AJD),CHE-483.924.725,Tramelan,Neuchâtel,2,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6","7,8","47.2240877,7.0991046",http://www.fondation-ajd.ch/arc-jurassien-dechets
-2418,Fondation Oyun,CHE-485.619.428,Genève,Genève,5,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.2011036,6.1501059",
-2427,Scholar Support Fund,CHE-492.550.291,Zug,Zug,5,1,4,2,"1,2",,"4,5,6","47.1716313,8.5167062",
-2431,Fondation Indosuez (Suisse),CHE-494.734.117,Genève,Genève,5,3,"1,2,3","1,2",2,1,8,"46.2044810,6.1471759",https://www.ca-indosuez.com/switzerland/en/indosuez-in-switzerland/csr-our-foundation
-2435,Fondation pour l'Infrastructure Durable (FID) (Sustainable Infrastructure Foundation (SIF)),CHE-495.504.732,Genève,Genève,5,"2,3",1,1,1,"1,2,3,4,5,6",,"46.1976586,6.1422332",http://www.public-sif-iiss.org/accueil
-2439,Oak Foundation,0,Cointrin,Genève,5,"1,2,3,4",2,"1,2",2,1,8,"46.2237547,6.1094253",http://oakfnd.org/content/8233
-2440,Christoph Merian Stiftung,0,Basel,Basel-Stadt,3,"1,2,3,4",2,2,2,,"1,2,3,4,5,6,7","47.5545500,7.5955908",http://www.cms-basel.ch/de/aktuell.html
+404,Fondation Montagu,CHE-110.401.950,Zürich,Zürich,5,"2,3","2,3",2,2,,"2,3,8","47.3640340,8.5465866",http://www.fondationmontagu.org/
+405,Arcanum Stiftung (Fondation Arcanum) (Fondazione Arcanum) (Foundation Arcanum),CHE-112.456.910,Fribourg,Fribourg,5,3,"1,2",2,"1,2",,8,"46.7962176,7.1523274",http://arcanum-stiftung.ch/fr/
+406,PARACELSUS FOUNDATION,CHE-113.503.630,Lugano,Ticino,5,"2,3,4",2,"1,2",2,"1,2",5,"46.0096885,8.9540432",
+407,medicalHELP.ch Stiftung,CHE-393.577.990,Zofingen,Aargau,6,"1,2,3,4",2,"1,2","1,2",2,"4,5,6,7","47.2978160,7.9515446",
+408,DEGIRMENKAYA-STIFTUNG,CHE-110.145.623,Liestal,Basel-Landschaft,5,"1,3","2,4",2,2,,"4,5,6,8","47.4758269,7.7255229",
+409,"Stiftung zur Förderung von Technologiemanagement, Technologiepolitik und Technologietransfer",CHE-102.033.436,St. Gallen,St. Gallen,2,2,1,"1,2","1,2",2,5,"47.4316121,9.3746170",
+410,Richard Büchner-Stiftung zur Förderung der wirtschafts- und sozialwissenschaftlichen Forschung,CHE-110.616.752,Zürich,Zürich,6,"1,2","2,4","1,2",2,"1,2","5,6","47.4109145,8.5406832",
+411,Posen Stiftung,CHE-109.812.192,Luzern,Luzern,6,"1,2","1,4","1,2","1,2","1,2","1,2,3,4,5,6,7","47.0529545,8.3057740",
+412,Konrad Heinrich Auer-Stiftung,CHE-109.511.017,Netstal,Glarus,3,1,"4,5","1,2","1,2","1,2",5,"47.0557608,9.0539850",
+413,Fondation Lunt (Lunt Foundation),CHE-436.652.053,Fribourg,Fribourg,5,"2,3,4","1,2,3","1,2",2,"1,2,3,4,5,6",8,"46.8039881,7.1549882",http://luntfoundation.org/
+414,Stiftung Ammann von Wittenwil,CHE-110.398.839,Wittenwil,Thurgau,3,"1,2,3,4",2,2,2,,"4,5,6,7","47.5029349,8.9244667",
+415,King Albert I Memorial Foundation,CHE-109.705.550,Zürich,Zürich,5,"1,3",5,1,2,2,,"47.3981118,8.5257797",http://www.king-albert.ch/
+416,Alpine Foundation for Life Sciences,CHE-112.363.237,Olivone,Ticino,5,"1,2,3,4",2,"1,2",2,"1,2","3,4,5,6,7","46.5300000,8.9400000",http://fasv.ch/
+417,Stiftung e-vision,CHE-113.999.834,Zürich,Zürich,5,"2,3","1,2",2,"1,2",,"2,3,4,5,6,7","47.3698308,8.5438325",
+418,Santiago Aebi Stiftung,CHE-436.309.649,Bern,Bern,5,"1,2,3,4",,"1,2","1,2","3,4,5,6","4,5,6,7","46.9471608,7.4434662",
+419,Stiftung zur Förderung der Textilindustrie (SFT),CHE-109.826.142,Zürich,Zürich,4,"2,4",2,1,2,2,,"47.3664798,8.5367857",
+420,Tree Of Life International Foundation,CHE-115.526.582,Lugano,Ticino,5,3,2,2,2,,"1,2,3","46.0076473,8.9575956",http://www.treeoflifeinternational.ch/?lang=de
+421,Stiftung Ulmus,CHE-112.753.124,Zürich,Zürich,6,3,"1,2",2,"1,2",,"4,5,6","47.3588427,8.5897557",
+422,Stiftung der Ortsbürgergemeinde St.Gallen,CHE-217.827.701,St. Gallen,St. Gallen,1,"1,3","1,2,4","1,2",2,1,8,"47.4238383,9.3762108",http://www.ortsbuerger.ch/
+423,Schweizer Stiftung Bildungsanker,CHE-196.116.590,Disentis/Mustér,Graubünden,5,1,2,2,"1,2",,4,"46.7071107,8.8550511",http://www.bildungsanker.ch/
+424,Messerli-Stiftung,CHE-114.482.976,Sörenberg,Luzern,5,"1,3","2,4",1,2,"1,2",,"46.8136550,7.9959100",http://www.berggasthaus-salwideli.ch/messerli-stiftung/
+425,"JANE GOODALL INSTITUT SCHWEIZ - STIFTUNG FÜR FORSCHUNG, BILDUNG UND UMWELTSCHUTZ",CHE-114.404.456,Zürich,Zürich,5,"2,3","2,3","1,2",2,"1,2","1,2,3,4,5,6,7,8","47.3978168,8.5505743",
+426,Martinshorn Foundation,CHE-114.874.951,Frauenfeld,Thurgau,5,4,"2,3,4",2,2,,"2,3,4,5,6,7,8","47.5513446,8.9148069",
+427,Ernst und Annelies Grossenbacher-Güntzel-Stiftung,CHE-110.194.604,St. Gallen,St. Gallen,4,"1,2,3","2,4","1,2",2,"1,2","4,5,6,7,8","47.4343860,9.3813459",
+428,Schweizerische Stiftung der Kakao- und Schokoladewirtschaft,CHE-109.387.088,Bern,Bern,5,"1,2,3,4",3,"1,2","1,2",2,"2,3,4,6,7,8","46.9469897,7.4470390",
+429,"Oekopolis Stiftung für interdisziplinäre Information, Innovation und Projektgestaltung im Beziehungsfeld Energie-Technik-Natur",CHE-109.950.138,Zürich,Zürich,4,"1,2,3,4",2,1,"1,2","3,4,5,6",,"47.3803563,8.5005467",
+430,Naturwaldstiftung,CHE-109.325.696,Zürich,Zürich,3,"1,2,3,4",2,2,2,,8,"47.3976561,8.5080981",
+431,Good Energies Foundation ,CHE?113.910.604,Zug,Zug,5,"1,2,3,4",2,1,"1,2","2,3,4,5,6",,"47.1745298,8.5123869",https://www.goodenergies.org/
+432,GLOBAL FOUNDATION FOR LIFE SCIENCES,CHE-110.408.461,Fribourg,Fribourg,4,2,3,"1,2",2,1,8,"46.8068818,7.1624845",
+433,Heinz Kaiser Stiftung,CHE-110.593.192,Zürich,Zürich,3,"1,2","2,4","1,2","1,2","1,2","2,3,4,5,6,7","47.3625255,8.5514523",
+434,Fondation CINTCOM,CHE-203.992.601,Vernier,Genève,4,"2,3,4",2,1,"1,2","1,2,3,4,5,6",,"46.2189251,6.0875999",
+435,Fondation Werner Buser,CHE-110.110.524,Bonfol,Jura,4,"1,2,3,4",2,"1,2",2,"2,3,4,5,6",8,"47.4759769,7.1527006",
+436,The TreadRight Foundation,CHE-114.006.831,Cointrin,Genève,5,3,"1,2","1,2",2,"1,2,3,4,5,6",8,"46.2237547,6.1094253",https://www.treadright.org/
+437,Lorange Institute of Business Zurich Foundation,CHE-291.746.560,Horgen,Zürich,5,"1,2,4","2,4","1,2","1,2","1,2,3,4,5,6","5,6,7,8","47.2573491,8.6089703",
+438,Stiftung Startfeld,CHE-273.397.036,St. Gallen,St. Gallen,2,4,1,1,"1,2","1,2,3,4,5,6",,"47.4121877,9.3408256",http://www.startfeld.ch/
+439,Fondazione Filantropica Danilo e Luca Fossati,CHE-109.988.075,Massagno,Ticino,5,"1,3",2,2,2,,"1,2,3,4,5,6,7","46.0129779,8.9432062",http://www.fondazionefossati.org/
+440,Dr. Lukas Werenfels-Stiftung,CHE-110.294.192,Zürich,Zürich,5,3,2,2,"1,2",,"2,3,4,5,6,7,8","47.3767872,8.5329575",
+441,Stiftung Naturreservat Rappentobel Meilen,CHE-111.738.926,Meilen,Zürich,2,2,2,"1,2",2,"1,2",8,"47.2693150,8.6436923",
+442,Stiftung Pro Flims,CHE-101.817.636,Flims Dorf,Graubünden,2,1,2,2,"1,2",,8,"46.7736657,9.2046202",http://www.kulturfoerderung.ch/fr/address/529/
+443,HHS Hildegard und Hans Schaefer Stiftung,CHE-112.163.543,Altdorf UR,Uri,6,"1,2,3","2,4",1,"1,2","1,2",,"46.8799741,8.6448585",
+444,Emil-Boral-Stiftung des Schweizer Hotelier-Vereins,CHE-109.672.577,Bern,Bern,4,"1,2","1,2,4","1,2",2,2,"4,6","46.9354921,7.4363143",
+445,A Little House in Africa Foundation,CHE-296.904.234,Zürich,Zürich,5,"1,2,3,4",2,2,2,,"1,2,3,4,5,6","47.3670164,8.5352212",
+446,Rotary Stiftung Forch,CHE-110.112.747,Esslingen,Zürich,5,"1,2,3,4","2,4",2,2,,"4,5,6","47.2916788,8.7073776",
+447,"Fondation ""TELLUS VIVA""",CHE-113.381.019,Zürich,Zürich,5,"1,2,3,4","1,2,3,4",2,2,,8,"47.3620161,8.5504983",
+448,Stiftung für Werteorientierte Erziehung (SFWE),CHE-112.121.131,Aarau,Aargau,4,"1,2,3","1,2,4",2,"1,2",,"1,2,3,7","47.3943324,8.0479625",
+449,Stiftung Longo Mai,CHE-112.320.570,Basel,Basel-Stadt,3,"1,2,3,4",2,2,2,,8,"47.5627741,7.5847850",https://www.prolongomai.ch/
+450,Blue Diamond Foundation,CHE-416.209.476,Horgen,Zürich,5,3,2,2,2,,8,"47.2569689,8.5913493",https://bluediamondfoundation.org/en/
+451,Arco Foundation,CHE-112.405.433,Zürich,Zürich,5,,,"1,2",2,1,"1,2,3,7","47.3711126,8.5278729",http://www.arco-foundation.ch/
+452,Munay Foundation,CHE-460.497.385,Arosa,Graubünden,5,"1,3","2,5",2,2,,8,"46.7822360,9.6799330",http://munayfoundation.org/stiftungsrat/
+453,Dora und Walter Rykart Stiftung,CHE-367.503.224,Bern,Bern,5,"1,2,3,4","1,2,4",1,1,"1,2",,"46.9390650,7.4468540",
+454,"""baiji.org"" foundation",CHE-111.985.703,Zürich,Zürich,5,"2,3","1,2","1,2",2,"1,2",8,"47.3598874,8.5518097",
+455,Credis Stiftung,CHE-282.955.082,Pfäffikon SZ,Schwyz,4,1,"4,5",2,"1,2",,"2,3,4,5,6","47.2014543,8.7766172",http://credis-stiftung.ch/
+456,Avenira Stiftung,CHE-107.974.010,Luzern,Luzern,5,"1,2,3,4",2,"1,2","1,2","1,2","2,3,4,5,6,7,8","47.0477525,8.3051432",
+457,Fondation Addax et Oryx (Addax and Oryx Foundation),CHE-113.990.537,Genève,Genève,5,3,2,2,2,,8,"46.1929970,6.1523326",http://www.addax-oryx-foundation.org
+458,Lindt Chocolate Competence Foundation,CHE-356.778.969,Kilchberg ZH,Zürich,4,"1,2,3,4","2,4","1,2",2,"1,2","4,5,6,8","47.3180696,8.5526154",
+459,Stiftung Stein,CHE-110.442.883,Schwyz,Schwyz,5,"1,2","2,4","1,2","1,2","1,2","5,6","47.0221793,8.6472525",
+460,Stiftung zur Förderung der appenzell-ausserrhodischen Wirtschaft,CHE-108.492.021,Herisau,Appenzell Ausserrhoden,3,4,"1,2",1,"1,2","3,4,5,6",,"47.3927761,9.2822373",http://wirtschaftar.ch/de/home
+461,The New Economic School Foundation,CHE-113.684.342,Sarnen,Obwalden,5,"1,2","1,4","1,2","1,2","1,2",5,"46.8965774,8.2506389",
+462,BERNARD VAN LEER STIFTUNG LUZERN,CHE-101.764.744,Luzern,Luzern,3,3,1,2,2,,8,"47.0540097,8.3096367",https://bernardvanleer.org/
+463,"Stiftung für Bevölkerung, Migration und Umwelt (BMU)",CHE-110.395.166,Uetikon am See,Zürich,5,"1,3","1,4",1,2,2,,"47.2657856,8.6779400",http://www.bmu-foundation.ch/
+464,Fondation Ernest Boninchi,CHE-101.141.649,Genève,Genève,3,1,4,2,"1,2",,5,"46.1996468,6.1422246",http://wadme.unige.ch:3149/pls/opdinf/pbsfiche20w$pbs_fiche.QueryViewByKey?P_FICHE_ID=291&Z_CHK=38378
+465,Stiftung Wissenschaftliche Politikstipendien,CHE-113.298.358,Bern,Bern,4,1,4,2,"1,2",,5,"46.9470570,7.4366015",http://www.politikstipendien.ch
+466,Peter und Annemarie Geistlich Stiftung,CHE-114.025.432,Stansstad,Nidwalden,5,"1,2,3,4","1,2","1,2",2,1,"1,2,3,4,5,6,7,8","46.9811891,8.3407684",
+467,FONDATION PETERSBERG PRO PLANTA ET NATURA,CHE-114.548.836,Kilchberg,Zürich,4,"1,2,3","1,2,4","1,2",2,"1,2","1,2,3,4,5,6,7,8","47.3242297,8.5470948",
+468,Stiftung Wunderland,CHE-112.432.654,Biel/Bienne,Bern,4,3,"1,2",2,2,,8,"47.1333259,7.2449525",http://stiftung-wunderland.ch
+469,Paul Esser Stiftung,CHE-362.495.936,Luzern,Luzern,5,"1,2,3,4","1,3,4,5","1,2",2,"1,2",8,"47.0627817,8.3102174",
+470,CHARISMA Stiftung für nachhaltige Entwicklung,CHE-116.166.753,Dornach,Solothurn,5,"1,3","1,2,4",2,2,,8,"47.4854002,7.6146285",
+471,appsocial.org Stiftung,CHE-286.024.975,Zürich,Zürich,5,"2,3",2,"1,2","1,2","3,4","1,2,3,7","47.3722115,8.5560705",http://appsocial.org/
+472,Fondation Oyun,CHE-485.619.428,Genève,Genève,5,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.2011036,6.1501059",
+473,Rollirain,CHE-110.402.889,Steckborn,Thurgau,2,"2,3,4","1,2,3","1,2",2,"1,2,3,4,5,6","4,6,7","47.6519314,8.9654857",http://www.rollirain.ch/pages/betrieb/traegerschaft.php
+474,ToBessere Foundation,CHE-351.590.631,Lugano,Ticino,5,"1,2,3,4",2,"1,2","1,2","1,2,6","1,2,3,4,5,6,7,8","46.0070498,8.9501047",
+475,NTFP-Stiftung,CHE-109.990.706,Bern,Bern,5,"2,3",2,"1,2",2,2,8,"46.9493917,7.4407736",
+476,Pende Foundation,CHE-112.963.822,Ascona,Ticino,5,"1,2,3",1,"1,2","1,2",1,"2,3,7","46.1563079,8.7703922",http://www.pendefoundation.com/
+477,Fondation Didier et Martine PRIMAT (Didier and Martine PRIMAT Foundation),CHE-336.289.590,Presinge,Genève,5,3,2,"1,2",2,1,8,"46.2230194,6.2457135",
+478,Däster-Schild Stiftung,CHE-110.217.725,Grenchen,Solothurn,5,3,"1,2","1,2",2,1,8,"47.1909612,7.3964567",http://www.daester-schild-stiftung.ch/
+479,Pius Eisenring Stiftung,CHE-111.775.873,Dornach,Solothurn,5,1,5,2,2,,"4,7","47.4774258,7.6134715",
+480,"Experiment für eine humane Erde, Stiftung für Kultur und Forschung",CHE-101.655.210,Weinfelden,Thurgau,6,"1,2,3,4",2,"1,2",2,"1,2,3,4",8,"47.5671975,9.1062249",
+481,"Jetty, Aron und Simon Blum-Stiftung",CHE-101.825.363,Zürich,Zürich,4,"1,3","1,2,4","1,2","1,2","1,2",8,"47.3799729,8.5070149",
+482,Stiftung zur Förderung der beruflichen Aus- und Weiterbildung in der Holzindustrie,CHE-110.389.591,Uznach,St. Gallen,6,1,4,2,2,,7,"47.2251191,8.9754828",
+483,Stiftung GlobalLokal,CHE-110.441.866,Basel,Basel-Stadt,2,"1,2,3,4",2,1,2,"1,2",,"47.5445826,7.5840377",
+484,Stiftung Wald-Klima-Umwelt,CHE-104.304.356,Basel,Basel-Stadt,5,1,"2,4",2,2,,8,"47.5323867,7.5882336",http://www.wald-klima-umwelt.ch/index.php
+485,Stiftung 3F Organisation,CHE-113.571.235,Olten,Solothurn,4,"1,3","1,2,4",2,"1,2",,8,"47.3534138,7.9042615",http://www.3fo.ch/de/index.php
+486,Wise Open Foundation,CHE-323.783.975,Bulle,Fribourg,4,"1,4",2,1,"1,2","2,3,4,5,6",,"46.6136450,7.0417536",
+487,Stiftung myclimate - The Climate Protection Partnership,CHE-110.336.005,Zürich,Zürich,5,"2,3,4",1,2,2,,"2,3,4,5,6,7,8","47.3880637,8.5182402",http://www.myclimate.org/
+488,Fondation Youkali (Youkali Foundation),CHE-158.031.254,Genève,Genève,5,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.1997408,6.1681874",
+489,Fondation Herbette,CHE-101.835.278,Lausanne,Vaud,3,1,"2,3,4",2,2,,5,"46.5210895,6.5801606",https://www.unil.ch/herbette/fr/home.html
+490,Lyoness Greenfinity Foundation (Lyoness Greenfinity Stiftung),CHE-335.813.608,Buchs,St. Gallen,5,"1,3",2,"1,2","1,2","2,3,4,5,6",8,"47.1666660,9.4755220",http://www.lyoness-gff.org/en/homepage/
+491,Solidarité Universitaire pour le Développement-SUD,CHE-100.856.645,Lausanne,Vaud,5,"2,3",1,"1,2",1,1,"5,6","46.5417954,6.6544537",
+492,Stiftung Nord - Süd,CHE-110.394.801,Zürich,Zürich,5,"2,3",2,2,"1,2",,"2,3,4,5","47.3602439,8.5833356",
+493,Schweizerische Stiftung zur Förderung des biologischen Pflanzenschutzes (SFBP),CHE-100.703.674,Zürich,Zürich,5,"1,2,3,4",2,1,2,"1,2,3,4,5,6",,"47.3774386,8.5487444",
+494,Timor Foundation,CHE-365.572.823,Rorschach,St. Gallen,5,"1,2,3,4",2,"1,2",2,"3,4,5,6","2,3,4,6","47.4785414,9.4928801",http://www.timor-foundation.com/
+495,Pestalozzi Heritage Foundation,CHE-240.535.159,Zürich,Zürich,5,"1,2,3,4",5,2,2,,"1,2,3,4,5,6,7,8","47.3666326,8.5465130",
+496,Stiftung Global Infrastructure Basel,CHE-116.200.025,Basel,Basel-Stadt,5,"1,3,4","1,2,3,5",1,"1,2",2,,"47.5516742,7.5908396",http://www.gib-foundation.org/
+497,Stiftung Technopark Zürich,CHE-106.388.275,Zürich,Zürich,1,4,1,1,"1,2","2,3,4,5,6",,"47.3901869,8.5158465",http://www.technopark.ch/en/technopark/about-technopark/
+498,Solidus Foundation,CHE-465.021.707,Basel,Basel-Stadt,5,"1,2,3,4","1,2","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.5507938,7.5960143",
+499,Vrenjo-Stiftung,CHE-110.391.518,Arlesheim,Basel-Landschaft,3,"1,2,3","1,3,4","1,2","1,2","1,2","1,2,3,8","47.4960635,7.6236847",
+500,Nyrstar Foundation,CHE-282.557.801,Zürich,Zürich,5,"1,2,3,4",2,"1,2","1,2","3,4,5,6","2,3,4,5,6","47.3640648,8.5321669",
+501,Fondazione Aldo e Cele Daccò,CHE-143.298.699,Lugano,Ticino,5,"1,2","1,2,4","1,2","1,2","1,2",5,"46.0076034,8.9521739",
+502,Fondazione Rivapiana per la formazione e la ricerca universitarie nel Locarnese,CHE-116.242.779,Minusio,Ticino,3,"1,2,3","2,4","1,2","1,2","1,2,3,4,5,6",5,"46.1760355,8.8125090",
+503,Fondazione Giuseppe Soldati,CHE-110.388.798,Neggio,Ticino,2,"1,3","2,4",2,"1,2",,8,"45.9857933,8.8796168",
+504,HAND IN HAND: STIFTUNG FÜR EINE NACHHALTIGE ENTWICKLUNG,CHE-112.497.576,Winterthur,Zürich,5,"2,3,4","2,3","1,2",2,"3,4,5,6","2,3,4,5,6","47.5017038,8.7193985",
+505,"Stiftung zur Pflege von Mensch, Mitwelt und Erde",CHE-113.079.632,Münsingen,Bern,4,"1,2,3,4","1,2","1,2",2,"1,2","2,3,4,5,6,7,8","46.8737603,7.5690470",
+506,Armand und Rosa Baudère-Stiftung,CHE-110.179.757,Reiden,Luzern,5,"1,2,3",2,"1,2","1,2","1,2","5,6,8","47.2392750,7.9693421",
+507,Eduard Batschelet-Mader Stiftung,CHE-104.068.894,Basel,Basel-Stadt,5,"2,3",2,1,2,"1,2",,"47.5577908,7.5907760",
+508,Fondation Praneo,CHE-221.388.194,La Conversion,Vaud,4,"1,2,3,4",1,2,2,,8,"46.5153260,6.6818248",http://www.praneo.org/?language=fr
+509,Giuseppe Kaiser-Stiftung,CHE-110.001.415,Neftenbach,Zürich,6,"1,3","1,4,5","1,2","1,2","1,2","5,6","47.5242477,8.6712187",
+510,The UsitawiNetwork Foundation,CHE-109.996.488,Münsingen,Bern,5,"2,3,4","2,3","1,2","1,2","3,4,5,6","2,3,4,5,6,7,8","46.8733177,7.5520051",http://www.usitawi.org/ueber-uns/wer-sind-wir/
+511,Fondazione Henry Krenter,CHE-250.988.083,Lugano,Ticino,5,"1,2,3","1,4","1,2","1,2","1,2",5,"46.0081498,8.9524234",
+512,Dätwyler Stiftung,CHE-109.390.481,Altdorf UR,Uri,3,3,"2,5","1,2",2,"1,2,3,4,5,6",8,"46.8796628,8.6393800",http://www.daetwyler-stiftung.ch/Home.8.0.html
+513,Humanatura-Stiftung,CHE-110.397.030,Wauwil,Luzern,6,"2,3,4",2,2,2,,"1,2,3,4,5,6,7,8","47.1876441,8.0254880",
+514,"SWISSAID, Schweizerische Stiftung für Entwicklungszusammenarbeit",CHE-105.911.139,Bern,Bern,5,"1,2,3,4",2,2,2,,"2,3,4,5,6,7,8","46.9451899,7.4192379",https://www.swissaid.ch/de
+515,Elsy Amsler - Stiftung,CHE-113.335.901,Kaisten,Aargau,5,"1,2,3,4",2,2,2,,"2,3,8","47.5382479,8.0431434",
+516,Michel Comte Water Foundation,CHE-110.322.799,Zürich,Zürich,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6","1,2,3,4,5,6,7","47.3581620,8.5531309",
+517,Veronika und Hugo Bohny Stiftung,CHE-114.428.008,Meilen,Zürich,5,"1,3,4","2,5","1,2","1,2","3,4",8,"47.2729248,8.6261235",http://www.vhbstiftung.ch/
+518,Kühne-Stiftung,CHE-110.379.919,Schindellegi,Schwyz,5,"2,3,4","2,3","1,2",1,2,"4,5,6,7","47.1783656,8.7075795",https://www.kuehne-stiftung.org/index.php?id=1275
+519,Familienstiftung Fourie,CHE-405.035.657,Zürich,Zürich,2,"1,3","2,4",2,"1,2",,"4,5,6","47.3732452,8.5517158",
+520,Stiftung für gesellschaftliche Lebensqualität,CHE-109.574.762,Liestal,Basel-Landschaft,4,"3,4","1,2",2,2,,8,"47.4843344,7.7365811",http://www.stiftunglq.com
+521,Stiftung HTW Chur Technik,CHE-100.642.653,Chur,Graubünden,3,1,2,"1,2",2,"2,3,4,5,6",6,"46.8512309,9.5139716",http://www.fhtw-chur.ch/index.php?id=59
+522,Stiftung Dorfleben Bichwil,CHE-237.349.194,Bichwil,St. Gallen,1,"1,2,3,4",2,2,1,,8,"47.4198903,9.1395114",
+523,Schweizer Berghilfe,CHE-112.368.051,Adliswil,Zürich,4,"1,4","2,5","1,2","1,2",,"1,2,3,4","47.3182465,8.5226180",https://www.berghilfe.ch/de
+524,Stiftung Zwirneli,CHE-114.036.453,Walzenhausen,Appenzell Ausserrhoden,3,"1,2,3,4","1,2","1,2",2,1,8,"47.4411617,9.5848793",http://www.zwirneli.ch/zen
+525,Z Zurich Foundation,CHE-101.746.568,Zürich,Zürich,5,3,2,"1,2",2,2,"5,6,7","47.3621159,8.5350277",https://www.zurich.ch/en/about-us/corporate-responsibility/z-zurich-foundation
+526,GLAUKES-Stiftung,CHE-116.357.721,Basel,Basel-Stadt,5,"1,2","2,4,5","1,2",2,"1,2","4,5,6,7,8","47.5523996,7.5938029",
+527,Kindernothilfe Schweiz,CHE-111.981.214,Aarau,Aargau,5,3,2,2,2,,"2,3,8","47.3943065,8.0508973",http://www.kindernothilfe.ch/
+528,Luma Stiftung,CHE-111.972.741,Feldmeilen,Zürich,5,"1,2,3","2,4",2,2,,"1,2,3,4,5,6,7","47.2833810,8.6126211",
+529,Marion Jean Hofer-Woodhead-Stiftung,CHE-110.409.489,Basel,Basel-Stadt,6,"1,2,3,4","1,2",1,2,"1,2",,"47.5537144,7.5924782",
+530,Fondazione Don Bautista Gargantini per il sostegno allo sviluppo e all'educazione,CHE-109.830.089,Lugano,Ticino,5,"2,3",2,2,"1,2",,"1,2,3,4,5,6,7,8","46.0115227,8.9557689",
+531,Fondation PVsyst,CHE-406.556.924,Satigny,Genève,5,3,2,2,"1,2",,8,"46.1971443,6.0488626",http://www.pvsyst.com/fr/
+532,Forschungsstiftung Genaxen,CHE-114.081.011,Bern,Bern,6,"2,3,4",2,1,"1,2",1,,"46.9477087,7.4255497",
+533,Max und Marlis Galliker Stiftung,CHE-112.955.320,Horw,Luzern,1,"1,3","1,2,4",2,2,,"1,2,3,4,5,6,7,8","47.0126229,8.3125069",
+534,Fondation pour un Monde Biologique (The Organic World Foundation),CHE-115.305.093,Cointrin,Genève,5,"1,2,3,4",2,2,2,,8,"46.2281464,6.1041844",https://www.organicworldfoundation.ch/
+535,Fondazione per la scienza,CHE-455.500.633,Mendrisio,Ticino,4,"1,2,3","3,4","1,2",2,"1,2,3,4,5,6",8,"45.8708348,8.9884734",http://www.fondazioneperlascienza.ch/
+536,Stiftung Corymbo,CHE-109.823.988,Zürich,Zürich,5,"1,3",2,1,2,"2,3,4,5,6",,"47.3664923,8.5182899",https://corymbo.ch/
+537,Stiftung Finanzplatz Basel,CHE-110.342.000,Basel,Basel-Stadt,1,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"47.5597986,7.5931928",http://www.wsu.bs.ch/ueber-uns/partnerorganisationen/stiftung-finanzplatz-basel.html
+538,Fondation Pierre et Nouky Bataillard,CHE-110.166.654,Chavannes-Renens,Vaud,4,"1,2,3,4",2,"1,2",2,"1,2,3,4,5,6",8,"46.5261362,6.6181507",https://fondationbataillard.ch/
+539,Susanne und Martin Knechtli-Kradolfer-Stiftung,CHE-365.053.960,St. Gallen,St. Gallen,5,"1,3","1,2,3,4",2,2,,8,"47.4272683,9.3680098",
+540,Argaman Foundation,CHE-114.371.035,Aubonne,Vaud,5,"1,2,3,4",2,2,2,,8,"46.4953291,6.3918325",
+541,Solon-Stiftung,CHE-109.676.581,Luzern 7,Luzern,6,"1,2,3","1,4","1,2",2,"1,2","4,5,6,8","47.0501671,8.3024918",
+542,Stiftung Vision Mitte,CHE-109.983.416,Windisch,Aargau,2,"1,2,3,4",2,2,2,,4,"47.4778864,8.2167194",
+543,Stiftung Natur- und Tierpark Goldau,CHE-110.330.706,Goldau,Schwyz,4,"2,3",2,1,2,"1,2",,"47.0508789,8.5519183",http://www.tierpark.ch/ueber-uns/stiftung-natur-und-tierpark-goldau/
+544,Irene-Stiftung,CHE-110.378.297,Zürich,Zürich,5,"1,3","2,4",2,2,,8,"47.3945726,8.5377579",http://www.irenestiftung.ch/
+545,Helmut Fischer Stiftung,CHE-114.282.578,Baar,Zug,5,"1,2","1,4","1,2","1,2","2,3,4,5,6",5,"47.1953556,8.5243632",http://helmut-fischer-stiftung.ch/
+546,Leo und Dora Krummenacher Stiftung,CHE-233.704.468,Hergiswil NW,Nidwalden,5,"1,2,3,4","1,2,3,4","1,2",2,"1,2","4,5,6,7,8","46.9930603,8.3050102",
+547,Venusstiftung,CHE-114.759.617,Riken AG,Aargau,5,1,3,2,2,,8,"47.2718033,7.8494454",
+548,Fondation d'aide sociale et culturelle du Canton de Vaud,CHE-116.081.772,Lausanne,Vaud,3,3,"2,3","1,2",2,"1,2",8,"46.5220970,6.6369415",https://www.entraide.ch/fr/vaud/obtenir-une-contribution
+549,Stiftung für eine nachhaltige Ernährung durch die schweizerische Landwirtschaft,CHE-109.749.317,Brugg AG,Aargau,4,"2,3,4","2,3","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.4842317,8.2047270",
+550,Regulus - Gemeinnützige Dachstiftung Königstern,CHE-130.738.654,Chur,Graubünden,5,"1,2,3","1,2,4,5","1,2",2,"1,2","4,5,6,8","46.8522885,9.5333409",
+551,Swiss Philanthropy Foundation,CHE-111.798.093,Genève,Genève,5,3,"1,2",2,2,,8,"46.2062270,6.1417438",http://www.swissphilanthropy.ch/
+552,Armin und Heidi Späni Stiftung,CHE-113.972.433,Kehrsiten,Nidwalden,5,"1,3","1,2,3,4",2,"1,2",,8,"46.9954193,8.3617419",
+553,Fonds für Kulturpflanzenentwicklung,CHE-115.144.140,Feldbach,Zürich,5,"1,2,3,4",2,"1,2",2,"1,2","7,8","47.2393125,8.7883064",http://www.fondskulturpflanze.ch
+554,Stiftung Henriette und Hans-Rudolf Dubach-Bucher,CHE-238.509.595,Luzern,Luzern,5,"1,2,3","2,3,4","1,2",2,2,"2,3,4,5,6,8","47.0653700,8.3106957",
+555,Stiftung WirtschaftsSchule Thun,CHE-109.347.433,Thun,Bern,1,1,4,2,"1,2",,"2,3,4,5,6,7","46.7499831,7.6320373",http://www.wst.ch/die-wst/kommissionen/stiftung-wirtschaftsschule-thun
+556,Fondazione Federico Zichy Thyssen,CHE-292.959.851,Lugano,Ticino,5,"1,2,3,4","2,4",2,2,,5,"46.0073167,8.9501807",
+557,Maya Behn-Eschenburg Stiftung,CHE-114.019.609,Zürich,Zürich,5,"2,3",2,2,"1,2",,"1,2,3,4","47.3698308,8.5438325",
+558,Geneva Agape Foundation (Fondation Agape Genève),CHE-379.581.142,Le Grand-Saconnex,Genève,5,"1,2,3,4",2,2,2,,8,"46.2298655,6.1285697",
+559,JACOBS STIFTUNG,CHE-109.625.477,Zürich,Zürich,5,2,"2,4","1,2","1,2","1,2","1,2,3","47.3597065,8.5480707",http://jacobsfoundation.org/de/
+560,Kairos-Stiftung zur Förderung der Forschung der Beziehungen der Schweiz zum Ausland,CHE-116.308.680,Zürich,Zürich,5,"1,2,3","2,4,5",1,"1,2","1,2",,"47.3721244,8.5392266",
+561,Coralma Stiftung,CHE-114.366.985,Meggen,Luzern,2,"1,2,3",2,"1,2",2,"1,2",8,"47.0537501,8.3928212",
+562,Stiftung der Baloise Bank SoBa zur Förderung der solothurnischen Wirtschaft,CHE-100.660.958,Solothurn,Solothurn,3,"1,2,4",5,"1,2","1,2","1,2,3,4,5,6",8,"47.2090871,7.5337835",https://www.baloise.ch/de/ueber-uns/engagement/stiftung-baloise-bank-soBa.html
+563,Rudolf und Romilda Kägi - Stiftung,CHE-196.407.018,Männedorf,Zürich,2,"1,2,3","2,4","1,2",2,"1,2","5,6,8","47.2481107,8.7009925",
+564,Stiftung Dreiklang für ökologische Forschung und Bildung,CHE-113.977.726,Basel,Basel-Stadt,6,"1,2,3,4","1,2,4","1,2",2,"1,2,3,4,5,6","4,6,7","47.5343410,7.5997798",
+565,YouthAid Foundation,CHE-431.910.176,Zürich,Zürich,5,"1,2,3,4","1,2,4","1,2","1,2","1,2","2,3","47.3693159,8.5397229",
+566,Fondation Lombard Odier,CHE-112.125.175,Genève,Genève,5,"2,3","1,2","1,2","1,2","1,2,3,4,5,6","4,5,6,7,8","46.2029913,6.1435832",http://www.fondationlombardodier.org/
+567,Jacques und Susanna Chauvet Stiftung,CHE-110.412.184,Zürich,Zürich,6,"1,2,3,4",2,2,2,,"2,3,4,5,6","47.3554128,8.5314180",
+568,Stiftung zur Förderung der Berufsausbildung im Strassenbau und in der Strassenverkehrstechnik,CHE-104.015.596,Zürich,Zürich,4,"1,2","1,4,5",2,2,,"6,7","47.3879283,8.5287508",http://www.vss.ch/fileadmin/redacteur/Alle_Files/VSS/VSS_2014.05.07_VSS_Stiftungsurkunde_d-f.pdf
+569,"Fondazione Impiegati del Commercio, Locarno",CHE-179.961.532,Locarno,Ticino,1,1,"2,4",2,"1,2",,5,"46.1667617,8.7952214",
+570,Omega Science Foundation,CHE-101.713.706,Biel/Bienne,Bern,5,"2,3","1,2",1,"1,2","1,2",,"47.1439234,7.2606655",
+571,Stiftung für technologische Innovation - STI,CHE-112.348.539,Biel/Bienne,Bern,4,"1,4","1,2",1,1,"2,3,4,5,6",,"47.1405200,7.2427876",http://sti-stiftung.ch/acms/de/home/home/
+572,Hansdieter und Thildy Kretschmer Stiftung,CHE-109.995.566,Neftenbach,Zürich,5,3,"1,2",2,2,,"2,3,4,5,6","47.5216840,8.6737619",
+573,Fondazione Aldo e Cele Daccò per il progresso,CHE-439.293.157,Lugano,Ticino,2,"1,2,3,4",2,2,2,,"2,3,4,5,6,7","46.0056660,8.9514437",
+574,Gomsinnova-Stiftung,CHE-110.331.031,Binn,Valais,3,"1,3,4","1,4","1,2",2,"1,2,3,4,5,6",8,"46.3639755,8.1839263",
+575,Avina Stiftung,CHE-109.710.083,Hurden,Schwyz,5,"2,3,4","1,2","1,2","1,2","2,3,4,5,6","1,2,3,4,5,6,7","47.2133190,8.8001266",http://www.avinastiftung.ch/de/homepage
+576,Fondation pour l'Infrastructure Durable (FID) (Sustainable Infrastructure Foundation (SIF)),CHE-495.504.732,Genève,Genève,5,"2,3",1,1,1,"1,2,3,4,5,6",,"46.1976586,6.1422332",http://www.public-sif-iiss.org/accueil
+577,"Willy und Margherit Wölfli-Stiftung für den Natur-, Umwelt- und Tierschutz",CHE-110.327.070,Neerach,Zürich,5,"1,3","1,2,4",2,2,,"4,5,6,8","47.5105476,8.4636654",
+578,Greenstyle-Foundation,CHE-184.477.590,Laax GR 2,Graubünden,2,"1,2,3,4",2,2,"1,2",,8,"46.8197971,9.2634725",
+579,Fondation Pictet pour le développement,CHE-114.667.369,Anières,Genève,5,"1,3","2,4",2,"1,2",,5,"46.2747297,6.2201992",https://www.group.pictet/corporate/fr/home/about_pictet/corporate_citizenship/charitable_foundation.html
+580,Pertsiounis Sotiris Stiftung,CHE-115.181.589,Bern,Bern,5,"2,3",2,2,"1,2",,"1,2,3,4,5,6,7,8","46.9487250,7.4553146",
+581,Fondation Dutmala,CHE-447.866.664,Sion,Valais,5,3,1,2,2,,8,"46.2358403,7.3598791",
+582,Stiftung Adrian Girard und dessen Nachkommen Maria Dorer-Girard und Arthur Girard,CHE-101.951.281,Grenchen,Solothurn,1,"1,3","1,2,4",2,2,,"3,4,5,6,7","47.1909612,7.3964567",
+583,Spendenstiftung Bank Vontobel,CHE-110.234.592,Zürich,Zürich,5,"1,2,3","1,2,4","1,2","1,2","1,2","2,3","47.3649922,8.5347557",
+584,Stiftung ProCare,CHE-115.296.301,Zürich,Zürich,6,"2,3","2,3","1,2",2,"2,3","4,5,6,7","47.3753007,8.5201082",
+585,Karelsie Foundation,CHE-252.650.577,Zürich,Zürich,5,3,"1,2","1,2","1,2","1,2","1,2,3","47.3620161,8.5504983",https://karelsie.org/
+586,Dr. Markus Guggenheim-Schnurr-Stiftung für Geschichte der Medizin und der Naturwissenschaften,CHE-101.953.268,Zürich,Zürich,4,"1,4","1,3,5",1,"1,2","1,2",,"47.3762085,8.5456995",http://www.guggenheim-schnurr.ch/
+587,FONDATION INTERNATIONALE GUY DE ROTHSCHILD,CHE-110.410.506,Fribourg,Fribourg,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"46.8011901,7.1516840",
+588,McCall MacBain Foundation,CHE-113.481.678,Genève,Genève,5,"2,3,4",1,"1,2",2,1,8,"46.1982701,6.1437733",http://www.mccallmacbain.org/
+589,Stiftung Res Bona,CHE-110.413.367,Birsfelden,Basel-Landschaft,5,"1,2,3","2,4",1,"1,2","1,2",,"47.5565994,7.6246520",
+590,AGROGEN Stiftung,CHE-106.075.853,Lyssach,Bern,5,"1,2,3,4",2,"1,2","1,2","1,2,3,4,5,6",8,"47.0803238,7.5833182",
+591,Raymund und Esther Breu-Stiftung,CHE-453.525.177,Pratteln,Basel-Landschaft,5,"2,3,4","1,2",2,2,,"1,2,3,4,5,6,7,8","47.5233456,7.7051451",
+592,Maria und Heinrich Th. Uster-Stiftung,CHE-115.247.745,Wädenswil,Zürich,4,3,1,"1,2","1,2",1,"5,6,7","47.2295471,8.6709271",http://www.usterstiftung.ch/
+593,Stiftung Horyzon,CHE-114.638.770,Olten,Solothurn,5,3,2,2,2,,"2,3,4,5,6,7,8","47.3497027,7.9112811",http://www.horyzon.ch/
+594,Fondazione Giorgio Schwarz-Fraissinet,CHE-110.387.623,Vira,Ticino,2,"2,3",2,2,2,,8,"46.1434100,8.8406300",
+595,Schörling Stiftung,CHE-300.436.712,Luzern,Luzern,5,"1,2","2,4",2,2,,8,"47.0465566,8.3044927",
+596,Eidgenössische Stiftung zur Förderung schweizerischer Volkswirtschaft durch wissenschaftliche Forschung,CHE-110.291.851,Zürich,Zürich,4,4,2,1,"1,2","3,4,5,6",,"47.3843230,8.5444566",http://www.volkswirtschaft-stiftung.ch/
+597,Alex Kaufmann Stiftung,CHE-113.236.854,St. Gallen,St. Gallen,2,3,2,2,"1,2",,8,"47.4250716,9.3763122",
+598,The World Jewellery Confederation Educational Foundation - WJCEF,CHE-114.736.444,Bern,Bern,5,4,2,2,2,,8,"46.9485796,7.4467135",http://www.sustainablejewellery.org/index.php?option=com_content&view=article&id=3&Itemid=3
+599,Stiftung Alpines Energieforschungscenter AlpEnForCe,CHE-386.554.268,Disentis/Mustér,Graubünden,2,"1,2,3,4",2,1,1,"1,2",,"46.7064633,8.8550210",
+600,Starr International Foundation,CHE-113.227.200,Zug,Zug,5,"2,3",2,"1,2",2,2,"2,3,4,5,6","47.1787854,8.5180926",
+601,BDN Engiadina Stiftung,CHE-114.439.644,Samedan,Graubünden,2,"1,3","2,4",2,2,,"4,5,6,7,8","46.5325850,9.8712053",
+602,Fondazione Ferdinando e Laura Pica-Alfieri,CHE-110.320.731,Lugano,Ticino,2,"1,2,3,4",2,"1,2",2,"1,2","5,6,8","46.0064870,8.9542347",http://fondazionepicaalfieri.ch/
+603,Fondation pour la protection phytosanitaire,CHE-101.660.607,Cernier,Neuchâtel,4,"2,3","1,2","1,2",2,"1,2,3,4,5,6",8,"47.0586943,6.9081921",
+604,Hildegard Scherrer-Stiftung,CHE-178.628.171,Winterthur,Zürich,6,1,4,"1,2","1,2","1,2","4,5,6","47.4997411,8.7282099",
+605,Josef und Paulette Binkert Stiftung,CHE-109.638.770,Wallisellen,Zürich,4,"1,2,3,4","4,5","1,2",1,3,"4,6,7","47.4156838,8.5821551",
+606,Royal Döner Stiftung,CHE-463.980.471,Winterthur,Zürich,5,"1,2","1,4,5","1,2","1,2",1,"1,2,3,4,5,6,7,8","47.4994357,8.7611271",http://royal-stiftung.ch/
+607,Foundation Eduki, CHE?438.015.845,Genève,Genève,4,"1,2",5,2,2,,"1,2,3,4,8","46.2254997,6.1340639",https://eduki.ch/index.php/de
+608,Marianne & Benno Lüthi Stiftung,CHE-109.914.987,Forch,Zürich,5,"1,2,3","2,4","1,2",2,"1,2","4,5,6","47.3264670,8.6493964",
+609,Fondation des Fondateurs,CHE-113.611.053,Zürich,Zürich,5,"1,2,3,4",1,"1,2","1,2","1,2,3,4,5,6","1,2,3,4,5,6,7","47.3702563,8.5460822",https://www.fondateurs.ch/en/home/?lang=set
+610,LafargeHolcim Foundation for Sustainable Construction,CHE-110.476.586,Zürich,Zürich,5,4,5,1,1,"2,3,4,5,6",,"47.4148845,8.5599939",https://www.lafargeholcim-foundation.org/
+611,MAX KOHLER STIFTUNG,CHE-110.199.613,Zürich,Zürich,5,"1,2,3","1,2,4,5","1,2","1,2","1,2","1,2,3,4,5,6","47.3741677,8.5352094",
+612,Bio-Stiftung Schweiz,CHE-101.822.330,Romanshorn,Thurgau,5,3,3,"1,2",2,"1,2,3,4,5,6","4,5,6,7,8","47.5733647,9.3609305",http://www.bio-stiftung.ch/logicio/pmws/indexDOM.php?client_id=biostiftung&page_id=stiftung&lang_iso639=de
+613,Fondation de l'Orangerie,CHE-114.156.755,Genève,Genève,6,"1,2,3,4",2,2,2,,8,"46.1958748,6.1479578",
+614,Schweizerische Stiftung für Kunststoff-Reintegration,CHE-110.257.624,St. Gallen,St. Gallen,4,"2,3,4","1,2,3","1,2",2,"1,2,3,4,5,6","5,6","47.4126509,9.3407336",
+615,LATOUR - Stiftung für Landwirtschaft und Tourismus,CHE-110.402.547,Davos,Graubünden,2,"1,2,4","2,4",2,2,,"4,5,6,8","46.8325430,9.8577325",
+616,ProTier - Stiftung für Tierschutz und Ethik,CHE-387.401.822,Zürich,Zürich,5,3,1,"1,2",2,1,8,"47.3599213,8.5340559",http://www.protier.ch/site/index.cfm?fuseaction=home.main&vsprache=de
+617,Stiftung zur Förderung der unabhängigen und nachhaltigen Konsumenteninformation,CHE-110.441.501,Kloten,Zürich,4,"2,3,4",2,"1,2",2,"1,2",8,"47.4487673,8.5785430",
+618,Dr. med. Henrich ProVegan Stiftung,CHE-329.948.708,Kreuzlingen,Thurgau,5,"1,3","2,3,4","1,2",2,"2,3",8,"47.6472386,9.1752580",https://www.provegan.info/de/
+619,SWISSCROSS Foundation - eine Stiftung zum Schutz der Opfer von Krieg und Naturkatastrophen,CHE-280.444.853,Zürich,Zürich,5,"1,2,3,4",2,"1,2","1,2","1,2","2,3,4,5,6,7","47.3633331,8.5469811",
+620,Templeton Charity Foundation Switzerland,CHE-207.400.962,Zürich,Zürich,5,3,"2,3",1,"1,2",2,,"47.3657437,8.5260534",http://www.templetonworldcharity.org/
+621,Werner Steinegger Stiftung,CHE-109.808.316,Küsnacht,Zürich,4,"1,4","2,4",1,"1,2","2,3,4,5,6",,"47.3150196,8.5973387",
+622,Ulrich und Klara Huber-Reber-Stiftung,CHE-110.377.731,Basel,Basel-Stadt,2,3,1,"1,2",2,1,8,"47.5521345,7.6004167",
+623,Dr. Henri und Andrée Schramek-Frank Stiftung,CHE-100.675.598,Basel,Basel-Stadt,2,2,1,"1,2",2,1,"5,6","47.5523996,7.5938029",
+624,Robert und Ruth Heuberger-Stiftung,CHE-101.776.049,Winterthur,Zürich,4,"2,3",2,"1,2","1,2","1,2,3,4,5,6",8,"47.5050643,8.7255192",http://www.siska.ch/siska/stiftung/
+625,Fondazione Pellicano,CHE-114.538.878,Lugano,Ticino,5,"2,3,4","1,2,3",2,"1,2",,"1,2,3,4,5,6,7","46.0067271,8.9584157",
+626,Stiftung zur Förderung der Forschung und Ausbildung in Unternehmenswissenschaften an der ETH Zürich,CHE-101.003.237,Zürich,Zürich,3,"1,2","1,4","1,2","1,2","1,2",5,"47.3677948,8.5454725",
+627,Stiftung Akademie für die Wissenschaft der Zukunft in Europa (AFFS),CHE-110.285.566,Bischofszell,Thurgau,5,"1,2,3,4","1,4","1,2",2,"1,2",8,"47.4942713,9.2376077",http://conference.keysofenoch.eu/fr/
+628,Stiftung Gartenbau,CHE-101.713.563,Wädenswil,Zürich,2,2,2,"1,2",2,2,"4,5,6,7","47.2181101,8.6791294",
+629,RAM Active Philanthropy Foundation,CHE-288.441.918,Genève,Genève,5,3,2,"1,2",2,1,8,"46.2037203,6.1486994",http://ram-ai.com/fr/philanthropy/
+630,Ursula Wirz-Stiftung,CHE-113.802.340,Bern,Bern,4,"1,2,3,4","1,2,4,5","1,2","1,2","1,2,3,4,5,6","4,5,6,7","46.9402343,7.4312253",http://www.ursulawirz-stiftung.ch/
+631,TARBACA INDIGO FOUNDATION,CHE-471.310.574,Zürich,Zürich,5,"1,2,3","2,4","1,2","1,2","1,2","4,5,6,7,8","47.3741677,8.5352094",
+632,Albert Koechlin Stiftung AKS,CHE-104.791.714,Luzern,Luzern,2,"1,3","2,5",2,2,,8,"47.0507870,8.3040433",http://www.aks-stiftung.ch/stiftung
+633,Ernst Göhner Stiftung,CHE-108.139.493,Zug,Zug,4,"2,3",2,"1,2","1,2",2,"5,6","47.1621610,8.5138945",http://www.ernst-goehner-stiftung.ch/
+634,Zupo Stiftung,CHE-113.871.708,Herrliberg,Zürich,5,"2,3","1,2","1,2",2,"1,2","1,2,3,4,5,6,7","47.2918942,8.6193265",
+635,Fondation Prix Louis Lachat,CHE-112.668.429,Porrentruy,Jura,3,1,2,"1,2","1,2","1,2,3,4,5,6","5,6","47.4224337,7.0837791",http://www.jciporrentruy.ch/page/pll
+636,Fondation Ernest Dubois,CHE-108.761.356,Saint-Sulpice (VD),Vaud,3,"1,2,3,4","2,5","1,2",2,"1,2,3,4,5,6",8,"46.5154362,6.5668499",http://fondat11.myhostpoint.ch/
+637,Fondation H&B Agerup (H&B Agerup Foundation),CHE-248.803.926,Genève,Genève,5,3,2,2,2,,8,"46.2095320,6.1475095",http://www.fondationhbagerup.org/
+638,Stiftung Mercator Schweiz,CHE-109.528.408,Zürich,Zürich,4,"2,3",2,"1,2",2,"1,2","1,2,3,4,5,6,7,8","47.3678154,8.5324747",http://www.stiftung-mercator.ch/de/stiftung/
+639,Stiftung Basler Kantonalbank zur Förderung von Forschung und Unterricht der Wirtschaftswissenschaften an der Universität Basel,CHE-101.816.743,Basel,Basel-Stadt,3,1,4,"1,2","1,2","1,2",5,"47.5527270,7.5936211",
+640,Fondation Felicia,CHE-257.023.206,Genève,Genève,6,3,"1,2","1,2",2,1,8,"46.2038339,6.1559117",
+641,U21Education Foundation,CHE-286.179.477,Zürich,Zürich,5,1,4,2,"1,2",,"2,3,4,5,6","47.3693159,8.5397229",
+642,"Fondation les pierres, le regard et la nature",CHE-113.907.370,Ménières,Fribourg,4,1,"2,4","1,2",2,1,"1,2,3,4,5,6,7,8","46.7855588,6.8860951",
+643,Zürcher Stiftung für Textil-Forschung,CHE-101.728.719,Winterthur,Zürich,4,"1,2,3,4",2,1,2,"2,3,4",,"47.4852218,8.7067133",
+644,"STIFTUNG EUROPÄISCHES INSTITUT FÜR ÖKOLOGIE UND GESUNDHEIT, ZÜRICH",CHE-115.374.303,Zürich,Zürich,5,"1,2,3,4","1,2,3","1,2",2,2,8,"47.3818149,8.5353261",
+645,International Academy for Multilingual Education and Talent Development in Liquidation,CHE-115.274.966,Zürich,Zürich,5,"2,3","1,2","1,2","1,2","1,2","1,2,3,4,5,6,7,8","47.3700589,8.5450156",
+646,Berufsbildungsstiftung der VSSM-Fachgruppe Holzgerätebau,CHE-101.953.357,Zürich,Zürich,4,1,4,2,2,,7,"47.3800956,8.5539911",
+647,Bernische Radium-Stiftung,CHE-114.757.357,Bern,Bern,4,"1,2,3,4","2,5",1,2,"1,2",,"46.9477341,7.4247622",
+648,Fondation Bernard,CHE-300.099.595,Lausanne,Vaud,5,3,2,"1,2",2,1,8,"46.5181993,6.6379201",
+649,Stiftung Monte Mediterráneo,CHE-113.778.144,Chur,Graubünden,5,1,4,2,2,,8,"46.8479578,9.5324903",http://www.fundacionmontemediterraneo.com/
+650,Fondazione Istituto Leonardo da Vinci,CHE-112.641.459,Lugano,Ticino,5,2,1,2,"1,2",,"2,3,4","46.0006980,8.9491683",http://ldavinci.org/chi-siamo.html
+651,Anna-Maria-Wili-Stiftung,CHE-109.599.035,Kriens,Luzern,5,"1,2","2,4","1,2","1,2","1,2","4,5,6,8","47.0354069,8.2882523",
+652,Stiftung Umweltbildung und Tourismus Uri-Gotthard,CHE-109.810.359,Göschenen,Uri,2,"1,2,3,4",2,2,2,,"1,2,3,4,5,6,7,8","46.6682035,8.5867271",
+653,Brodtbeck Philanthropy Foundation,CHE-169.875.575,Pratteln,Basel-Landschaft,5,"1,3","1,2",2,2,,"4,5,6","47.5256049,7.6838713",
+654,Kodu Stiftung,CHE-110.192.278,Schwyz,Schwyz,4,"2,3","2,3","1,2",2,"1,2","5,6","47.0212859,8.6509289",
+655,Bristol-Stiftung,CHE-104.066.642,Zürich,Zürich,5,3,1,1,2,"1,2,3,4,5,6",,"47.3642174,8.5490462",http://www.bristol-stiftung.ch/
+656,Stiftung Green Ethiopia,CHE-111.702.265,Winterthur,Zürich,5,2,3,2,2,,"2,3,4,5,6,7,8","47.4832253,8.7761976",http://www.greenethiopia.org/cms/de/
