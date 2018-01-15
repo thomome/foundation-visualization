@@ -1,10 +1,10 @@
 {
   "title": "Funding by Swiss Foundations",
-  "scope1": "Phases",
+  "scope1": "Levels / Phases",
   "scope2": "Domain",
   "recipient": "Recipient",
   "grant": "Grant type",
-  "educhain": "Education phases",
+  "educhain": "Education levels",
   "innochain": "Innovation phases",
   "foundation": "Foundation",
   "foundations": "Foundations",
