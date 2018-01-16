@@ -14,3 +14,7 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+<aside class="warning">
+  Die Daten in [/src/data/](/src/data/) sind nicht aktuell, da Datenbankanpassungen nicht in GitHub angepasst werden.
+</aside>
