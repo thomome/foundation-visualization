@@ -15,6 +15,4 @@ npm run dev
 npm run build
 ```
 
-<aside class="warning">
-  Die Daten in `/src/data/` sind nicht aktuell, da Datenbankanpassungen nicht in GitHub angepasst werden.
-</aside>
+Die Daten in `/src/data/` sind nicht aktuell, da Datenbankanpassungen nicht in GitHub angepasst werden.
